@@ -1,0 +1,10 @@
+{
+    "home_url": "https://ZukiMoba.com/home.html",
+    "activity_url": "https://ZukiMoba.com/home.html",
+    "help_url": "https://ZukiMoba.com/home.html",
+    "bbs_url": "https://ZukiMoba.com/forum.php?mod=forumdisplay&fid=80",
+    "share_url": [
+        "https://ZukiMoba.com/?a="
+    ],
+	"icon_url": "http://snowball.cdn.yymoon.com/res/icon2.png"
+}

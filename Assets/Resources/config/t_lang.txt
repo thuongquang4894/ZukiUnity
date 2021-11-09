@@ -1,0 +1,1437 @@
+STRING	STRING	STRING	STRING
+代号	简体中文	Tiếng Việt	English
+t_role_name_101	雪怪	Boss	Boss
+t_role_name_201	小豆豆	Wendy	Wendy
+t_role_name_202	小豆豆	Wendy	Wendy
+t_role_name_203	小豆豆	Wendy	Wendy
+t_role_name_204	小豆豆	Wendy	Wendy
+t_role_name_205	小豆豆	Wendy	Wendy
+t_role_name_206	豆豆	Tracy	Tracy
+t_role_name_207	豆豆	Tracy	Tracy
+t_role_name_208	豆豆	Tracy	Tracy
+t_role_name_209	豆豆	Tracy	Tracy
+t_role_name_210	豆豆	Tracy	Tracy
+t_role_name_211	大豆豆	Cathy	Cathy
+t_role_name_212	大豆豆	Cathy	Cathy
+t_role_name_213	大豆豆	Cathy	Cathy
+t_role_name_214	大豆豆	Cathy	Cathy
+t_role_name_215	大豆豆	Cathy	Cathy
+t_role_name_1001	酷酷	Tommy	Tommy
+t_role_name_1002	妮妮	Annie	Annie
+t_role_name_1003	小狸	Lee	Lee
+t_role_name_1004	浣浣	Betty	Betty
+t_role_name_1005	牛牛	Colin	Colin
+t_role_name_1006	喵酱	Louise	Louise
+t_role_name_1007	乐乐	Jerry	Jerry
+t_role_name_1008	雪儿	Abby	Abby
+t_role_name_2001	甄姬	Shinki	Shinki
+t_role_name_2002	黄盖	Lamothe	Lamothe
+t_role_name_2003	嫦娥	Chang'e	Chang'e
+t_role_name_2004	周瑜	Pasley	Pasley
+t_role_name_2005	武则天	Empress Wu	Empress Wu
+t_role_name_2006	槽里马	Alpaca	Alpaca
+t_role_name_3001	吕布	Killen	Killen
+t_role_name_3002	貂蝉	Banas	Banas
+t_role_name_3003	孙悟空	Monkey King	Monkey King
+t_role_name_3004	紫霞	Jessie	Jessie
+t_role_name_3005	冷风	Husky	Husky
+t_role_name_3006	敖饼	Dragon	Dragon
+t_role_desc_1001	[c2e5ed]敌人都是菜，喀~喀	[c2e5ed] Đến lượt tôi!	[c2e5ed]Now it's my turn!
+t_role_desc_1002	[c2e5ed]带你上天带你飞，带你冲进大雪堆	[c2e5ed] Tôi muốn nói chuyện với bạn.	[c2e5ed]I want a word with you.
+t_role_desc_1003	[c2e5ed]就不能让加班的人多睡会儿吗	[c2e5ed] Đây là một bài kiểm tra.	[c2e5ed]Hmmm... What a test this shall be.
+t_role_desc_1004	[c2e5ed]我仿佛闻到了套路的味道	[c2e5ed] Đã đến lúc bắn!	[c2e5ed]Okay, time for shots!
+t_role_desc_1005	[c2e5ed]公奶牛可不产奶奶，记住了吗	[c2e5ed] Hãy làm đi.	[c2e5ed]Well, let's do it.
+t_role_desc_1006	[c2e5ed]你就是他们口中的最强王者 可别让我失望哦	[c2e5ed] Cố gắng ngăn tôi lại.	[c2e5ed]Just try to stop me.
+t_role_desc_1007	[c2e5ed]哟哟切克闹，煎饼果子来一套	[c2e5ed] Yo ... yo, bắt đầu nào!	[c2e5ed]Yo...yo, here we go!
+t_role_desc_1008	[c2e5ed]原来是老司机呀，带我一程呗	[c2e5ed] Hãy chú ý. Ở quanh đây thôi!	[c2e5ed]Let's have the spotlight. Over here!
+t_role_desc_2001	[c2e5ed]论美貌，你是赢不了我的	[c2e5ed] Hãy lập một kế hoạch chiến đấu.	[c2e5ed]Let's weave a battle plan.
+t_role_desc_2002	[c2e5ed]不要以为老人家好欺负	[c2e5ed] Bạn đã sẵn sàng bước vào trận chiến chưa? Lần truy cập đầu tiên là miễn phí!	[c2e5ed]Who's ready for a fight  The first hit is free!
+t_role_desc_2003	[c2e5ed]别纠缠我，否则那只猪就是你的下场	[c2e5ed] Nếu bạn có thể nhìn thấy tôi, bạn đã chết rồi.	[c2e5ed]If you can see me, you're already dead.
+t_role_desc_2004	[c2e5ed]哈哈哈哈，敌军智商很感人呐	[c2e5ed] Ha ha ha ha! Sự xuất hiện của tôi là kết thúc của họ.	[c2e5ed]Ha ha ha ha! My appearance, their end.
+t_role_desc_2005	[c2e5ed]真是个不懂分寸的仆人，还未明白自己的立场吗	[c2e5ed] Gặp gỡ chủ nhân của bạn, một nữ hoàng vĩ đại.	[c2e5ed]Meet your master, a great queen.
+t_role_desc_2006	[c2e5ed]作为一只神兽，鸭梨超级大	[c2e5ed] Yeah, tôi đang thực sự sôi máu.	[c2e5ed]Yeah, I'm getting me blood up now.
+t_role_desc_3001	[c2e5ed]哼，一个能打的都没有	[c2e5ed] Ai muốn thách đấu tôi?	[c2e5ed]Who questions my ability
+t_role_desc_3002	[c2e5ed]来呀，快活呀	[c2e5ed] Nào cậu bé, hãy vui vẻ đi.	[c2e5ed]Come on boy, let's get some fun.
+t_role_desc_3003	[c2e5ed]休想瞒过俺老孙的火眼金睛	[c2e5ed] Bạn có thể chạy nhưng bạn không thể trốn.	[c2e5ed]You can run but you can't hide.
+t_role_desc_3004	[c2e5ed]当时那把剑只是手滑了，我可不是少女心泛滥	[c2e5ed] Khen ngợi bạn, chủ nhân của tôi.	[c2e5ed]Praise you, my master.
+t_role_desc_3005	[c2e5ed]丢我雪球者，虽远必诛	[c2e5ed] Không kẻ thù nào có thể cản trở nhiệm vụ của tôi!	[c2e5ed]No foe shall stand against my mission!
+t_role_desc_3006	[c2e5ed]龙行天下，唯我独尊	[c2e5ed] Con rồng sẽ không bị từ chối!	[c2e5ed]The dragon will not be denied!
+t_item_name_10011001	酷酷碎片	Tommy Shard	Tommy Shard
+t_item_name_10011002	妮妮碎片	Annie Shard	Annie Shard
+t_item_name_10011003	小狸碎片	Lee Shard	Lee Shard
+t_item_name_10011004	浣浣碎片	Betty Shard	Betty Shard
+t_item_name_10011005	牛牛碎片	Colin Shard	Colin Shard
+t_item_name_10011006	喵酱碎片	Louise Shard	Louise Shard
+t_item_name_10011007	乐乐碎片	Jerry Shard	Jerry Shard
+t_item_name_10011008	雪儿碎片	Abby Shard	Abby Shard
+t_item_name_10012001	甄姬碎片	Shinki Shard	Shinki Shard
+t_item_name_10012002	黄盖碎片	Lamothe Shard	Lamothe Shard
+t_item_name_10012003	嫦娥碎片	Chang'e Shard	Chang'e Shard
+t_item_name_10012004	周瑜碎片	Pasley Shard	Pasley Shard
+t_item_name_10012005	武则天碎片	Empress Wu Shard	Empress Wu Shard
+t_item_name_10012006	槽里马碎片	Alpaca Shard	Alpaca Shard
+t_item_name_10013001	吕布碎片	Killen Shard	Killen Shard
+t_item_name_10013002	貂蝉碎片	Banas Shard	Banas Shard
+t_item_name_10013003	孙悟空碎片	Monkey King Shard	Monkey King Shard
+t_item_name_10013004	紫霞碎片	Jessie Shard	Jessie Shard
+t_item_name_10013005	冷风碎片	Husky Shard	Husky Shard
+t_item_name_10013006	敖饼碎片	Dragon Shard	Dragon Shard
+t_item_name_20010001	冰棍	Kem que	Popsicles
+t_item_name_20010002	雷电球	Quả cầu sét	Lightning Ball
+t_item_name_20010003	滚雪球	Quả cầu tuyết khổng lồ	Huge Snowball
+t_item_name_20010004	墨水球	Chai Venom	Venom Bottle
+t_item_name_20010005	恶魔球	Con dơi ác	Evil Bat
+t_item_name_20010006	暴风雪	Bão tuyết	Snowstorm
+t_item_name_20010007	龙卷风	Lốc xoáy	Tornado
+t_item_name_20010008	陨石	Mảnh thiên thạch	Meteorite
+t_item_name_20010009	烈性炸药	TNT	TNT
+t_item_name_20010010	隐身斗篷	Áo choàng	Cloak
+t_item_name_30010001	随机契约礼包	Gói ma thuật ngẫu nhiên	Random Magic Package
+t_item_name_30010002	契约大礼包	Gói ma thuật	Magic Package
+t_item_name_30010003	普通角色礼包	Gói mảnh vỡ thông thường	Ordinary Shard Package
+t_item_name_30010004	稀有角色礼包	Gói mảnh hiếm	Rare Shard Package
+t_item_name_30010005	史诗角色礼包	Gói Epic Shard	Epic Shard Package
+t_item_name_30010006	稀有皮肤礼包	Gói áo hiếm	Rare Skin Package
+t_item_name_50010001	大喇叭	Kèn Trumpet	Trumpet
+t_item_name_50010002	改名卡	Đổi tên thẻ	Rename Card
+t_item_desc_10011001	[c2e5ed]敌人都是菜，喀~喀####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Giờ đến lượt tôi! #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Now it's my turn!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011002	[c2e5ed]带你上天带你飞，带你冲进大雪堆####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Tôi muốn nói chuyện với bạn. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]I want a word with you.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011003	[c2e5ed]就不能让加班的人多睡会儿吗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Đây sẽ là một bài kiểm tra. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Hmmm... What a test this shall be.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011004	[c2e5ed]我仿佛闻到了套路的味道####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Đã đến lúc bắn! #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Okay, time for shots!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011005	[c2e5ed]公奶牛可不产奶奶，记住了吗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Hãy làm thôi. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Well, let's do it.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011006	[c2e5ed]你就是他们口中的最强王者 可别让我失望哦####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Cố gắng ngăn cản tôi. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Just try to stop me.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011007	[c2e5ed]哟哟切克闹，煎饼果子来一套####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Yo ... yo, bắt đầu nào! #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Yo...yo, here we go!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011008	[c2e5ed]原来是老司机呀，带我一程呗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Hãy chú ý. Ở quanh đây thôi! #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Let's have the spotlight. Over here!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012001	[c2e5ed]论美貌，你是赢不了我的####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Hãy lập một kế hoạch chiến đấu. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Let's weave a battle plan.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012002	[c2e5ed]不要以为老人家好欺负####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Ai đã sẵn sàng chiến đấu Lượt đầu tiên miễn phí! #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Who's ready for a fight  The first hit is free!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012003	[c2e5ed]别纠缠我，否则那只猪就是你的下场####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Nếu bạn có thể nhìn thấy tôi, bạn đã chết. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]If you can see me, you're already dead.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012004	[c2e5ed]哈哈哈哈，敌军智商很感人呐####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Ha ha ha ha! Sự xuất hiện của tôi là kết thúc của họ. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Ha ha ha ha! My appearance, their end.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012005	[c2e5ed]真是个不懂分寸的仆人，还未明白自己的立场吗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Gặp gỡ chủ nhân của bạn, một nữ hoàng vĩ đại. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Meet your master, a great queen.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012006	[c2e5ed]作为一只神兽，鸭梨超级大####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Vâng, tôi đang thực sự sôi máu. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Yeah, I'm getting me blood up now.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013001	[c2e5ed]哼，一个能打的都没有####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Ai muốn thách đấu tôi? #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Who questions my ability ####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013002	[c2e5ed]来呀，快活呀####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Nào các bạn, hãy vui vẻ đi nào. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Come on boy, let's get some fun.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013003	[c2e5ed]休想瞒过俺老孙的火眼金睛####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Bạn có thể chạy nhưng không thể trốn. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]You can run but you can't hide.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013004	[c2e5ed]当时那把剑只是手滑了，我可不是少女心泛滥####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Khen ngợi bạn, chủ nhân của tôi. #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]Praise you, my master.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013005	[c2e5ed]丢我雪球者，虽远必诛####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Không kẻ thù nào ngăn cản nhiệm vụ của tôi! #### [e4ac01] Thu thập các mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]No foe shall stand against my mission!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013006	[c2e5ed]龙行天下，唯我独尊####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed] Con rồng sẽ không bị từ chối! #### [e4ac01] Thu thập mảnh tướng để triệu hồi anh hùng hoặc nâng cấp chúng	[c2e5ed]The dragon will not be denied!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_20010001	[c2e5ed]雪天请人吃冰棍，你确定他不会冻成冰块####[5bd300]技能效果：投掷一根冰棍，命中的敌人会被冻结[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Mời ai đó ăn kem que vào những ngày tuyết rơi, bạn sẽ chắc chắn liệu anh ta có bị đông cứng thành băng hay không #### [5bd300] Kỹ năng chủ động: Ném kem que, kẻ địch trúng đạn sẽ bị đóng băng [-] ### # [e4ac01] Nhặt được Popsicles ở chiến trường, năng lượng càng cao thì sức mạnh của kỹ năng càng lớn	[c2e5ed]Invite someone to have popsicle at snow days, you will sure whether he will be frozen into ice or not####[5bd300]Active Skill: Throw a popsicle, the hit enemy will be frozen[-]####[e4ac01]Pick up Popsicles in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010002	[c2e5ed]给敌人来次永生难忘的电疗吧####[5bd300]技能效果：释放一个会弹跳的雷电球，命中的敌人会被眩晕[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Cung cấp cho kẻ thù một liệu pháp điện không thể nào quên #### [5bd300] Kỹ năng chủ động: Phóng ra một quả cầu nảy, kẻ địch trúng phải sẽ bị chóng mặt [-] #### [e4ac01] Nhặt Lightning Ball trong chiến trường, năng lượng càng cao, sức mạnh của kỹ năng càng lớn	[c2e5ed]Give the enemy an unforgettable electrotherapy####[5bd300]Active Skill: Release a bouncing voltorb, the hit enemy will be dizzy [-]####[e4ac01]Pick up Lightning Ball in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010003	[c2e5ed]不是每个雪球都能投向空中，还是让这个巨无霸滚起来吧####[5bd300]技能效果：向前方推动一个巨大的雪球，对敌人造成伤害，还可以阻挡敌人的雪球[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Không phải mọi quả cầu tuyết đều có thể ném lên không trung, nhận được quả cầu tuyết khổng lồ #### [5bd300] Kỹ năng chủ động: Đẩy quả cầu tuyết khổng lồ về phía trước để gây sát thương lên kẻ địch và chặn quả cầu tuyết của kẻ thù [-] ### # [e4ac01] Nhặt Quả cầu tuyết cực lớn ở chiến trường, năng lượng càng cao thì sức mạnh kỹ năng càng lớn	[c2e5ed]Not every snowball can be thrown into the air, get the giant snowball roll ####[5bd300]Active Skill: Push a giant snowball forward to impose damage on the enemy and block the enemy's snowballs[-]####[e4ac01]Pick up Huge Snowball in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010004	[c2e5ed]如果黑暗突然降临，你很可能是被这东西击中了，劝你变身雪人吧####[5bd300]技能效果：抛出一个墨水球，命中区域内敌人会被致盲，视野丢失[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Nếu bóng tối bất ngờ ập xuống, bạn có thể bị trúng thứ này, bạn nên biến thành người tuyết ngay lập tức #### [5bd300] Kỹ năng chủ động: Ném một chai nọc độc để làm mù kẻ thù trong vùng bị tấn công, dẫn đến mất thị lực của anh ta [-] #### [e4ac01] Nhặt Venom Bottle ở chiến trường, năng lượng càng cao, sức mạnh kỹ năng càng lớn	[c2e5ed]If the darkness suddenly comes down, you may be hit by this thing, it is advised to transform into a snowman rightly####[5bd300]Active Skill: Throw a venom bottle to blind the enemy within the hit region, leading to his loss of vision[-]####[e4ac01]Pick up Venom Bottle in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010005	[c2e5ed]被一群恶魔蝙蝠纠缠时，谁还能保持清醒呢####[5bd300]技能效果：召唤出一群蝙蝠，命中的敌人会进入混乱状态[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Khi vướng vào một bầy dơi quỷ, ai có thể tỉnh táo #### [5bd300] Kỹ năng chủ động: Triệu hồi một nhóm dơi, kẻ địch trúng đạn sẽ rơi vào hỗn loạn [-] #### [e4ac01] Chọn lên Ác Bát chiến trường, năng lượng càng cao, sức mạnh kỹ năng càng lớn.	[c2e5ed]When entangled with a group of devil bats, who can keep awake yet####[5bd300]Active Skill: Summon a group of bats, the hit enemy will enter chaos[-]####[e4ac01]Pick up Evil Bat in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010006	[c2e5ed]让敌人抱怨该死的天气吧，你要做的就是偷着乐####[5bd300]技能效果：召唤一场持续数秒的暴风雪，区域内的敌人会持续受到伤害并被减速[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Để kẻ thù phàn nàn về thời tiết chết tiệt, việc bạn cần làm chỉ là cười #### [5bd300] Kỹ năng chủ động: Triệu hồi một cơn bão tuyết kéo dài trong vài giây, và kẻ địch trong khu vực sẽ tiếp tục bị thương rồi làm chậm [-] #### [e4ac01] Nhặt Bão tuyết ở chiến trường, năng lượng càng cao thì sức mạnh kỹ năng càng lớn	[c2e5ed]Let the enemy complain the damn weather, what you need to do is just laughing####[5bd300]Active Skill: Summon a snowstorm that lasts for a few seconds, and enemies within the region will continue to suffer from injury and then slow down[-]####[e4ac01]Pick up Snowstorm in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010007	[c2e5ed]飞上天的感觉很好，前提是那个人清楚自己会安全着陆####[5bd300]技能效果：释放出一阵呼啸而过的龙卷风，命中的敌人会被吹飞[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Cảm thấy thoải mái khi bay trên không, với điều kiện anh ta phải chú ý hạ cánh an toàn #### [5bd300] Kỹ năng chủ động: Phóng ra một cơn lốc xoáy, kẻ địch trúng phải sẽ bị thổi bay [-] #### [ e4ac01] Nhặt Tornado trong chiến trường, năng lượng càng cao, sức mạnh kỹ năng càng lớn	[c2e5ed]Feel good when flying in the air, provided that he will be aware of safe landing####[5bd300]Active Skill: Release a whistling tornado, the hit enemy will be blown away[-]####[e4ac01]Pick up Tornado in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010008	[c2e5ed]当脚下出现光圈的时候你可得小心，没人被陨石击中后还能生还####[5bd300]技能效果：在地面标记陨石落点，一段延迟后，巨大的陨石从天而降，命中的敌人立即殒命[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Bạn nên cẩn thận hơn khi xuất hiện một lỗ hổng xung quanh chân bạn, không ai có thể còn sống sau khi bị thiên thạch va vào #### [5bd300] Kỹ năng chủ động: Đánh dấu điểm hạ cánh của thiên thạch trên mặt đất, sau một thời gian trì hoãn, một thiên thạch khổng lồ sẽ từ trên trời rơi xuống và kẻ địch trúng đạn sẽ lập tức bỏ mạng [-] #### [e4ac01] Nhặt Thiên thạch ở chiến trường, năng lượng càng cao, sức mạnh kỹ năng càng lớn	[c2e5ed]You shall be more careful when there appears an aperture around your feet, no one can be still alive after hit by the meteorite####[5bd300]Active Skill: Mark the landing point of meteorite on the ground, after a period of delay, a huge meteorite will fall from the sky and the hit enemy will immediately perish [-]####[e4ac01]Pick up Meteorite in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010009	[c2e5ed]快跑！离那颗炸弹远点，这可不是开玩笑####[5bd300]技能效果：投掷一个定时炸弹，炸弹将在落地数秒后产生爆炸[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Chạy! Tránh xa quả bom, đó không phải là trò đùa #### [5bd300] Kỹ năng chủ động: Ném một quả bom hẹn giờ sẽ phát nổ vài giây sau khi hạ cánh [-] #### [e4ac01] Chọn lên TNT trong chiến trường, năng lượng càng cao, sức mạnh kỹ năng càng lớn	[c2e5ed]Run!Keep far away from the bomb, that is not a joke####[5bd300]Active Skill: Throw a time bomb that will explode a few seconds after landing[-]####[e4ac01]Pick up TNT in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_20010010	[c2e5ed]如果你有一件隐身斗篷，你想用它来做什么呢，嘿嘿嘿####[5bd300]技能效果：使用斗篷后，进入隐身状态，持续若干秒，主动攻击或使用技能会现身[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed] Nếu bạn có một chiếc áo choàng tàng hình, bạn muốn làm gì với nó, hey-hey-hey #### [5bd300] Kỹ năng chủ động: Sau khi sử dụng áo choàng, bạn sẽ tàng hình trong vài giây và sẽ hiển thị khi chủ động tấn công hoặc sử dụng kỹ năng [-] #### [e4ac01] Nhặt Áo choàng trong chiến trường, năng lượng càng cao, sức mạnh kỹ năng càng lớn	[c2e5ed]If you have a invisible cloak, what do you want to do with it, hey-hey-hey####[5bd300]Active Skill: After using the cloak, you will be invisible for a few seconds, and will be visible when taking the active attack or using skills[-]####[e4ac01]Pick up Cloak in the battlefield, the higher the energy, the greater the power of skills
+t_item_desc_30010001	[c2e5ed]使用后可随机获得以下契约道具之一：[3defff]冰棍[-]，[3defff]雷电球[-]，[3defff]滚雪球[-]，[3defff]墨水球[-]，[3defff]恶魔球[-]，[3defff]暴风雪[-]，[3defff]龙卷风[-]，[3defff]陨石[-]，[3defff]烈性炸药[-]，[3defff]隐身斗篷[-]	CHƯA	NOTYET
+t_item_desc_30010002	[c2e5ed]使用后可获得以下物品：[3defff]冰棍[-][e4ac01] x 1[-]，[3defff]雷电球[-][e4ac01] x 1[-]，[3defff]滚雪球[-][e4ac01] x 1[-]，[3defff]墨水球[-][e4ac01] x 1[-]，[3defff]恶魔球[-][e4ac01] x 1[-]，[3defff]暴风雪[-][e4ac01] x 1[-]，[3defff]龙卷风[-][e4ac01] x 1[-]，[3defff]陨石[-][e4ac01] x 1[-]	CHƯA	NOTYET
+t_item_desc_30010003	[c2e5ed]使用后可获得5个[3defff]普通[-][c2e5ed]角色碎片	[c2e5ed] Nhận 5 mảnh tướng [-] [c2e5ed] thường	[c2e5ed]Obtain 5[3defff] Ordinary [-][c2e5ed]hero shards
+t_item_desc_30010004	[c2e5ed]使用后可获得5个[ff41da]稀有[-][c2e5ed]角色碎片	[c2e5ed] Nhận 5 mảnh anh hùng [ff41da] hiếm [-] [c2e5ed]	[c2e5ed]Obtain 5[ff41da] Rare [-][c2e5ed]hero shards
+t_item_desc_30010005	[c2e5ed]使用后可获得5个[ffcd00]史诗[-][c2e5ed]角色碎片	[c2e5ed] Nhận 5 mảnh anh hùng [ffcd00] Epic [-] [c2e5ed]	[c2e5ed]Obtain 5[ffcd00] Epic [-][c2e5ed]hero shards
+t_item_desc_30010006	[c2e5ed]使用后可随机获得一款[ff41da]稀有[-][c2e5ed]皮肤	[c2e5ed] Nhận skin [ff41da] Hiếm [-] [c2e5ed] ngẫu nhiên	[c2e5ed]Obtain a random[ff41da] Rare [-][c2e5ed]skin
+t_item_desc_50010001	[c2e5ed]全服喊话道具，使用后可以在大厅界面上方显示你说的话	[c2e5ed] Hỗ trợ trò chuyện đầy đủ dịch vụ, lời nói của bạn sẽ lan tỏa đến tất cả người chơi	[c2e5ed]A full-service chat prop, your words will spread to all players
+t_item_desc_50010002	[c2e5ed]用来更改账号昵称的物品	[c2e5ed] Được sử dụng để thay đổi biệt hiệu của tài khoản	[c2e5ed]Used to change the nickname of the account
+t_item_class01	[3defff]普通	[3defff] Thông thường	[3defff]Ordinary
+t_item_class02	[ff41da]稀有	[ff41da] Hiếm	[ff41da]Rare
+t_item_class03	[ffcd00]史诗	[ffcd00] Sử thi	[ffcd00]Epic
+t_mission_name_10001	单人竞技	Chế độ cận chiến	Melee Mode
+t_mission_desc_10001	个人 部分	CHƯA	NOTYET
+t_avatar_name_1011001	酷酷头像	Tommy Avatar	Tommy Avatar
+t_avatar_name_1011002	妮妮头像	Annie Avatar	Annie Avatar
+t_avatar_name_1011003	小狸头像	Lee Avatar	Lee Avatar
+t_avatar_name_1011004	浣浣头像	Betty Avatar	Betty Avatar
+t_avatar_name_1011005	牛牛头像	Colin Avatar	Colin Avatar
+t_avatar_name_1011006	喵酱头像	Louise Avatar	Louise Avatar
+t_avatar_name_1011007	乐乐头像	Jerry Avatar	Jerry Avatar
+t_avatar_name_1011008	雪儿头像	Abby Avatar	Abby Avatar
+t_avatar_name_1012001	甄姬头像	Shinki Avatar	Shinki Avatar
+t_avatar_name_1012002	黄盖头像	Lamothe Avatar	Lamothe Avatar
+t_avatar_name_1012003	嫦娥头像	Chang'e Avatar	Chang'e Avatar
+t_avatar_name_1012004	周瑜头像	Pasley Avatar	Pasley Avatar
+t_avatar_name_1012005	武则天头像	Empress Wu Avatar	Empress Wu Avatar
+t_avatar_name_1012006	槽里马头像	Alpaca Avatar	Alpaca Avatar
+t_avatar_name_1013001	吕布头像	Killen Avatar	Killen Avatar
+t_avatar_name_1013002	貂蝉头像	Banas Avatar	Banas Avatar
+t_avatar_name_1013003	孙悟空头像	Monkey King Avatar	Monkey King Avatar
+t_avatar_name_1013004	紫霞头像	Jessie Avatar	Jessie Avatar
+t_avatar_name_1013005	冷风头像	Husky Avatar	Husky Avatar
+t_avatar_name_1013006	敖饼头像	Dragon Avatar	Dragon Avatar
+t_avatar_desc1_1011001	[c2e5ed]敌人都是菜，喀~喀	[c2e5ed] Đến lượt tôi!	[c2e5ed]Now it's my turn!
+t_avatar_desc1_1011002	[c2e5ed]带你上天带你飞，带你冲进大雪堆	[c2e5ed] Tôi muốn nói chuyện với bạn.	[c2e5ed]I want a word with you.
+t_avatar_desc1_1011003	[c2e5ed]就不能让加班的人多睡会儿吗	[c2e5ed] Đây là một bài kiểm tra.	[c2e5ed]Hmmm... What a test this shall be.
+t_avatar_desc1_1011004	[c2e5ed]我仿佛闻到了套路的味道	[c2e5ed] Đã đến lúc bắn!	[c2e5ed]Okay, time for shots!
+t_avatar_desc1_1011005	[c2e5ed]公奶牛可不产奶奶，记住了吗	[c2e5ed] Hãy làm đi.	[c2e5ed]Well, let's do it.
+t_avatar_desc1_1011006	[c2e5ed]你就是他们口中的最强王者 可别让我失望哦	[c2e5ed] Hãy cố gắng ngăn tôi lại.	[c2e5ed]Just try to stop me.
+t_avatar_desc1_1011007	[c2e5ed]哟哟切克闹，煎饼果子来一套	[c2e5ed] Yo ... yo, bắt đầu nào!	[c2e5ed]Yo...yo, here we go!
+t_avatar_desc1_1011008	[c2e5ed]原来是老司机呀，带我一程呗	[c2e5ed] Hãy chú ý. Ở quanh đây thôi!	[c2e5ed]Let's have the spotlight. Over here!
+t_avatar_desc1_1012001	[c2e5ed]论美貌，你是赢不了我的	[c2e5ed] Hãy lập một kế hoạch chiến đấu.	[c2e5ed]Let's weave a battle plan.
+t_avatar_desc1_1012002	[c2e5ed]不要以为老人家好欺负	[c2e5ed] Bạn đã sẵn sàng cho trận chiến chưa? Lượt truy cập đầu tiên là miễn phí!	[c2e5ed]Who's ready for a fight  The first hit is free!
+t_avatar_desc1_1012003	[c2e5ed]别纠缠我，否则那只猪就是你的下场	[c2e5ed] Nếu bạn có thể nhìn thấy tôi, bạn đã chết rồi.	[c2e5ed]If you can see me, you're already dead.
+t_avatar_desc1_1012004	[c2e5ed]哈哈哈哈，敌军智商很感人呐	[c2e5ed] Ha ha ha ha! Sự xuất hiện của tôi là kết thúc của họ.	[c2e5ed]Ha ha ha ha! My appearance, their end.
+t_avatar_desc1_1012005	[c2e5ed]真是个不懂分寸的仆人，还未明白自己的立场吗	[c2e5ed] Gặp gỡ chủ nhân của bạn, một nữ hoàng vĩ đại.	[c2e5ed]Meet your master, a great queen.
+t_avatar_desc1_1012006	[c2e5ed]作为一只神兽，鸭梨超级大	[c2e5ed] Vâng, tôi đang thực sự sôi máu.	[c2e5ed]Yeah, I'm getting me blood up now.
+t_avatar_desc1_1013001	[c2e5ed]哼，一个能打的都没有	[c2e5ed] Ai muốn thách đấu tôi?	[c2e5ed]Who questions my ability
+t_avatar_desc1_1013002	[c2e5ed]来呀，快活呀	[c2e5ed] Nào cậu bé, hãy vui vẻ đi.	[c2e5ed]Come on boy, let's get some fun.
+t_avatar_desc1_1013003	[c2e5ed]休想瞒过俺老孙的火眼金睛	[c2e5ed] Bạn có thể chạy nhưng bạn không thể trốn.	[c2e5ed]You can run but you can't hide.
+t_avatar_desc1_1013004	[c2e5ed]当时那把剑只是手滑了，我可不是少女心泛滥	[c2e5ed] Khen ngợi bạn, chủ nhân của tôi.	[c2e5ed]Praise you, my master.
+t_avatar_desc1_1013005	[c2e5ed]丢我雪球者，虽远必诛	[c2e5ed] Không kẻ thù nào có thể ngăn cản nhiệm vụ của tôi!	[c2e5ed]No foe shall stand against my mission!
+t_avatar_desc1_1013006	[c2e5ed]龙行天下，唯我独尊	[c2e5ed] Con rồng sẽ không bị từ chối!	[c2e5ed]The dragon will not be denied!
+t_avatar_desc2_1011001	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac01]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011002	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac02]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011003	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac03]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011004	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac04]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011005	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac05]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011006	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac06]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011007	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac07]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011008	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac08]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012001	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac09]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012002	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac10]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012003	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac11]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012004	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac12]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012005	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac13]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012006	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac14]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013001	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac15]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013002	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac16]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013003	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac17]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013004	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac18]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013005	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac19]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013006	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01] Tự động mở khóa hình đại diện của anh hùng sau khi triệu hồi anh hùng	[e4ac20]Unlock the hero's avatar automatically after summoning the hero
+t_resource_name_1	金币	Vàng	Gold
+t_resource_name_2	钻石	Kim cương	Diamond
+t_resource_name_3	账号经验	Exp	Exp
+t_resource_name_4	雪花	Bông tuyết	Snowflake
+t_resource_name_5	战魂(已删)	Linh hồn	Soul
+t_resource_name_6	奖杯	Cup	Cup
+t_resource_name_7	成就点	Điểm	Point
+t_resource_name_8	活跃度	Năng lượng	Energy
+t_resource_desc_1	[c2e5ed]金币不是万能的，没金币是万万不能的~金币是购买角色碎片，为角色升星的重要资源####[e4ac01]对战结算、开宝箱、签到都可获得金币哦	[c2e5ed] Vàng không phải là tất cả, nhưng không có vàng thì bạn không thể làm gì được. Vàng có thể được sử dụng để mua mảnh tướng, là tài nguyên quan trọng để nâng cấp anh hùng #### [e4ac01] Bạn có thể nhận vàng bằng cách dàn xếp trận chiến, mở rương và đăng nhập	[c2e5ed]Gold is not everything, but without gold you can do nothing. Gold can be used to buy hero shard, as the important resource of heroes' upgrading####[e4ac01]You can get golds by battle settlement, opening the chest and signing in
+t_resource_desc_2	[c2e5ed]亮瞎双眼的钻石，除了能加速解锁宝箱，还可以参与夺宝哦####[e4ac01]充值、签到奖励可获得钻石	[c2e5ed] Những viên kim cương chói lọi có thể được sử dụng để cướp kho báu ngoài việc tăng tốc mở khóa rương #### [e4ac01] Bạn có thể nhận được kim cương bằng cách nạp tiền và đăng nhập	[c2e5ed]Dazzling diamonds can be used to snatch treasures in addition to accelerating the unlocking of chest####[e4ac01]You can obtain diamonds by recharging and signing in
+t_resource_desc_3	[c2e5ed]增加账号经验值能提升账号等级####[e4ac01]账号经验可通过战斗和每日任务获得	[c2e5ed] Có thể nâng cấp cấp tài khoản bằng cách tăng kinh nghiệm tài khoản #### [e4ac01] Kinh nghiệm tài khoản có thể nhận được thông qua chiến đấu và nhiệm vụ hàng ngày	[c2e5ed]The account level can be upgraded by increase account experience####[e4ac01]Account experience can be obtained through combat and daily tasks
+t_resource_desc_4	[c2e5ed]奇特的雪球，炫酷的特效，搞怪的雪炮，有了雪花，一切都轻松搞定####[e4ac01]雪花可通过分享、升级、赛季结算和成就等奖励中获得	[c2e5ed] AMMO tuyệt vời, hiệu ứng sạc thú vị, súng vui nhộn, mọi thứ đều có thể dễ dàng thành công với bông tuyết #### [e4ac01] Bông tuyết có thể nhận được thông qua chia sẻ, nâng cấp, dàn xếp mùa thi đấu và Vinh dự	[c2e5ed]Fantastic AMMOs, cool charge effects, funny guns, everything can be easily worked out with snowflakes####[e4ac01]Snowflake can be obtained through sharing, upgrading, competition season settlements and Honors
+t_resource_desc_5	已删除资源，ID保留	CHƯA	NOTYET
+t_resource_desc_6	测试用	CHƯA	NOTYET
+t_resource_desc_7	测试用	CHƯA	NOTYET
+t_resource_desc_8	[c2e5ed]每日活跃度达到一定数值可以领取奖励####[e4ac01]完成每日任务获得	[c2e5ed] Bạn có thể nhận được phần thưởng khi Năng lượng hàng ngày đạt đến một giá trị nhất định #### [e4ac01] Nhận được bằng cách hoàn thành nhiệm vụ hàng ngày	[c2e5ed]You can receive awards when daily Energy reaches a certain value####[e4ac01]Obtain by completing daily tasks
+t_role_type1	平衡	Cân bằng	Balance
+t_role_type2	力量	Sức mạnh	Strength
+t_role_type3	敏捷	Nhanh nhẹn	Agile
+t_chest_name_1	橡木宝箱	Rương gỗ sồi	Oak Chest
+t_chest_name_2	秘银宝箱	Rương bạc	Silver Chest
+t_chest_name_3	紫金宝箱	Rương vàng Violet	Violet Gold Chest
+t_chest_name_4	赤金宝箱	Rương vàng rắn	Solid Gold Chest
+t_chest_name_5	豪华宝箱	Rương sang trọng	Luxurious Chest
+t_chest_name_6	超级豪华宝箱	Rương lớn Delux 	Super Delux Chest
+t_chest_name_201	战斗宝箱	Rương hàng ngày	Daily Chest
+t_chest_name_301	支援宝箱	Rương cứu trợ	Aid Chest
+t_error_desc_50001	系统错误	Lỗi hệ thống	System Error
+t_error_desc_50002	不存在的gate	Cổng không có lối ra	Gate not exits
+t_error_desc_50003	账号停封，请联系客服	Liên hệ với bộ phận chăm sóc khách hàng để được hỗ trợ	Contact customer service for assistance
+t_error_desc_50004	用户名密码错误	Tên đăng nhập hoặc mật khẩu không chính xác	Incorrect username or password
+t_error_desc_50005	用户已存在	Tên đăng kí đã được sử dụng	Username already exists
+t_error_desc_50006	您已经断开连接	Mất kết nối	Lost connection
+t_error_desc_50007	您的账号在别处登陆	Tài khoản của bạn được đăng nhập trên một thiết bị khác	Your account is logged on another device
+t_error_desc_50008	请休息一下再说话	Hãy nghỉ ngơi và nói chuyện sau	Take a rest and speak later
+t_error_desc_50009	名字存在非法字符	Nhân vật bất hợp pháp	Illegal character
+t_error_desc_50010	登录已过期	Đăng nhập đã hết hạn	Login expired
+t_error_desc_50011	没有该礼包码	Mã quà tặng không tồn tại	Gift code not exists
+t_error_desc_50012	非本平台的礼包码	Mã quà tặng không hợp lệ	Invalid gift code
+t_error_desc_50013	礼包码已被使用	Mã quà tặng đã được sử dụng	Gift code has been used
+t_error_desc_50014	您已领过该类礼包了	Bạn đã nhận được món quà này	You have already claimed this gift
+t_error_desc_50200	队伍已存在	Đội đã tồn tại	Team already exists
+t_error_desc_50201	队伍不存在	Nhóm không tồn tại	Team not exists
+t_error_desc_50202	队伍已满	Các thành viên trong nhóm đã đầy đủ	Team members is full
+t_error_desc_50203	您已在队伍中	Bạn đã ở trong một đội	You are already in a team
+t_error_desc_50204	您不在队伍中	Bạn không ở trong đội	You aren't in the team
+t_error_desc_50205	您不是队长	Bạn không phải là trưởng nhóm	You aren't the team leader
+t_error_desc_50206	对方不在队伍中	Người chơi không có trong đội	The player isn't in the team
+t_error_desc_50207	对方已在队伍中	Người chơi đã ở trong một đội	The player is already in a team
+t_error_desc_50100	对方好友数量已达上限，添加好友失败	Danh sách bạn bè của người chơi đã đầy và không thêm được bạn bè nữa	The player's friend list is full and failed to add friends
+t_error_desc_50101	好友数量已达上限，无法继续添加好友	Danh sách bạn bè của bạn đã đầy và không thêm được bạn bè nữa	Your friend list is full and failed to add friends
+t_error_desc_50102	黑名单数量已达上限	Danh sách đen đã đầy	Blacklist is full
+t_error_desc_50103	已发送好友验证消息，不可重复发送	Đã gửi tin nhắn xác thực và không thể lặp lại	Validation messages sent and cannot repeat
+t_error_desc_50104	对方拒绝添加好友	Người chơi từ chối nhận bất kỳ yêu cầu kết bạn nào từ những người khác	The player refuse to accept any friend requests from others
+t_error_desc_50105	对方拒绝添加好友	Người chơi từ chối nhận bất kỳ lời mời kết bạn nào từ những người khác	The player refuse to accept any friend requests from others
+t_error_desc_50106	对方已在好友列表中，无法重复添加	Người chơi đã là bạn của bạn	The player is already your friend
+t_error_desc_50109	对方今日可领取金币数量超过限制	Người chơi không thể nhận thêm vàng từ quà tặng của bạn bè	The player cannot obtain more gold from friends' gift
+t_achievement_name_101	广聚豪杰	Những anh hùng xuất chúng	Outstanding heroes
+t_achievement_name_102	广聚豪杰	Những anh hùng xuất chúng	Outstanding heroes
+t_achievement_name_103	广聚豪杰	Những anh hùng xuất chúng	Outstanding heroes
+t_achievement_name_104	广聚豪杰	Những anh hùng xuất chúng	Outstanding heroes
+t_achievement_name_105	基情四射	Đam mê cực độ	Full of passion
+t_achievement_name_106	基情四射	Đam mê cực độ	Full of passion
+t_achievement_name_107	基情四射	Đam mê cực độ	Full of passion
+t_achievement_name_108	基情四射	Đam mê cực độ	Full of passion
+t_achievement_name_109	倾城倾国	Empress Dowager	Empress Dowager
+t_achievement_name_110	倾城倾国	Empress Dowager	Empress Dowager
+t_achievement_name_111	倾城倾国	Empress Dowager	Empress Dowager
+t_achievement_name_112	倾城倾国	Empress Dowager	Empress Dowager
+t_achievement_name_113	雪地小伙伴	Những người bạn tuyết	Snow Buddies
+t_achievement_name_114	精英聚集	Trận chiến Elites	Battle Elites
+t_achievement_name_115	精英聚集	Trận chiến Elites	Battle Elites
+t_achievement_name_116	精英聚集	Trận chiến Elites	Battle Elites
+t_achievement_name_117	名人堂	Chiến trường danh vọng	Hall of Fame
+t_achievement_name_118	名人堂	Chiến trường danh vọng	Hall of Fame
+t_achievement_name_119	名人堂	Chiến trường danh vọng	Hall of Fame
+t_achievement_name_201	等级达人	Chuyên gia cấp độ	Level Expert
+t_achievement_name_202	等级达人	Chuyên gia cấp độ	Level Expert
+t_achievement_name_203	等级达人	Chuyên gia cấp độ	Level Expert
+t_achievement_name_301	亲密无间之酷酷	Intimate Tommy	Intimate Tommy
+t_achievement_name_302	亲密无间之妮妮	Intimate Annie	Intimate Annie
+t_achievement_name_303	亲密无间之小狸	Intimate Lee	Intimate Lee
+t_achievement_name_304	亲密无间之浣浣	Intimate Betty	Intimate Betty
+t_achievement_name_305	亲密无间之牛牛	Intimate Colin	Intimate Colin
+t_achievement_name_306	亲密无间之喵酱	Intimate Louise	Intimate Louise
+t_achievement_name_307	亲密无间之乐乐	Intimate Jerry	Intimate Jerry
+t_achievement_name_308	亲密无间之雪儿	Intimate Abby	Intimate Abby
+t_achievement_name_309	亲密无间之甄姬	Intimate Shinki	Intimate Shinki
+t_achievement_name_310	亲密无间之黄盖	Intimate Lamothe	Intimate Lamothe
+t_achievement_name_311	亲密无间之嫦娥	Intimate Chang'e	Intimate Chang'e
+t_achievement_name_312	亲密无间之周瑜	Intimate Pasley	Intimate Pasley
+t_achievement_name_313	亲密无间之武则天	Intimate Empress Wu	Intimate Empress Wu
+t_achievement_name_314	亲密无间之吕布	Intimate Killen	Intimate Killen
+t_achievement_name_315	亲密无间之貂蝉	Intimate Banas	Intimate Banas
+t_achievement_name_316	亲密无间之孙悟空	Intimate Monkey King	Intimate Monkey King
+t_achievement_name_317	亲密无间之紫霞	Intimate Jessie	Intimate Jessie
+t_achievement_name_318	亲密无间之槽里马	Intimate Alpaca	Intimate Alpaca
+t_achievement_name_319	亲密无间之冷风	Intimate Husky	Intimate Husky
+t_achievement_name_320	亲密无间之敖饼	Intimate Dragon	Intimate Dragon
+t_achievement_name_501	终结者	Kẻ hủy diệt	Terminator
+t_achievement_name_502	终结者	Kẻ hủy diệt	Terminator
+t_achievement_name_503	终结者	Kẻ hủy diệt	Terminator
+t_achievement_name_504	终结者	Kẻ hủy diệt	Terminator
+t_achievement_name_505	终结者	Kẻ hủy diệt	Terminator
+t_achievement_name_601	势不可挡	Quá tải	Overwhelming
+t_achievement_name_602	势不可挡	Quá tải	Overwhelming
+t_achievement_name_603	势不可挡	Quá tải	Overwhelming
+t_achievement_name_604	势不可挡	Quá tải	Overwhelming
+t_achievement_name_605	势不可挡	Quá tải	Overwhelming
+t_achievement_name_701	连环击破	Ngắt nối tiếp	Serial Break
+t_achievement_name_702	连环击破	Ngắt nối tiếp	Serial Break
+t_achievement_name_703	连环击破	Ngắt nối tiếp	Serial Break
+t_achievement_name_704	连环击破	Ngắt nối tiếp	Serial Break
+t_achievement_name_705	连环击破	Ngắt nối tiếp	Serial Break
+t_achievement_name_801	全身而退	Thoát hiểm an toàn	Unharmed Escape
+t_achievement_name_901	全场最佳	Tốt nhất trong tất cả	Best of All
+t_achievement_name_902	全场最佳	Tốt nhất trong tất cả	Best of All
+t_achievement_name_903	全场最佳	Tốt nhất trong tất cả	Best of All
+t_achievement_name_904	全场最佳	Tốt nhất trong tất cả	Best of All
+t_achievement_name_905	全场最佳	Tốt nhất trong tất cả	Best of All
+t_achievement_name_1101	球来球挡	Bóng để chặn	Ball to Block
+t_achievement_name_1102	天外浩劫	Sự tàn phá	Havoc
+t_achievement_name_1103	死亡如风	Cơn gió của sự chết chóc	Wind of Death
+t_achievement_name_1104	无处可逃	Không lối thoát	No Escape
+t_achievement_name_1105	雷霆万钧	Kinh ngạc	Thunderstruck
+t_achievement_name_1201	无招胜有招	Phép thuật từ chối	Magic Rejection
+t_achievement_name_1301	道法自然	Bậc thầy pháp thuật	Master of Magic
+t_achievement_name_1401	攻防一体	Tấn công và Phòng thủ	Offense and Defense
+t_achievement_name_1601	雪人必须死	Người tuyết phải chết	Snowman must die
+t_achievement_name_1701	男性公敌	Kẻ thù của nam	Male's Enemy
+t_achievement_name_1702	女性公敌	Kẻ thù của nữ	Female's Enemy
+t_achievement_name_1801	兄弟走好	Tạm biệt anh em	Bye Brothers
+t_achievement_name_1802	辣手摧花	Chảy nước	Deflowering
+t_achievement_name_1901	三国眷侣之貂蝉	3 Vương quốc-Banas	3 Kingdoms-Banas
+t_achievement_name_1902	三国眷侣之吕布	3 Vương quốc-Killen	3 Kingdoms-Killen
+t_achievement_name_1903	西游眷侣之紫霞	Tình yêu-Jessie	Love-Jessie
+t_achievement_name_1904	西游眷侣之悟空	Vua khỉ tình yêu	Love-Monkey King
+t_achievement_name_1905	美人之争之甄姬	Vẻ đẹp -Shinki	Beauty-Shinki
+t_achievement_name_1906	美人之争之貂蝉	Vẻ đẹp -Banas	Beauty-Banas
+t_achievement_name_1907	暴走仙女之嫦娥	Nàng tiên -Chang'e	Fairy-Chang'e
+t_achievement_name_1908	暴走仙女之紫霞	Nàng tiên -Jessie	Fairy-Jessie
+t_achievement_name_1909	真假猴王	Vua khỉ đích thực	True Monkey King
+t_achievement_name_1910	苦肉计	Thủ thuật đánh đập cơ thể	Battered-Body Trick
+t_achievement_name_1911	都督轻点	Bình tĩnh, Pasley	Take easy, Pasley
+t_achievement_name_2001	女王驾到	Nữ hoàng đã đến	Queen Arrived
+t_achievement_name_2101	你死我活	Đã chết hay còn sống	Dead or alive
+t_achievement_name_2102	你死我活	Đã chết hay còn sống	Dead or alive
+t_achievement_name_2103	你死我活	Đã chết hay còn sống	Dead or alive
+t_achievement_name_2201	空中拦截	Đánh chặn đường không	Air Interception
+t_achievement_name_2202	空中拦截	Đánh chặn đường không	Air Interception
+t_achievement_name_2301	料事如神	Tiên tri	Prophet
+t_achievement_name_2302	走位犀利	Di chuyển sắc nét	Sharp Move
+t_achievement_name_2501	秀翻全场	Chương trình hay nhất	Best Show
+t_achievement_name_2502	秀翻全场	Chương trình hay nhất	Best Show
+t_achievement_name_2601	捡漏王	Thợ săn Bargain	Bargain Hunter
+t_achievement_name_2701	全民公敌	Kẻ thù chung	Public Enemy
+t_achievement_name_2702	全民公敌	Kẻ thù chung	Public Enemy
+t_achievement_name_2801	巨人克星	Người khổng lồ Slayer	Giant Slayer
+t_achievement_name_2802	巨人克星	Người khổng lồ Slayer	Giant Slayer
+t_achievement_name_2803	巨人克星	Người khổng lồ Slayer	Giant Slayer
+t_achievement_name_2901	以德服人	Giành chiến thắng bằng đức hạnh	Win by Virtue
+t_achievement_name_3001	孤胆英雄	Anh hùng cô đơn	Lone hero
+t_achievement_name_3002	孤胆英雄	Anh hùng cô đơn	Lone hero
+t_achievement_name_3003	孤胆英雄	Anh hùng cô đơn	Lone hero
+t_achievement_name_3004	孤胆英雄	Anh hùng cô đơn	Lone hero
+t_achievement_name_3005	孤胆英雄	Anh hùng cô đơn	Lone hero
+t_achievement_name_3201	以牙还牙	Sự trả thù	Retaliation
+t_achievement_name_3202	以牙还牙	Sự trả thù	Retaliation
+t_achievement_name_3301	破釜沉舟	Khu nghỉ dưỡng cuối cùng	Last Resort
+t_achievement_name_3401	无处可藏	Không nơi ẩn dấu	Nowhere to Hide
+t_achievement_name_3402	无处可藏	Không nơi ẩn dấu	Nowhere to Hide
+t_achievement_name_3501	奖杯达人	Chuyên gia Cúp	Cup Expert
+t_achievement_name_3502	奖杯达人	Chuyên gia Cúp	Cup Expert
+t_achievement_name_3503	奖杯达人	Chuyên gia Cúp	Cup Expert
+t_achievement_name_3504	奖杯达人	Chuyên gia Cúp	Cup Expert
+t_achievement_name_3505	奖杯达人	Chuyên gia Cúp	Cup Expert
+t_achievement_name_13011	团队精英	Nhóm Elite	Team Elite
+t_achievement_name_13012	团队精英	Nhóm Elite	Team Elite
+t_achievement_name_13013	团队精英	Nhóm Elite	Team Elite
+t_achievement_name_13014	团队精英	Nhóm Elite	Team Elite
+t_achievement_name_13015	团队精英	Nhóm Elite	Team Elite
+t_achievement_desc_101	拥有5个角色	Có 5 anh hùng	Have 5 heroes
+t_achievement_desc_102	拥有10个角色	Có 10 anh hùng	Have 10 heroes
+t_achievement_desc_103	拥有15个角色	Có 15 anh hùng	Have 15 heroes
+t_achievement_desc_104	拥有20个角色	Có 20 anh hùng	Have 20 heroes
+t_achievement_desc_105	拥有5位男性角色	Có 5 anh hùng nam	Have 5 male heroes
+t_achievement_desc_106	拥有10位男性角色	Có 10 anh hùng nam	Have 10 male heroes
+t_achievement_desc_107	拥有15位男性角色	Có 15 anh hùng nam	Have 15 male heroes
+t_achievement_desc_108	拥有20位男性角色	Có 20 anh hùng nam	Have 20 male heroes
+t_achievement_desc_109	拥有5位女性角色	Có 5 nữ anh hùng	Have 5 female heroes
+t_achievement_desc_110	拥有10位女性角色	Có 10 nữ anh hùng	Have 10 female heroes
+t_achievement_desc_111	拥有15位女性角色	Có 15 nữ anh hùng	Have 15 female heroes
+t_achievement_desc_112	拥有20位女性角色	Có 20 nữ anh hùng	Have 20 female heroes
+t_achievement_desc_113	拥有8名普通角色	Có 8 anh hùng thông thường	Have 8 ordinary heroes
+t_achievement_desc_114	拥有2名稀有角色	Có 2 anh hùng hiếm	Have 2 rare heroes
+t_achievement_desc_115	拥有4名稀有角色	Có 4 anh hùng hiếm	Have 4 rare heroes
+t_achievement_desc_116	拥有6名稀有角色	Có 6 anh hùng hiếm	Have 6 rare heroes
+t_achievement_desc_117	拥有1名史诗角色	Có 1 anh hùng sử thi	Have 1 epic hero
+t_achievement_desc_118	拥有3名史诗角色	Có 3 anh hùng sử thi	Have 3 epic heroes
+t_achievement_desc_119	拥有5名史诗角色	Có 5 anh hùng sử thi	Have 5 epic heroes
+t_achievement_desc_201	账号等级达到10级	Đạt đến cấp 10	Reach to Level 10
+t_achievement_desc_202	账号等级达到20级	Đạt đến cấp 20	Reach to Level 20
+t_achievement_desc_203	账号等级达到30级	Đạt đến cấp 30	Reach to Level 30
+t_achievement_desc_301	酷酷升至5星	Nâng cấp Tommy lên 5 sao	Upgrade Tommy to 5 stars
+t_achievement_desc_302	妮妮升至5星	Nâng cấp Annie lên 5 sao	Upgrade Annie to 5 stars
+t_achievement_desc_303	小狸升至5星	Nâng cấp Lee lên 5 sao	Upgrade Lee to 5 stars
+t_achievement_desc_304	浣浣升至5星	Nâng cấp Betty lên 5 sao	Upgrade Betty to 5 stars
+t_achievement_desc_305	牛牛升至5星	Nâng cấp Colin lên 5 sao	Upgrade Colin to 5 stars
+t_achievement_desc_306	喵酱升至5星	Nâng cấp Louise lên 5 sao	Upgrade Louise to 5 stars
+t_achievement_desc_307	乐乐升至5星	Nâng cấp Jerry lên 5 sao	Upgrade Jerry to 5 stars
+t_achievement_desc_308	雪儿升至5星	Nâng cấp Abby lên 5 sao	Upgrade Abby to 5 stars
+t_achievement_desc_309	甄姬升至5星	Nâng cấp Shinki lên 5 sao	Upgrade Shinki to 5 stars
+t_achievement_desc_310	黄盖升至5星	Nâng cấp Lamothe lên 5 sao	Upgrade Lamothe to 5 stars
+t_achievement_desc_311	嫦娥升至5星	Nâng cấp Chang'e lên 5 sao	Upgrade Chang'e to 5 stars
+t_achievement_desc_312	周瑜升至5星	Nâng cấp Pasley lên 5 sao	Upgrade Pasley to 5 stars
+t_achievement_desc_313	武则天升至5星	Nâng cấp Hoàng hậu Wu lên 5 sao	Upgrade Empress Wu to 5 stars
+t_achievement_desc_314	吕布升至5星	Nâng cấp Killen lên 5 sao	Upgrade Killen to 5 stars
+t_achievement_desc_315	貂蝉升至5星	Nâng cấp Banas lên 5 sao	Upgrade Banas to 5 stars
+t_achievement_desc_316	孙悟空升至5星	Nâng cấp Monkey King lên 5 sao	Upgrade Monkey King to 5 stars
+t_achievement_desc_317	紫霞升至5星	Nâng cấp Jessie lên 5 sao	Upgrade Jessie to 5 stars
+t_achievement_desc_318	槽里马升至5星	Nâng cấp Alpaca lên 5 sao	Upgrade Alpaca to 5 stars
+t_achievement_desc_319	冷风升至5星	Nâng cấp Husky lên 5 sao	Upgrade Husky to 5 stars
+t_achievement_desc_320	敖饼升至5星	Nâng cấp Dragon lên 5 sao	Upgrade Dragon to 5 stars
+t_achievement_desc_501	累计击败其他玩家200次	Giết người khác tổng cộng 200 lần	Kill others 200 times in total
+t_achievement_desc_502	累计击败其他玩家500次	Giết người khác tổng cộng 500 lần	Kill others 500 times in total
+t_achievement_desc_503	累计击败其他玩家1000次	Giết người khác tổng cộng 1000 lần	Kill others 1000 times in total
+t_achievement_desc_504	累计击败其他玩家2000次	Giết người khác tổng cộng 2000 lần	Kill others 2000 times in total
+t_achievement_desc_505	累计击败其他玩家5000次	Giết người khác tổng cộng 5000 lần	Kill others 5000 times in total
+t_achievement_desc_601	一局对战中击败其他玩家8次	Giết người khác 8 lần trong một trò chơi	Kill others 8 times in one game
+t_achievement_desc_602	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_achievement_desc_603	一局对战中击败其他玩家12次	Giết người khác 12 lần trong một trò chơi	Kill others 12 times in one game
+t_achievement_desc_604	一局对战中击败其他玩家14次	Giết người khác 14 lần trong một trò chơi	Kill others 14 times in one game
+t_achievement_desc_605	一局对战中击败其他玩家16次	Giết người khác 16 lần trong một trò chơi	Kill others 16 times in one game
+t_achievement_desc_701	一局对战中连续击败6名玩家	Giết người khác 6 lần mà không chết trong một trò chơi	Kill others 6 times with no death in one game
+t_achievement_desc_702	一局对战中连续击败7名玩家	Giết người khác 7 lần mà không chết trong một trò chơi	Kill others 7 times with no death in one game
+t_achievement_desc_703	一局对战中连续击败8名玩家	Giết người khác 8 lần mà không chết trong một trò chơi	Kill others 8 times with no death in one game
+t_achievement_desc_704	一局对战中连续击败9名玩家	Giết người khác 9 lần mà không chết trong một trò chơi	Kill others 9 times with no death in one game
+t_achievement_desc_705	一局对战中连续击败10名玩家	Giết người khác 10 lần mà không chết trong một trò chơi	Kill others 10 times with no death in one game
+t_achievement_desc_801	一局大乱斗中没有死亡过	Không bao giờ chết trong một trò chơi	Never die in one game
+t_achievement_desc_901	大乱斗，获得10次第一名	Đạt tổng cộng 10 lần No.1 trong cuộc ẩu đả	Get No.1 10 times total in scuffle
+t_achievement_desc_902	大乱斗，获得50次第一名	Đạt tổng cộng 50 lần No.1  trong cuộc ẩu đả	Get No.1 50 times total in scuffle
+t_achievement_desc_903	大乱斗，获得100次第一名	Đạt  tổng số 100 lần No.1 trong cuộc ẩu đả	Get No.1 100 times total in scuffle
+t_achievement_desc_904	大乱斗，获得200次第一名	Đạt  tổng cộng 200 lần No.1 trong cuộc ẩu đả	Get No.1 200 times total in scuffle
+t_achievement_desc_905	大乱斗，获得300次第一名	Đạt  tổng cộng 300 lần No.1 trong cuộc ẩu đả	Get No.1 300 times total in scuffle
+t_achievement_desc_1101	使用滚雪球单次抵消掉敌人的3次雪球	Sử dụng quả cầu tuyết khổng lồ để bù đắp 3 AMMO của kẻ thù trong một lần bắn	Use huge snowball to offset enemies' 3 AMMOs at one shot
+t_achievement_desc_1102	使用陨石单次击败2名敌人	Sử dụng thiên thạch để giết 2 kẻ thù cùng một lúc	Use meteorite to kill 2 enemies at one shot
+t_achievement_desc_1103	使用龙卷风单次吹飞3名敌人	Sử dụng lốc xoáy để thổi tung 3 kẻ thù cùng một lúc	Use tornado to blow up 3 enemies at one shot
+t_achievement_desc_1104	使用暴风雪单次击败2名敌人	Sử dụng bão tuyết để giết 2 kẻ thù cùng một lúc	Use snowstorm to kill 2 enemies at one shot
+t_achievement_desc_1105	使用闪电球单次命中3名敌人	Sử dụng bóng chiếu sáng để đánh 3 kẻ thù cùng một lúc	Use lighting ball to hit 3 enemies at one shot
+t_achievement_desc_1201	不使用任何技能的情况下完成一局对战	Hoàn thành một trận chiến mà không cần sử dụng kỹ năng	Complete one battle without using skills
+t_achievement_desc_1301	一局对战中只使用技能击败敌人	Chỉ sử dụng các kỹ năng để tiêu diệt kẻ thù trong một trò chơi	Only use skills to kill enemies in one game
+t_achievement_desc_1401	使用滚雪球抵挡敌人雪球100次	Sử dụng quả cầu tuyết khổng lồ để bù đắp tổng cộng 100 AMMO của kẻ thù	Use huge snowball to offset enemies' 100 AMMOs in total
+t_achievement_desc_1601	普通雪球命中雪人500次	Sử dụng AMMO để đánh người tuyết 500 lần	Use AMMO to hit snowman 500 times
+t_achievement_desc_1701	一局对战中击败男性角色8次	Giết các anh hùng nam 8 lần trong một trò chơi	Kill male heroes 8 times in one game
+t_achievement_desc_1702	一局对战中击败女性角色8次	Giết các nữ anh hùng 8 lần trong một trò chơi	Kill female heroes 8 times in one game
+t_achievement_desc_1801	一局对战中只击败男性角色，且不低于5次	Chỉ giết các anh hùng nam ít nhất 5 lần trong một trò chơi	Kill male heroes only at least 5 times in one game
+t_achievement_desc_1802	一局对战中只击败女性角色，且不低于5次	Chỉ giết các nữ anh hùng ít nhất 5 lần trong một trò chơi	Kill female heroes only at least 5 times in one game
+t_achievement_desc_1901	使用貂蝉击败吕布50次	Sử dụng Banas để giết Killen 50 lần	Use Banas to kill Killen 50 times
+t_achievement_desc_1902	使用吕布击败貂蝉50次	Sử dụng Killen để giết Banas 50 lần	Use Killen to kill Banas 50 times
+t_achievement_desc_1903	使用紫霞击败孙悟空50次	Dùng Jessie để giết Monkey King 50 lần	Use Jessie to kill Monkey King 50 times
+t_achievement_desc_1904	使用孙悟空击败紫霞50次	Sử dụng Monkey King để giết Jessie 50 lần	Use Monkey King to kill Jessie 50 times
+t_achievement_desc_1905	使用甄姬击败貂蝉50次	Sử dụng Shinki để giết Banas 50 lần	Use Shinki to kill Banas 50 times
+t_achievement_desc_1906	使用貂蝉击败甄姬50次	Sử dụng Banas để giết Shinki 50 lần	Use Banas to kill Shinki 50 times
+t_achievement_desc_1907	使用嫦娥击败紫霞50次	Dùng Chang'e để giết Jessie 50 lần	Use Chang'e to kill Jessie 50 times
+t_achievement_desc_1908	使用紫霞击败嫦娥50次	Dùng Jessie để giết Chang'e 50 lần	Use Jessie to kill Chang'e 50 times
+t_achievement_desc_1909	使用孙悟空击败孙悟空50次	Sử dụng Monkey King để giết Monkey King 50 lần	Use Monkey King to kill Monkey King 50 times
+t_achievement_desc_1910	使用周瑜击败黄盖50次	Dùng Pasley để giết Lamothe 50 lần	Use Pasley to kill Lamothe 50 times
+t_achievement_desc_1911	使用黄盖击败周瑜50次	Dùng Lamothe để giết Pasley 50 lần	Use Lamothe to kill Pasley 50 times
+t_achievement_desc_2001	使用武则天击败男性角色50次	Sử dụng Empress Wu để giết các anh hùng nam 50 lần	Use Empress Wu to kill male heroes 50 times
+t_achievement_desc_2101	一局对战中击败同一名玩家5次	Giết cùng một người chơi 5 lần trong một trò chơi	Kill the same player 5 times in one game
+t_achievement_desc_2102	一局对战中击败同一名玩家7次	Giết cùng một người chơi 7 lần trong một trò chơi	Kill the same player 7 times in one game
+t_achievement_desc_2103	一局对战中击败同一名玩家10次	Giết cùng một người chơi 10 lần trong một trò chơi	Kill the same player 10 times in one game
+t_achievement_desc_2201	击败5次空中的敌人	Giết kẻ thù trên không 5 lần	Kill enemies in air 5 times
+t_achievement_desc_2202	击败10次空中的敌人	Giết kẻ thù trong không trung 10 lần	Kill enemies in air 10 times
+t_achievement_desc_2301	单次致盲状态下击败1名敌人	Giết 1 kẻ thù trong trạng thái mù	Kill 1 enemy in blind state
+t_achievement_desc_2302	单次混乱状态下击败1名敌人	Giết 1 kẻ thù trong trạng thái hỗn loạn	Kill 1 enemy in chaotic state
+t_achievement_desc_2501	一局对战中自己生命值低于10%状态下击败2名敌人	Giết 2 kẻ thù khi HP của bạn <10% trong một trò chơi	Kill 2 enemies while your HP<10% in one game
+t_achievement_desc_2502	一局对战中自己生命值低于10%状态下击败3名敌人	Giết 3 kẻ thù khi HP của bạn <10% trong một trò chơi	Kill 3 enemies while your HP<10% in one game
+t_achievement_desc_2601	一局对战中补刀3名生命值低于20%敌人	Gây đòn cuối cùng cho 3 kẻ thù có HP <20% trong một trò chơi	Give the last hit to 3 enemies with HP<20% in one game
+t_achievement_desc_2701	一局对战中击败过4名不同敌人	Giết 4 kẻ thù khác nhau trong một trò chơi	Kill 4 different enemies in one game
+t_achievement_desc_2702	一局对战中击败过5名不同敌人	Giết 5 kẻ thù khác nhau trong một trò chơi	Kill 5 different enemies in one game
+t_achievement_desc_2801	一局大乱斗中击败排行第一名的敌人3次	Giết kẻ địch xếp hạng NO.1 3 lần trong cuộc ẩu đả	Kill the enemy ranking NO.1 3 times in scuffle
+t_achievement_desc_2802	一局大乱斗中击败排行第一名的敌人4次	Giết kẻ địch xếp hạng NO.1 4 lần trong cuộc ẩu đả	Kill the enemy ranking NO.1 4 times in scuffle
+t_achievement_desc_2803	一局大乱斗中击败排行第一名的敌人5次	Giết kẻ thù xếp hạng NO.1 5 lần trong cuộc ẩu đả	Kill the enemy ranking NO.1 5 times in scuffle
+t_achievement_desc_2901	一局大乱斗中不击败任何人获得第一名	Đạt No.1 mà không giết bất cứ ai trong cuộc ẩu đả	Get No.1 without killing anyone in scuffle
+t_achievement_desc_3001	累计参加50局大乱斗	Chơi ẩu đả 50 lần	Play the scuffle 50 times
+t_achievement_desc_3002	累计参加100局大乱斗	Chơi ẩu đả 100 lần	Play the scuffle 100 times
+t_achievement_desc_3003	累计参加300局大乱斗	Chơi ẩu đả 300 lần	Play the scuffle 300 times
+t_achievement_desc_3004	累计参加500局大乱斗	Chơi ẩu đả 500 lần	Play the scuffle 500 times
+t_achievement_desc_3005	累计参加1000局大乱斗	Chơi ẩu đả 1000 lần	Play the scuffle 1000 times
+t_achievement_desc_3201	死亡状态下击败1名敌人	Giết 1 kẻ thù trong trạng thái chết	Kill 1 enemy in dead state
+t_achievement_desc_3202	死亡状态下击败2名敌人	Giết 2 kẻ thù trong trạng thái chết	Kill 2 enemies in dead state
+t_achievement_desc_3301	一局大乱斗中不使用变雪人获得第一名	Đạt No.1 mà không cần sử dụng người tuyết trong cuộc ẩu đả	Get No.1 without using snowman in scuffle
+t_achievement_desc_3401	一局对战中于草丛外击败藏身草丛中的2名敌人	Giết 2 kẻ thù bên trong cỏ khi bạn ở bên ngoài trong một trò chơi	Kill 2 enemies inside grass while you are outside in one game
+t_achievement_desc_3402	一局对战中于草丛外击败藏身草丛中的3名敌人	Giết 3 kẻ thù bên trong cỏ khi bạn ở bên ngoài trong một trò chơi	Kill 3 enemies inside grass while you are outside in one game
+t_achievement_desc_3501	达到白金奖杯	Đạt đến Cúp bạch kim	Reach to Platinum Cup
+t_achievement_desc_3502	达到钻石奖杯	Đạt cúp kim cương	Reach to Diamond Cup
+t_achievement_desc_3503	达到大师奖杯	Đạt đến cúp Master 	Reach to Master Cup
+t_achievement_desc_3504	达到冰魂奖杯	Tiếp cận với Sprite Cup	Reach to Sprite Cup
+t_achievement_desc_3505	达到至尊奖杯	Đạt cúp tối cao	Reach to Supreme Cup
+t_achievement_desc_13011	累计参加50局雪地会战	Chơi xung đột tuyết 50 lần	Play the snow conflict 50 times
+t_achievement_desc_13012	累计参加100局雪地会战	Chơi xung đột 100 lần	Play the conflict 100 times
+t_achievement_desc_13013	累计参加300局雪地会战	Chơi xung đột 300 lần	Play the conflict 300 times
+t_achievement_desc_13014	累计参加500局雪地会战	Chơi xung đột 500 lần	Play the conflict 500 times
+t_achievement_desc_13015	累计参加1000局雪地会战	Chơi xung đột 1000 lần	Play the conflict 1000 times
+t_attr_desc_1	[c2e5ed]紫金宝箱获得概率提升[ff8a00]{N1}%[-]	[c2e5ed] Tỷ lệ của rương vàng Violet [ff8a00] + {N1}% [-]	[c2e5ed]Violet Gold Chest's rate [ff8a00]+{N1}%[-]
+t_attr_desc_2	[c2e5ed]赤金宝箱获得概率提升[ff8a00]{N1}%[-]	[c2e5ed] Tỷ lệ Rương Vàng Rắn [ff8a00] + {N1}% [-]	[c2e5ed]Solid Gold Chest's rate [ff8a00]+{N1}%[-]
+t_attr_desc_3	[c2e5ed]稀有角色升星所需金币减少[ff8a00]{N1}%[-]	[c2e5ed] Vàng nâng cấp hiếm [ff8a00] - {N1}% [-]	[c2e5ed]Gold of rare upgrading [ff8a00]-{N1}%[-]
+t_attr_desc_4	[c2e5ed]史诗角色升星所需金币减少[ff8a00]{N1}%[-]	[c2e5ed] Vàng nâng cấp sử thi [ff8a00] - {N1}% [-]	[c2e5ed]Gold of epic upgrading [ff8a00]-{N1}%[-]
+t_attr_desc_5	[c2e5ed]宝箱内获得的金币增加[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed] Vàng từ Rương [ff8a00] + {N1} [-]	[c2e5ed]Gold from Chest [ff8a00]+{N1}[-]
+t_attr_desc_6	[c2e5ed]宝箱解锁时间减少[ff8a00]{N1}%[-]	[c2e5ed] Mở khóa thời gian rương [ff8a00] - {N1}% [-]	[c2e5ed]Unlocking chest time [ff8a00]-{N1}%[-]
+t_attr_desc_7	[c2e5ed]战斗结算金币增加[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed] Vàng sau trận chiến [ff8a00] + {N1} [-]	[c2e5ed]Gold after battle [ff8a00]+{N1}[-]
+t_attr_desc_8	[c2e5ed]每周战斗金币上限[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed] Vàng chiến đấu hàng tuần [ff8a00] + {N1} [-]	[c2e5ed]Weekly fight gold [ff8a00]+{N1}[-]
+t_attr_desc_9	签到奖励[ff8a00]{N1}[-]倍	Phần thưởng đăng nhập [ff8a00] x {N1} [-]	Sign-in rewards [ff8a00]x{N1}[-]
+t_attr_desc_10	赛季结算奖励[ff8a00]{N1}[-]倍	Phần thưởng dàn xếp mùa giải [ff8a00] x {N1} [-]	Season settlement rewards [ff8a00]x{N1}[-]
+t_battle_attr_desc_1	生命 +{N1}	Hp + {N1}	Health +{N1}
+t_battle_attr_desc_2	生命 +{N1}%	Hp + {N1}%	Health +{N1}%
+t_battle_attr_desc_3	攻击 +{N1}	Tấn công + {N1}	Attack +{N1}
+t_battle_attr_desc_4	攻击 +{N1}%	Tấn công + {N1}%	Attack +{N1}%
+t_battle_attr_desc_5	防御 +{N1}	Phòng thủ + {N1}	Defense +{N1}
+t_battle_attr_desc_6	防御 +{N1}%	Phòng thủ + {N1}%	Defense +{N1}%
+t_battle_attr_desc_7	移速 +{N1}	Tốc độ di chuyển + {N1}	Move Speed +{N1}
+t_battle_attr_desc_8	移速 +{N1}%	Tốc độ di chuyển + {N1}%	Move Speed +{N1}%
+t_battle_attr_desc_9	暴击率 +{N1}%	Cảnh cáo quan trọng + {N1}%	Critical Strike +{N1}%
+t_battle_attr_desc_10	每秒回复生命 +{N1}	Tái tạo Hp+ {N1}	Health Regeneration  +{N1}
+t_battle_attr_desc_11	每秒回复生命 +{N1}%	Tái tạo Hp + {N1}%	Health Regeneration +{N1}%
+t_battle_attr_desc_12	普通雪球射程 +{N1}	Phạm vi + {N1}	Range +{N1}
+t_battle_attr_desc_13	普通雪球射程 +{N1}%	Phạm vi + {N1}%	Range +{N1}%
+t_battle_attr_desc_14	对敌人造成伤害 +{N1}%	Thiệt hại + {N1}%	Damage +{N1}%
+t_battle_attr_desc_15	伤害减免 +{N1}%	Giảm thiệt hại + {N1}%	Damage Reduction +{N1}%
+t_battle_attr_desc_16	技能伤害增加 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_17	对技能减伤 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_18	无视防御概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_19	击杀回复生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_20	击杀回复生命 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_21	免疫控制概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_22	免疫普攻概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_23	技能冷却时间减少 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_24	变雪人冷却时间减少 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_25	控制敌人时间延长 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_26	释放技能回复生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_27	释放技能回复至满生命值概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_28	技能冷却期间减伤 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_29	对技能释放者反弹伤害 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_30	释放技能免除冷却概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_31	拾取水晶额外积分 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_32	拾取水晶额外积分 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_33	物品拾取范围 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_34	拾取水晶回复生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_35	血瓶回复量 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_36	拾取能力球增加积分 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_37	能力雪球最大等级提升 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_38	死亡后积分保留 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_39	普攻生命偷取 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_40	技能生命偷取 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_41	每损失20%生命攻击增加 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_42	技能每飞行1米伤害增加 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_43	拾取能力球升2级概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_44	拾取技能球升2级概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_45	拾取水晶2倍积分概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_46	普通雪球伤害增加 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_47	男性生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_48	女性生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_49	男性生命 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_50	女性生命 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_51	男性攻击 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_52	女性攻击 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_53	男性攻击 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_54	女性攻击 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_55	男性防御 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_56	女性防御 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_57	男性防御 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_58	女性防御 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_59	男性移速 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_60	女性移速 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_61	男性移速 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_62	女性移速 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_63	男性射程 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_64	女性射程 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_65	男性射程 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_66	女性射程 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_67	男性增伤 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_68	女性增伤 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_69	男性减伤 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_70	女性减伤 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_71	击杀所得积分 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_72	普通雪球伤害 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_73	每损失20%生命攻击 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_74	普通雪球命中回复生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_75	每10000积分攻击 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_76	每10000积分生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_77	拾取能力雪球回复生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_78	护盾抵挡伤害次数 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_79	拾取能力雪球获得护盾概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_80	攻击与自己拥有相同技能的目标伤害 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_81	每击杀一名敌人生命 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_82	每击杀一名敌人生命 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_83	每击杀一名敌人攻击 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_84	每击杀一名敌人攻击 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_85	每击杀一名敌人防御 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_86	每击杀一名敌人防御 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_87	每击杀一名敌人移速 +{N1}	CHƯA	NOTYET
+t_battle_attr_desc_88	每击杀一名敌人移速 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_89	对自己当前的技能免疫概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_90	受到伤害增加 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_91	普攻散射概率 +{N1}%	CHƯA	NOTYET
+t_battle_attr_desc_101	致盲	Mù	Blind
+t_battle_attr_desc_102	晕眩	Choáng váng	Stun
+t_battle_attr_desc_103	混乱	Hỗn loạn	Chaotic
+t_battle_attr_desc_104	冻结	Đông cứng	Frozen
+t_battle_attr_desc_105	对自己当前的技能免疫	Miễn dịch chính tả	Spell Immunity
+t_battle_attr_desc_106	无敌	Bất khả xâm phạm	Invulnerable
+t_battle_attr_desc_107	无敌冷却	Làm mát bất khả xâm phạm	Invulnerable Cooling
+t_battle_attr_desc_108	隐身	Bất khả chiến bại	Invincible
+t_talent_desc1_1	攻击 [f4e45d]{N1}[-] 级	Tấn công Lv. [F4e45d] {N1} [-]	Attack Lv.[f4e45d]{N1}[-]
+t_talent_desc1_2	生命 [f4e45d]{N1}[-] 级	HP cấp độ [f4e45d] {N1} [-]	HP Lv.[f4e45d]{N1}[-]
+t_talent_desc1_3	射程 [f4e45d]{N1}[-] 级	Phạm vi Lv. [F4e45d] {N1} [-]	Range Lv.[f4e45d]{N1}[-]
+t_talent_desc1_4	移速 [f4e45d]{N1}[-] 级	Tốc độ di chuyển Lv. [F4e45d] {N1} [-]	Move Speed Lv.[f4e45d]{N1}[-]
+t_talent_desc1_5	减伤 [f4e45d]{N1}[-] 级	Giảm sát thương cấp độ [f4e45d] {N1} [-]	Damage Reduction Lv.[f4e45d]{N1}[-]
+t_talent_desc1_6	射速 [f4e45d]{N1}[-] 级	Tốc độ đánh Lv. [F4e45d] {N1} [-]	Attack Speed Lv.[f4e45d]{N1}[-]
+t_talent_desc1_7	蓄力 [f4e45d]{N1}[-] 级	Tính phí Lv. [F4e45d] {N1} [-]	Charge Lv.[f4e45d]{N1}[-]
+t_talent_desc1_8	暴击 [f4e45d]{N1}[-] 级	Cảnh cáo Trọng yếu cấp độ [f4e45d] {N1} [-]	Critical Strike Lv.[f4e45d]{N1}[-]
+t_talent_desc1_9	吸血 [f4e45d]{N1}[-] 级	Đánh cắp sự sống Lv. [F4e45d] {N1} [-]	Life Steal Lv.[f4e45d]{N1}[-]
+t_talent_desc1_10	回复 [f4e45d]{N1}[-] 级	Lv phục hồi [f4e45d] {N1} [-]	Recovery Lv.[f4e45d]{N1}[-]
+t_talent_desc1_11	散射 [f4e45d]{N1}[-] 级	Tỷ lệ phân tán Lv. [F4e45d] {N1} [-]	Scattering Rate Lv.[f4e45d]{N1}[-]
+t_talent_desc2_1	攻击 [57FC5B]+{N2}%	Tấn công [57FC5B] + {N2}%	Attack [57FC5B]+{N2}%
+t_talent_desc2_2	生命 [57FC5B]+{N2}%	Hp [57FC5B] + {N2}%	Health [57FC5B]+{N2}%
+t_talent_desc2_3	射程 [57FC5B]+{N2}	Phạm vi [57FC5B] + {N2}	Range [57FC5B]+{N2}
+t_talent_desc2_4	移速 [57FC5B]+{N2}%	Tốc độ di chuyển [57FC5B] + {N2}%	Move Speed [57FC5B]+{N2}%
+t_talent_desc2_5	减伤 [57FC5B]+{N2}%	Giảm sát thương [57FC5B] + {N2}%	Damage Reduction [57FC5B]+{N2}%
+t_talent_desc2_6	射速 [57FC5B]+{N2}%	Tốc độ tấn công [57FC5B] + {N2}%	Attack Speed [57FC5B]+{N2}%
+t_talent_desc2_7	蓄力时间 [57FC5B]-{N2}%	Thời gian sạc [57FC5B] - {N2}%	Charge Time [57FC5B]-{N2}%
+t_talent_desc2_8	暴击率 [57FC5B]+{N2}%	Cảnh cáo nghiêm trọng [57FC5B] + {N2}%	Critical Strike [57FC5B]+{N2}%
+t_talent_desc2_9	吸血 [57FC5B]+{N2}%	Đánh cắp sự sống [57FC5B] + {N2}%	Life Steal [57FC5B]+{N2}%
+t_talent_desc2_10	每秒回血 [57FC5B]+{N2}%	Tái tạo sức khỏe [57FC5B] + {N2}%	Health Regeneration [57FC5B]+{N2}%
+t_talent_desc2_11	散射率 [57FC5B]+{N2}%	Tỷ lệ phân tán [57FC5B] + {N2}%	Scattering Rate [57FC5B]+{N2}%
+t_role_skill_name_1001	【赏金猎人】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_1002	【天真烂漫】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_1003	【深藏不露】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_1004	【精准打击】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_1005	【自给自足】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_1006	【愈战愈勇】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_1007	【欢快节奏】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_1008	【伪装高手】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_2001	【洛神寒冰】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_2002	【老当益壮】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_2003	【月光庇护】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_2004	【卓尔不凡】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_2005	【女帝天威】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_2006	【卧乐割草】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_3001	【天下无双】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_3002	【夺命红颜】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_3003	【齐天大圣】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_3004	【逍遥仙女】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_3005	【使命必达】	[Kỹ năng II]	[Skill II]
+t_role_skill_name_3006	【龙息之风】	[Kỹ năng II]	[Skill II]
+t_role_skill_desc_1001	“丰厚的报酬才是高手存在的理由！”酷酷如是说。拾取水晶增加额外[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的能量	Phần thưởng lớn là lý do cho các bậc thầy! Tommy nói. Thu thập tinh thể để tăng thêm năng lượng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-])	Great rewards are the reason for masters! Tommy says. Collect crystal to increase additional energy of [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-])
+t_role_skill_desc_1002	妮妮是雪地里的小可爱，活蹦乱跳的她拾取水晶额外回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）生命值	Annie dễ thương trong tuyết, lượm lặt pha lê. Khôi phục [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) HP	Annie is cute in the snow, collecting crystal friskily. Recover [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP
+t_role_skill_desc_1003	别被小狸慵懒的样子迷惑了，他可是钻空子好手，小狸释放道具技能回复[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的生命值	Đừng khó hiểu trước sự lười biếng của Lee, anh ấy rất giỏi tận dụng sơ hở. [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) HP được phục hồi thông qua các công cụ phát hành	Don't be puzzled by Lee's laziness, he is good at taking  advantage of the loophole. [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) HP is recovered through releasing tools
+t_role_skill_desc_1004	浣浣擅长远距离击败对手，她的普通雪球每飞行3米增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的伤害	Betty rất giỏi trong việc tiêu diệt đối thủ từ khoảng cách xa và sát thương [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) sẽ được tăng lên khi AMMO của cô ấy bay 3 mét mỗi lần	Betty is good at killing opponent from far distance, and damage of  [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) will be increased when her AMMO flies 3 meters each time
+t_role_skill_desc_1005	虽然牛牛看上去一脸稚气，但是他可不好惹，牛牛击败敌人后，回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）生命值	Mặc dù Colin có vẻ ngoài trẻ con nhưng anh ấy không dễ làm phật lòng. [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) HP sẽ được phục hồi sau khi tiêu diệt kẻ thù	Although Colin looks childish, he is not easy to offend. [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP will be recovered after killing enemies
+t_role_skill_desc_1006	喵酱是为了挑战强者而来，一旦有所突破便势如破竹，每次击败敌人都会为她带来[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）移速提升	Louise đang đến cho kẻ thách thức. Một khi anh ấy bứt phá, nó sẽ tiếp tục như thế chẻ tre. [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) tốc độ di chuyển được tăng lên khi tiêu diệt kẻ thù	Louise is coming for challenger. Once he makes breakthrough, it will continue to do that like splitting the bamboo. [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) move speed is lifted when killing enemies
+t_role_skill_desc_1007	乐乐嗨翻全场，普攻命中敌人后造成额外的[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）伤害	Jerry là kẻ mạnh nhất, cho kẻ thù thêm [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) sát thương bằng đòn đánh thường	Jerry is the most powerful, giving enemies extra [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) damage by ordinary attack
+t_role_skill_desc_1008	也许是因为名字里有雪吧，雪儿变雪人的冷却时间总是比其他人少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）哦	Thời gian làm mát khi Abby trở thành người tuyết ít hơn [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) so với những người khác	The cooling time when Abby becomes a snowman is less [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) than others
+t_role_skill_desc_2001	甄姬这样的冰雪美人对冰棍可是情有独钟呢，释放[3defff]冰棍[-]分裂为多支，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）冰棍射程	Người đẹp tuyết Shinki yêu thích Popsicles, phát hành [3defff] Popsicles [-] để chia nhỏ hơn và tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) Phạm vi Popsicles	Snow beauty Shinki loves Popsicles, releasing [3defff]Popsicles[-] to split more and increasing [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) Popsicles range
+t_role_skill_desc_2002	黄盖推动的可不是简单的雪球，释放[3defff]滚雪球[-]变成一个能穿越地面障碍的大铁球，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）铁球滚动速度	Lamothe di chuyển không phải một quả bóng đơn giản, giải phóng [3defff] Quả cầu tuyết khổng lồ [-] để trở thành một quả cầu sắt có thể vượt qua chướng ngại vật trên mặt đất với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [ -]) tốc độ lăn được nâng lên	Lamothe moves not a simple ball, releasing [3defff]Huge Snowball[-] to become a iron ball which can come cross the ground obstacle with[ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) rolling speed lifted
+t_role_skill_desc_2003	嫦娥获得月光的祝福，[3defff]隐身[-]技能期间每秒回复生命值，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）隐身时间	Chang'e nhận được những lời chúc tốt đẹp nhất từ ​​ánh trăng. HP của cô ấy được hồi mỗi giây sau khi [3defff] Áo choàng [-] được sử dụng với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) thời gian tàng hình tăng lên	Chang'e receives best wishes from moonlight. Her HP is recovered per second after [3defff]Cloak[-] used with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) stealth time increased
+t_role_skill_desc_2004	周瑜都督将它擅长的火攻融合进现代化武器中，释放[3defff]烈性炸药[-]落地后立即爆炸，对敌人施加燃烧状态（被攻击时受到更高伤害），并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）爆炸范围	Pasley kết hợp đòn tấn công bằng hỏa lực với súng hiện đại hóa, giải phóng [3defff] TNT [-] phát nổ sau khi rơi trên mặt đất và thực hiện trạng thái bốc cháy (chịu sát thương cao hơn khi bị tấn công) với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) phạm vi nổ đã tăng	Pasley combines fire attack with modernized guns, releasing [3defff]TNT[-] which explodes after falling on the ground and implementing burning state (to suffer from higher damage when being attacked) with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) explosion range increased
+t_role_skill_desc_2005	武则天是真命天女，释放[3defff]陨石[-]时会在地面先引起一片岩浆地带，减速区域内敌人，每秒造成伤害，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）陨石范围	Wu là nữ hoàng đầu tiên, giải phóng [3defff] Meteorite [-] để tạo ra vùng magma và làm tổn thương kẻ thù mỗi giây với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) phạm vi thiên thạch tăng	Wu is the first empress, releasing [3defff]Meteorite[-] to generate magma zone and hurt enemies per second with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) meteorite range increased
+t_role_skill_desc_2006	释放[3defff]恶魔球[-]时对身边范围内所有敌人造成混乱，并造成额外的[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）伤害	Gây hỗn loạn cho tất cả kẻ thù xung quanh khi giải phóng [3defff] Dơi ác [-] với thêm [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) sát thương	To make chaos for all around the enemies when releasing [3defff]Evil Bat[-] with extra [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) damage
+t_role_skill_desc_3001	吕布武艺天下无双，威风凛凛，释放[3defff]龙卷风[-]变为一阵威力强劲的旋风，旋风中的敌人收到减速效果，并被气压吸引至中心，旋风造成[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）额外伤害	Killen là bất khả xâm phạm trong Kungfu, giải phóng [3defff] Tornado [-] để trở thành một cơn lốc mạnh, trong đó kẻ địch nhận được hiệu ứng làm chậm sẽ bị dẫn đến trung tâm bởi áp suất không khí. Lốc xoáy gây thêm [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) sát thương	Killen is invulnerable in Kungfu, releasing [3defff]Tornado[-] to become a powerful cyclone, in which the enemies receive slowing effect to be led to centre by air pressure. The cyclone causes [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) extra damage
+t_role_skill_desc_3002	貂蝉小姐姐释放[3defff]墨水球[-]会在地面留下一团毒雾，对毒雾内敌人持续造成伤害，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）毒雾范围	Banas giải phóng [3defff] Venom Bottle [-] để tạo ra sương mù độc hại trên mặt đất và liên tục làm tổn thương kẻ địch với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) phạm vi khói độc tăng lên	Banas releases [3defff]Venom Bottle[-] to generate toxic smog on the ground and hurt enemies continuously with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) toxic smog range increased
+t_role_skill_desc_3003	大圣归来，神挡杀神，佛挡杀佛，悟空释放[3defff]雷电球[-]在地面形成一片雷暴区域，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）雷暴范围	Monkey King, người không ngại khó khăn, quay lại thả [3defff] Lightning Ball [-] xuống mặt đất để tạo ra vùng giông bão với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2} % [-]) phạm vi giông bão đã tăng	Monkey King, who is not afraid of any difficulty, returns to release [3defff]Lightning Ball[-] to on the ground to generate thunderstorms zone with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) thunderstorms range increased
+t_role_skill_desc_3004	紫霞使用仙术将天火引导至雪地，释放[3defff]暴风雪[-]变为区域内的火雨降临，对敌人施加燃烧状态（被攻击时受到更高伤害），火雨造成[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）额外伤害	Jessie sử dụng phụng vụ để dẫn lửa bầu trời đến chiến trường, giải phóng [3defff] Bão tuyết [-] trở thành mưa thiêu đốt và thực hiện trạng thái thiêu đốt lên kẻ thù (chịu sát thương cao hơn khi bị tấn công) với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) sát thương thêm	Jessie uses theurgy to lead sky fire to battlefield, releasing [3defff]Snowstorm[-] to become burning rain, and implementing burning state on enemies (to suffer from higher damage when being attacked) with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) extra damage
+t_role_skill_desc_3005	冷风将[3defff]烈性炸药[-]改装成一颗会附着在敌人身上的定时炸弹，数秒后在敌人身上引爆，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）爆炸范围	Husky cải tiến [3defff] TNT [-] thành một quả bom hẹn giờ gắn vào kẻ thù, phát nổ trong vài giây ngắn ngủi với phạm vi nổ tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-])	Husky refits [3defff]TNT[-] into a time bomb attached to enemies, detonating in sever seconds with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) explosion range increased
+t_role_skill_desc_3006	释放[3defff]龙卷风[-]时将身边敌人吹散并造成伤害，在地面形成持续数秒的回复区域，对自己和友军进行治疗，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）回复范围	Thổi bay kẻ thù để làm chúng bị thương khi giải phóng [3defff] Tornado [-], và tạo thành vùng hồi phục để điều trị cho đồng đội với [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [- ]) phạm vi phục hồi tăng lên	Blow away the enemies to hurt them when releasing [3defff]Tornado[-], and form a recovery zone to make treatment for allies with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) recovery range increased
+t_role_buff_name_1001	【月神赐福】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1008	【筋斗云】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1013	【聚精会神】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1016	【洛神】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1031	【事半功倍】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1035	【法术抵抗】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1046	【人中吕布】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1052	【女权至上】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1069	【倾国倾城】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1007	【活蹦乱跳】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1073	【背水一战】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_1026	【飞龙乘云】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_3001	【寻宝学徒】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_3002	【寻宝精英】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_3003	【星之学徒】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_3004	【星之精英】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_3005	【鉴宝专家】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_3006	【时空使者】	[Kỹ năng I]	[Skill I]
+t_role_buff_name_3007	【战场之星】	[Kỹ năng I]	[Skill I]
+t_role_buff_desc_1001	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点生命	Tất cả các anh hùng đều tăng [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) HP khi chiến đấu	All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP in fight
+t_role_buff_desc_1008	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）移动速度	Tất cả các anh hùng đều tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) tốc độ di chuyển trong chiến đấu	All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) move speed in fight
+t_role_buff_desc_1013	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球的射程	Tất cả các anh hùng đều tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) phạm vi AMMO thông thường trong chiến đấu	All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) ordinary AMMO range in fight
+t_role_buff_desc_1016	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能伤害	Tất cả các anh hùng đều tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) s	All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) skill damage in fight
+t_role_buff_desc_1031	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）拾取水晶的能量	Tất cả các anh hùng đều tăng [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) năng lượng thu thập tinh thể trong chiến đấu	All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) energy of collecting crystal in fight
+t_role_buff_desc_1035	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能减伤	Tất cả các anh hùng đều tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) giảm sát thương trong giao tranh	All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) damage reduction in fight
+t_role_buff_desc_1046	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球伤害	Tất cả các anh hùng đều tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) sát thương AMMO thông thường trong giao tranh	All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) ordinary AMMO damage in fight
+t_role_buff_desc_1052	女性角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点攻击	Các nữ anh hùng tăng [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) tấn công trong giao tranh	Female heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) attack in fight
+t_role_buff_desc_1069	所有角色在战斗时减少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）来自男性角色造成的伤害	Tất cả các anh hùng giảm [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) sát thương từ các anh hùng nam trong cuộc chiến	All the heroes reduce [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) damage from male heroes in fight
+t_role_buff_desc_1007	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）移动速度	Tất cả các anh hùng đều tăng [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) tốc độ di chuyển trong chiến đấu	All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) move speed in fight
+t_role_buff_desc_1073	所有角色在战斗时每损失20%生命增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）攻击	Tất cả các anh hùng tăng [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) tấn công mỗi khi mất 20% HP trong cuộc chiến	All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) attack every 20% HP loss in fight
+t_role_buff_desc_1026	所有角色在战斗时释放技能回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点生命	Tất cả các anh hùng giải phóng [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) HP để phục hồi kỹ năng trong chiến đấu	All the heroes release [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP for skill recovery in fight
+t_role_buff_desc_3001	增加战斗后紫金宝箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的获得概率	Tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) xác suất thăng hoa Violet Gold Chest sau khi chiến đấu	Increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) probability ascension of Violet Gold Chest after fight
+t_role_buff_desc_3002	增加战斗后赤金宝箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的获得概率	Tăng [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) xác suất thăng Rương vàng sau trận chiến	Increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) probability ascension of Solid Gold Chest after fight
+t_role_buff_desc_3003	减少所有稀有角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星时所需的金币	Giảm vàng khi nâng cấp [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) của tất cả Giá vé	Reduce gold for upgrade [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) of all the Rares
+t_role_buff_desc_3004	减少所有史诗角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星时所需的金币	Giảm vàng khi nâng cấp [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) của tất cả các Epics	Reduce gold for upgrade [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) of all the Epics
+t_role_buff_desc_3005	所有宝箱打开可获得额外[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金币	Mở tất cả các Rương để nhận thêm [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) vàng	Open all the Chests to get extra [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) gold
+t_role_buff_desc_3006	所有宝箱减少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的解锁时间	Tất cả các Rương giảm [ff8a00] {N1}% [-] (Nâng cấp [f4e45d] + {N2}% [-]) thời gian mở khóa	All the Chests reduce [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) unlocking time
+t_role_buff_desc_3007	所有角色在战斗结算时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金币	Tất cả các anh hùng đều tăng [ff8a00] {N1} [-] (Nâng cấp [f4e45d] + {N2} [-]) vàng khi giải quyết trong giao tranh	All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) gold during settlement in fight
+t_sign_name_1	第一天	Ngày 1	Day 1
+t_sign_name_2	第二天	Ngày 2	Day 2
+t_sign_name_3	第三天	Ngày 3	Day 3
+t_sign_name_4	第四天	Ngày 4	Day 4
+t_sign_name_5	第五天	Ngày 5	Day 5
+t_sign_name_6	第六天	Ngày 6	Day 6
+t_sign_name_7	第七天	Ngày 7	Day 7
+t_toukuang_name_1	蓝色基调	Keynote màu xanh lam	Blue Keynote
+t_toukuang_name_2	红色激情	Đam mê sắc đỏ	Red Passion
+t_toukuang_name_3	金色年华	Thời hoàng kim	Golden Age
+t_toukuang_name_101	生命礼赞	Thi thiên về cuộc sống	Life Psalm
+t_toukuang_name_102	风暴之轮	Bánh xe bão	Wheel of Storm
+t_toukuang_name_103	钻石星尘	Bụi kim cương	Diamond Dust
+t_toukuang_name_104	永恒冻土	Vùng đất băng giá	Frozen Soil
+t_toukuang_name_105	地狱烈火	Lửa địa ngục	Hell Fire
+t_toukuang_name_106	2018情人节	Ngày lễ tình nhân 2018	2018 Valentine's Day
+t_toukuang_name_201	月卡会员	Thành viên thẻ tháng	Month Card Member
+t_toukuang_name_202	年卡会员	Thành viên thẻ năm	Year Card Member
+t_toukuang_desc1_1	[c2e5ed]简约，但不简单	[c2e5ed] Đơn giản, nhưng không dễ dàng	[c2e5ed]Simple, but not easy
+t_toukuang_desc1_2	[c2e5ed]热情满满的头像框	[c2e5ed] Vành đại diện nhiệt tình	[c2e5ed]Enthusiastic avatar rim
+t_toukuang_desc1_3	[c2e5ed]金色的头像框很符合你的气质呢	[c2e5ed] Vành avatar màu vàng phù hợp với khí chất của bạn	[c2e5ed]The golden avatar rim suits for your temperament
+t_toukuang_desc1_101	[c2e5ed]和风如煦，万物复苏，来自生命的礼赞####获得后，永久增加出战角色10点生命	[c2e5ed] Gió thổi nhẹ khiến mọi thứ hồi phục #### Thêm: Sức khỏe [ff8a00] +10 [-] trong khi giao tranh ngay cả khi không sử dụng vành	[c2e5ed]The wind blows gently with everything recovering####Extra: Health [ff8a00]+10[-] during fight even the rim is not using
+t_toukuang_desc1_102	[c2e5ed]死亡如风，常伴汝身####获得后，永久增加龙卷风5%技能伤害	[c2e5ed] Cái chết giống như gió, luôn ở bên bạn. #### Thêm: [3defff] Sát thương của Tornado [-] [ff8a00] +5% [-] trong trận chiến ngay cả khi vành đai không được sử dụng	[c2e5ed]Death is like the wind, always by your side.####Extra: [3defff]Tornado[-]'s damage [ff8a00]+5%[-] during fight even the rim is not using
+t_toukuang_desc1_103	[c2e5ed]做一个让人羡慕嫉妒恨的钻石王老五吧####获得后，永久增加1%赤金宝箱获得概率	[c2e5ed] Trở thành một Golden Bachelor đáng ghen tị #### Thêm: [ff8a00] +1% [-] xác suất thăng Rương Vàng Rắn sau trận chiến	[c2e5ed]To be an enviable Golden Bachelor####Extra: [ff8a00]+1%[-] probability ascension of Solid Gold Chest after fight
+t_toukuang_desc1_104	[c2e5ed]这是无法被战胜的寒冷####获得后，永久增加暴风雪5%技能伤害	[c2e5ed] Đây là cái lạnh bất khả chiến bại #### Thêm: [3defff] Sát thương của Bão tuyết [-] [ff8a00] +5% [-] trong khi giao tranh ngay cả khi không sử dụng vành	[c2e5ed]This is invincible cold####Extra: [3defff]Snowstorm[-]'s damage [ff8a00]+5%[-] during fight even the rim is not using
+t_toukuang_desc1_105	[c2e5ed]火焰，将会吞噬一切####获得后，永久增加出战角色1%攻击	[c2e5ed] Ngọn lửa sẽ nuốt chửng mọi thứ #### Thêm: Tấn công [ff8a00] +1% [-] trong khi chiến đấu ngay cả khi không sử dụng vành đai	[c2e5ed]The fire will devour everything####Extra: Attack [ff8a00]+1%[-] during fight even the rim is not using
+t_toukuang_desc1_106	[c2e5ed]真爱无悔，一生一世####获得后，永久增加出战角色1%暴击	[c2e5ed] Tình yêu đích thực không hối tiếc #### Thêm: Đòn đánh chí mạng [ff8a00] +1% [-] trong khi chiến đấu ngay cả khi vành đai không được sử dụng	[c2e5ed]True love without regret####Extra: Critical Strike [ff8a00]+1%[-] during fight even the rim is not using
+t_toukuang_desc1_201	[c2e5ed]月卡会员特权：##减少宝箱解锁时间20%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed] Đặc quyền của Thẻ Tháng ## Mở khóa thời gian rương -20% ## Phần thưởng đăng nhập x3 ## Phần thưởng giải quyết mùa x2 ## Phần thưởng hàng ngày	[c2e5ed]Privileges of Month Card##Unlocking chest time -20%##Sign-in rewards x3##Season settlement rewards x2##Daily reward
+t_toukuang_desc1_202	[c2e5ed]年卡会员特权：##减少宝箱解锁时间30%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed] Đặc quyền của Thẻ năm ## Mở khóa thời gian rương -20% ## Phần thưởng đăng nhập x3 ## Phần thưởng giải quyết mùa giải x2 ## Phần thưởng hàng ngày	[c2e5ed]Privileges of Year Card##Unlocking chest time -20%##Sign-in rewards x3##Season settlement rewards x2##Daily reward
+t_toukuang_desc2_1	初始头像框	Vành mặc định	Default rim
+t_toukuang_desc2_2	[e4ac01]成就等级4可领取此头像框	[e4ac01] Danh dự bắt buộc Lv.4	[e4ac01]Required Honor Lv.4
+t_toukuang_desc2_3	[e4ac01]成就等级7可领取此头像框	[e4ac01] Danh dự bắt buộc Lv.7	[e4ac01]Required Honor Lv.7
+t_toukuang_desc2_101	[e4ac01]成就等级10可领取此头像框	[e4ac01] Yêu cầu Vinh dự Lv.10	[e4ac01]Required Honor Lv.10
+t_toukuang_desc2_102	[e4ac01]成就等级13可领取此头像框	[e4ac01] Danh dự bắt buộc Lv.13	[e4ac01]Required Honor Lv.13
+t_toukuang_desc2_103	[e4ac01]成就等级16可领取此头像框	[e4ac01] Danh dự bắt buộc Lv.16	[e4ac01]Required Honor Lv.16
+t_toukuang_desc2_104	[e4ac01]成就等级18可领取此头像框	[e4ac01] Yêu cầu Vinh dự Lv.18	[e4ac01]Required Honor Lv.18
+t_toukuang_desc2_105	[e4ac01]成就等级20可领取此头像框	[e4ac01] Danh dự bắt buộc Lv.20	[e4ac01]Required Honor Lv.20
+t_toukuang_desc2_106	[e4ac01]2018春节活动奖励	[e4ac01] Giải thưởng lễ hội mùa xuân 2018	[e4ac01]2018 Spring Festival award
+t_toukuang_desc2_201	[e4ac01]成为月卡会员可使用此头像框	[e4ac01] Vành đại diện cho thành viên thẻ tháng	[e4ac01]Avatar rim for Month Card Member
+t_toukuang_desc2_202	[e4ac01]成为年卡会员可使用此头像框	[e4ac01] Vành đại diện cho thành viên thẻ năm	[e4ac01]Avatar rim for Year Card Member
+t_battle_item_desc_100	三连发概率[e4ac01]+{N1}%[-]	CHƯA	NOTYET
+t_battle_item_desc_101	雪球射程[e4ac01]+{N1}[-]	CHƯA	NOTYET
+t_battle_item_desc_102	角色移速[e4ac01]+{N1}[-]	CHƯA	NOTYET
+t_battle_item_desc_103	雪球攻击[e4ac01]+{N1}%[-]	CHƯA	NOTYET
+t_battle_item_desc_104	雪球体积[e4ac01]+{N1}%[-]	CHƯA	NOTYET
+t_battle_item_desc_105	雪球速度[e4ac01]+{N1}%[-]	CHƯA	NOTYET
+t_battle_item_desc_200	冰霜球技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_201	雷电球技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_202	大雪球技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_203	墨水球技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_204	恶魔球技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_205	暴风雪技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_206	龙卷风技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_207	陨石球技能等级{N1}	CHƯA	NOTYET
+t_battle_item_desc_208	烈性炸药技能等级	CHƯA	NOTYET
+t_battle_item_desc_209	隐身斗篷技能等级	CHƯA	NOTYET
+t_battle_item_desc_301	[c2e5ed]移速[57FC5B]+20%[-][c2e5ed]，输出伤害[57FC5B]+50%[-][c2e5ed]，伤害减免[57FC5B]+30%[-][c2e5ed]，免控概率[57FC5B]+20%[-]	[c2e5ed] Tốc độ di chuyển [57FC5B] +20% [-] [c2e5ed], Sát thương [57FC5B] +50% [-] [c2e5ed], Giảm sát thương [57FC5B] +30% [-] [c2e5ed], Miễn dịch khống chế [57FC5B] +20% [-]	[c2e5ed]Move Speed [57FC5B]+20%[-][c2e5ed], Damage [57FC5B]+50%[-][c2e5ed], Damage Reduction [57FC5B]+30%[-][c2e5ed], Immunity of Control[57FC5B]+20%[-]
+t_cup_name_0	黄铜	Chén đồng	Brass Cup
+t_cup_name_1	黄铜	Chén đồng	Brass Cup
+t_cup_name_2	黄铜	Chén đồng	Brass Cup
+t_cup_name_3	白银	Cúp bạc	Silver Cup
+t_cup_name_4	白银	Cúp bạc	Silver Cup
+t_cup_name_5	白银	Cúp bạc	Silver Cup
+t_cup_name_6	白银	Cúp bạc	Silver Cup
+t_cup_name_7	黄金I	Cúp vàng I	Gold Cup I
+t_cup_name_8	黄金I	Cúp vàng I	Gold Cup I
+t_cup_name_9	黄金I	Cúp vàng I	Gold Cup I
+t_cup_name_10	黄金I	Cúp vàng I	Gold Cup I
+t_cup_name_11	黄金II	Cúp vàng II	Gold Cup II
+t_cup_name_12	黄金II	Cúp vàng II	Gold Cup II
+t_cup_name_13	黄金II	Cúp vàng II	Gold Cup II
+t_cup_name_14	黄金II	Cúp vàng II	Gold Cup II
+t_cup_name_15	白金I	Cúp bạch kim I	Platinum Cup I
+t_cup_name_16	白金I	Cúp bạch kim I	Platinum Cup I
+t_cup_name_17	白金I	Cúp bạch kim I	Platinum Cup I
+t_cup_name_18	白金I	Cúp bạch kim I	Platinum Cup I
+t_cup_name_19	白金I	Cúp bạch kim I	Platinum Cup I
+t_cup_name_20	白金II	Cúp bạch kim II	Platinum Cup II
+t_cup_name_21	白金II	Cúp bạch kim II	Platinum Cup II
+t_cup_name_22	白金II	Cúp bạch kim II	Platinum Cup II
+t_cup_name_23	白金II	Cúp bạch kim II	Platinum Cup II
+t_cup_name_24	白金II	Cúp bạch kim II	Platinum Cup II
+t_cup_name_25	钻石I	Cúp kim cương I	Diamond Cup I
+t_cup_name_26	钻石I	Cúp kim cương I	Diamond Cup I
+t_cup_name_27	钻石I	Cúp kim cương I	Diamond Cup I
+t_cup_name_28	钻石I	Cúp kim cương I	Diamond Cup I
+t_cup_name_29	钻石I	Cúp kim cương I	Diamond Cup I
+t_cup_name_30	钻石II	Cúp kim cương II	Diamond Cup II
+t_cup_name_31	钻石II	Cúp kim cương II	Diamond Cup II
+t_cup_name_32	钻石II	Cúp kim cương II	Diamond Cup II
+t_cup_name_33	钻石II	Cúp kim cương II	Diamond Cup II
+t_cup_name_34	钻石II	Cúp kim cương II	Diamond Cup II
+t_cup_name_35	钻石III	Cúp kim cương III	Diamond Cup III
+t_cup_name_36	钻石III	Cúp kim cương III	Diamond Cup III
+t_cup_name_37	钻石III	Cúp kim cương III	Diamond Cup III
+t_cup_name_38	钻石III	Cúp kim cương III	Diamond Cup III
+t_cup_name_39	钻石III	Cúp kim cương III	Diamond Cup III
+t_cup_name_40	大师I	Master Cup I	Master Cup I
+t_cup_name_41	大师I	Master Cup I	Master Cup I
+t_cup_name_42	大师I	Master Cup I	Master Cup I
+t_cup_name_43	大师I	Master Cup I	Master Cup I
+t_cup_name_44	大师I	Master Cup I	Master Cup I
+t_cup_name_45	大师II	Master Cup II	Master Cup II
+t_cup_name_46	大师II	Master Cup II	Master Cup II
+t_cup_name_47	大师II	Master Cup II	Master Cup II
+t_cup_name_48	大师II	Master Cup II	Master Cup II
+t_cup_name_49	大师II	Master Cup II	Master Cup II
+t_cup_name_50	大师III	Master Cup III	Master Cup III
+t_cup_name_51	大师III	Master Cup III	Master Cup III
+t_cup_name_52	大师III	Master Cup III	Master Cup III
+t_cup_name_53	大师III	Master Cup III	Master Cup III
+t_cup_name_54	大师III	Master Cup III	Master Cup III
+t_cup_name_55	冰魂I	Sprite Cup I	Sprite Cup I
+t_cup_name_56	冰魂I	Sprite Cup I	Sprite Cup I
+t_cup_name_57	冰魂I	Sprite Cup I	Sprite Cup I
+t_cup_name_58	冰魂I	Sprite Cup I	Sprite Cup I
+t_cup_name_59	冰魂I	Sprite Cup I	Sprite Cup I
+t_cup_name_60	冰魂I	Sprite Cup I	Sprite Cup I
+t_cup_name_61	冰魂II	Sprite Cup II	Sprite Cup II
+t_cup_name_62	冰魂II	Sprite Cup II	Sprite Cup II
+t_cup_name_63	冰魂II	Sprite Cup II	Sprite Cup II
+t_cup_name_64	冰魂II	Sprite Cup II	Sprite Cup II
+t_cup_name_65	冰魂II	Sprite Cup II	Sprite Cup II
+t_cup_name_66	冰魂II	Sprite Cup II	Sprite Cup II
+t_cup_name_67	冰魂III	Sprite Cup III	Sprite Cup III
+t_cup_name_68	冰魂III	Sprite Cup III	Sprite Cup III
+t_cup_name_69	冰魂III	Sprite Cup III	Sprite Cup III
+t_cup_name_70	冰魂III	Sprite Cup III	Sprite Cup III
+t_cup_name_71	冰魂III	Sprite Cup III	Sprite Cup III
+t_cup_name_72	冰魂III	Sprite Cup III	Sprite Cup III
+t_cup_name_73	冰魂IV	Sprite Cup IV	Sprite Cup IV
+t_cup_name_74	冰魂IV	Sprite Cup IV	Sprite Cup IV
+t_cup_name_75	冰魂IV	Sprite Cup IV	Sprite Cup IV
+t_cup_name_76	冰魂IV	Sprite Cup IV	Sprite Cup IV
+t_cup_name_77	冰魂IV	Sprite Cup IV	Sprite Cup IV
+t_cup_name_78	冰魂IV	Sprite Cup IV	Sprite Cup IV
+t_cup_name_79	冰魂V	Sprite Cup V	Sprite Cup V
+t_cup_name_80	冰魂V	Sprite Cup V	Sprite Cup V
+t_cup_name_81	冰魂V	Sprite Cup V	Sprite Cup V
+t_cup_name_82	冰魂V	Sprite Cup V	Sprite Cup V
+t_cup_name_83	冰魂V	Sprite Cup V	Sprite Cup V
+t_cup_name_84	冰魂V	Sprite Cup V	Sprite Cup V
+t_cup_name_85	至尊	Cúp tối cao	Supreme Cup
+t_recharge_name_1001	60钻石	60 kim cương	60 Diamond
+t_recharge_name_1002	250钻石	250 kim cương	250 Diamond
+t_recharge_name_1003	315钻石（超量5%）	315 Kim cương ## (5% tiền thưởng)	315 Diamond##(5% bonus)
+t_recharge_name_1004	1080钻石（超量10%）	1080 Diamond ## (10% tiền thưởng)	1080 Diamond##(10% bonus)
+t_recharge_name_1005	2280钻石（超量15%）	2280 Kim cương ## (15% tiền thưởng)	2280 Diamond##(15% bonus)
+t_recharge_name_1006	3575钻石（超量20%）	3575 Kim cương ## (20% tiền thưởng)	3575 Diamond##(20% bonus)
+t_recharge_name_1007	3940钻石（超量20%）	3940 Kim cương ## (20% tiền thưởng)	3940 Diamond##(20% bonus)
+t_recharge_name_1008	8100钻石（超量25%）	8100 kim cương ## (25% tiền thưởng)	8100 Diamond##(25% bonus)
+t_recharge_desc_1001	60钻石	60 kim cương	60 Diamond
+t_recharge_desc_1002	250钻石	250 kim cương	250 Diamond
+t_recharge_desc_1003	315钻石（超量5%）	315 Kim cương (5% tiền thưởng)	315 Diamond (5% bonus)
+t_recharge_desc_1004	1080钻石（超量10%）	1080 Kim cương (10% tiền thưởng)	1080 Diamond (10% bonus)
+t_recharge_desc_1005	2280钻石（超量15%）	2280 Kim cương (15% tiền thưởng)	2280 Diamond (15% bonus)
+t_recharge_desc_1006	3575钻石（超量20%）	3575 Kim cương (20% tiền thưởng)	3575 Diamond (20% bonus)
+t_recharge_desc_1007	3940钻石（超量20%）	3940 Kim cương (20% tiền thưởng)	3940 Diamond (20% bonus)
+t_recharge_desc_1008	8100钻石（超量25%）	8100 kim cương (25% tiền thưởng)	8100 Diamond (25% bonus)
+t_recharge_name_2001	月卡会员	Thành viên thẻ tháng	Month Card Member
+t_recharge_name_2002	年卡会员	Thành viên thẻ năm	Year Card Member
+t_newplayer_001	拖动方向轮盘移动角色	Kéo bánh xe điều hướng để di chuyển anh hùng	Drag direction wheel to move heroes
+t_newplayer_002	点击雪球按钮攻击敌人	Nhấp vào nút AMMO để tấn công kẻ thù	Click AMMO button to attack enemies
+t_newplayer_003	长按雪球按钮蓄力充能	Nhấn và giữ nút AMMO để sạc	Long press AMMO button to charge
+t_newplayer_004	移动到这里	Chuyển đến đây	Move here
+t_newplayer_005	点击技能按钮瞄准敌人	Nhấp vào nút kỹ năng để nhắm vào kẻ thù	Click skill button to aim at enemies
+t_newplayer_006	移动到这里	Chuyển đến đây	Move here
+t_newplayer_007	点击技能按钮瞄准敌人	Nhấp vào nút kỹ năng để nhắm vào kẻ thù	Click skill button to aim at enemies
+t_newplayer_008	点击按钮切换技能	Nhấp vào nút để chuyển đổi kỹ năng	Click button to switch skills
+t_newplayer_009	移动到这里	Chuyển đến đây	Move here
+t_newplayer_010	点击图标学习天赋	Nhấp vào biểu tượng để học tài năng	Click icon to study talent
+t_newplayer_011	点击雪人按钮	Nhấp vào nút AMMO	Click AMMO button
+t_newplayer_012	再次点击，可立即变回角色	Nhấp lại để chuyển thành anh hùng	Click again to switch into heroes
+t_newplayer_013	长按查看能力详情	Nhấn và giữ để kiểm tra khả năng	Long press to check abilities
+t_newplayer_014	移动到这里	Chuyển đến đây	Move here
+t_rookie_001	欢迎来到冰雪大作战，请跟随软妹的语音开始新手教程吧~	Chào mừng bạn đến với thời gian tuyết rơi, vui lòng theo dõi giọng nói của cô gái mềm mại để bắt đầu hướng dẫn dành cho người mới	Welcome to snowtime, please follow the voice of soft girl to start newbie tutorials
+t_rookie_002	雪球蓄力后可以提升攻击范围并造成更高的伤害	Phạm vi tấn công của AMMO sẽ được nâng lên để có sát thương cao hơn sau khi sạc	The attack range of AMMO will be lifted for higher damage after charging
+t_rookie_003	战场内会随机刷新各种物品，靠近后自动拾取	Tất cả các vật phẩm sẽ được làm mới ngẫu nhiên và tự động thu thập khi đóng cửa	All the items will be refreshed randomly and collected automatically when closing to them
+t_rookie_004	拾取技能道具可以使用一次相应的技能	Thu thập các công cụ kỹ năng để sử dụng kỹ năng liên quan một lần	Collect skill tools to use relevant skill once
+t_rookie_005	拾取相同的技能道具可以提升技能等级，最多携带两种技能	Thu thập các công cụ kỹ năng giống nhau để cập nhật cấp độ kỹ năng với tối đa 2 kỹ năng	Collect the same skill tools to update skill level with 2 skills at most
+t_rookie_006	拾取晶体可以提升等级和得分，记得多多收集哦	Thu thập tinh thể để cập nhật cấp độ và điểm số. Nhớ sưu tầm thêm	Collect crystals to update level and score. Remember to collect more
+t_rookie_007	雪人状态无法行动，免疫伤害并持续回复生命，最多持续10秒	Người tuyết không thể di chuyển do sát thương miễn dịch với HP phục hồi nhiều nhất 10 giây	Snowman cannot move due to immune damage with HP recovering at most 10s
+t_rookie_008	等待雪人状态结束或再次点击雪人按钮立即解除雪人状态	Chờ trạng thái người tuyết kết thúc hoặc nhấp lại vào nút người tuyết để xóa trạng thái của nó	Wait the state of snowman to be ended or click snowman button again to remove its state
+t_rookie_009	恭喜你完成了新手教程，接下来就在实战中好好发挥吧	Xin chúc mừng! Bạn đã hoàn thành hướng dẫn dành cho người mới. Tiếp theo, làm tốt trong cuộc chiến	Congratulations! You have finished newbie tutorials. Next, do well in the fight
+t_rookie_010	拾取刷出的新技能道具，学习下技能连击吧	Thu thập các công cụ kỹ năng mới để nghiên cứu đánh kép	Collect the new skill tools to study double hit
+t_rookie_011	每次升级可以学习一次天赋，天赋带来的巨大增益千万不要小看哦	Bạn có thể nghiên cứu tài năng một lần cho mỗi lần cập nhật. Đừng bỏ qua những khoản lợi nhuận khổng lồ do tài năng mang lại	You can study talent once for each update. Don't neglect huge profits brought by talent
+t_mode_name1_99	零流量自嗨	Thực hành	Practice
+t_mode_name1_0	大乱斗	Cận chiến	Melee
+t_mode_name1_1	雪地会战	Cuộc xung đột	Conflict
+t_mode_name2_99	PRACTICE	Chơi khi không kết nối	Play offline
+t_mode_name2_0	MELEE MODE	Chơi trực tuyến	Play online
+t_mode_name2_1	SNOW BATTLE	Chơi trực tuyến	Play online
+t_mode_desc_99	[c2e5ed]都说欺负AI会上瘾，试试挑战一下吧~提醒你哦，AI会根据账号等级进化，千万别大意####[e4ac01]可获得金币和宝箱，3级前还可获得账号经验，并提升奖杯，但不可解锁成就	[c2e5ed] Người ta nói rằng AI bắt nạt là chất gây nghiện. Cố gắng làm điều đó, nhưng bạn được nhắc AI sẽ thay đổi theo cấp tài khoản, hãy cẩn thận #### [e4ac01] Vàng và rương có thể nhận được và kinh nghiệm tài khoản sẽ nhận được trước cấp độ 3. Tuy nhiên, không thể mở khóa Danh dự	[c2e5ed]It is said that bullying AI is addictive. Try to do it, but you are reminded AI will be changed according to account level, please be careful####[e4ac01]Gold and chest can be gained and account experience will be obtained before level 3. But, Honor cannot be unlocked
+t_mode_desc_0	[c2e5ed]玩家各自为营，你拼我抢，角逐最终高分####[e4ac01]可获得金币，账号经验和宝箱，可解锁成就	[c2e5ed] Người chơi đang cạnh tranh với nhau để giành điểm số cao #### [e4ac01] Vàng, kinh nghiệm tài khoản và rương có thể nhận được khi mở khóa Vinh dự	[c2e5ed]Players are competing with each other for high score####[e4ac01]Gold, account experience and chest can be gained with Honor unlocked
+t_mode_desc_1	[c2e5ed]小队齐心，其利断金！在这里，配合和默契是取胜的关键####[e4ac01]可获得金币，账号经验和宝箱，可解锁成就	[c2e5ed] Nếu các đội đồng tâm hiệp lực ， độ sắc bén của họ có thể cắt xuyên kim loại. [c2e5ed] Ở đây, phối hợp ngầm là chìa khóa để chiến thắng #### [e4ac01] Vàng, kinh nghiệm tài khoản và rương có thể nhận được khi mở khóa Danh dự	[c2e5ed]If teams are of the same mind，their sharpness can cut through metal.[c2e5ed]Here, tacit coordination is the key for victory####[e4ac01]Gold, account experience and chest can be gained with Honor unlocked
+t_teamid_name_0	[1EF2FA]蓝队	[1EF2FA] Đội Xanh lam	[1EF2FA]Blue Team
+t_teamid_name_1	[FF676A]红队	[FF676A] Đội Đỏ	[FF676A]Red Team
+t_teamid_name_2	[FF64FF]紫队	[FF64FF] Đội Tím	[FF64FF]Purple Team
+t_teamid_name_3	[84FF5E]绿队	[84FF5E] Đội xanh lá	[84FF5E]Green Team
+t_teamid_name_4	[FBA50B]橙队	[FBA50B] Đội cam	[FBA50B]Orange Team
+t_teamid_name_5	[E6E600]黄队	[E6E600] Đội vàng	[E6E600]Yellow Team
+t_task_desc_101	完成1局零流量自嗨	Chơi Thực hành 1 lần	Play the Practice 1 time
+t_task_desc_201	完成3局零流量自嗨	Chơi Thực hành 3 lần	Play the Practice 3 times
+t_task_desc_301	成功添加5名好友	Thêm 5 người bạn nữa	5 more friends added
+t_task_desc_401	完成3局雪地会战	Chơi Xung đột 3 lần	Play the Conflict 3 times
+t_task_desc_501	大乱斗，取得1次前3名	Đạt top 3 1 lần trong Cận chiến	Get top 3 1 time in Melee
+t_task_desc_601	击败20名其他玩家	Giết người khác 20 lần	Kill others 20 times
+t_task_desc_701	一局对战中击败其他玩家5次	Giết người khác 5 lần trong một trò chơi	Kill others 5 times in one game
+t_task_desc_801	大乱斗，取得1次第1名	Đạt No.1 1 lần trong Cận chiến	Get No.1 1 time in Melee
+t_task_desc_901	购买1次角色碎片	Mua mảnh anh hùng 1 lần	Purchase hero shard 1 time
+t_task_desc_1001	一局对战击败其他玩家6次	Giết người khác 6 lần trong một trò chơi	Kill others 6 times in one game
+t_task_desc_1002	与其他玩家组队进入1局对战	Chơi theo nhóm 1 lần	Play in a team 1 time
+t_task_desc_1101	连续击败5名其他玩家	Kết thúc 5 combo tiêu diệt trong một trò chơi	Finish 5 combo of kill in one game
+t_task_desc_1201	大乱斗，最终得分达到10000以上	Điểm cuối cùng trên 10000 trong Cận chiến	Final score above 10000 in Melee
+t_task_desc_1202	雪地会战，最终得分达到10000以上	Điểm cuối cùng trên 10000 trong Xung đột	Final score above 10000 in Conflict
+t_task_desc_1301	成功添加10名好友	10 người bạn khác đã được thêm vào	10 more friends added
+t_task_desc_1401	大乱斗，取得3次前1名	Đạt No.1 3 lần trong Cận chiến	Get No.1 3 times in Melee
+t_task_desc_1402	完成5局雪地会战	Chơi Xung đột 5 lần	Play the Conflict 5 times
+t_task_desc_1501	击败50名其他玩家	Giết người khác 50 lần	Kill others 50 times
+t_task_desc_1601	使用1次喇叭	Sử dụng kèn 1 lần	Use the trumpet 1 time
+t_task_desc_1602	一局对战中达到6级	Đạt đến cấp độ 6 trong một trò chơi	Reach to level 6 in one game
+t_task_desc_1701	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_1801	完成10局大乱斗	Chơi Melee 10 lần	Play the Melee 10 times
+t_task_desc_1802	完成10局雪地会战	Chơi Xung đột 10 lần	Play the Conflict 10 times
+t_task_desc_1901	一局对战中击败其他玩家7次	Giết người khác 7 lần trong một trò chơi	Kill others 7 times in one game
+t_task_desc_2001	累计击败50次男性角色	Giết các anh hùng nam 50 lần	Kill male heroes 50 times
+t_task_desc_2002	累计击败50次女性角色	Giết các nữ anh hùng 50 lần	Kill female heroes 50 times
+t_task_desc_2101	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_2201	出售1次角色碎片	Bán mảnh anh hùng 1 lần	Sell hero shard 1 time
+t_task_desc_2202	一局对战中击败其他玩家8次	Giết người khác 8 lần trong một trò chơi	Kill others 8 times in one game
+t_task_desc_2301	连续击败6名其他玩家	Hoàn thành 6 combo tiêu diệt trong một trò chơi	Finish 6 combo of kill in one game
+t_task_desc_2401	完成15局大乱斗	Chơi Cận chiến 15 lần	Play the Melee 15 times
+t_task_desc_2402	完成15局雪地会战	Chơi Xung đột 15 lần	Play the Conflict 15 times
+t_task_desc_2501	击败60名其他玩家	Giết người khác 60 lần	Kill others 60 times
+t_task_desc_2601	大乱斗，3次最终得分达到15000以上	Điểm cuối cùng trên 15000 trong Cận chiến	Final score above 15000 in Melee
+t_task_desc_2602	雪地会战，3次最终得分达到15000以上	Điểm cuối cùng trên 15000 trong Xung đột	Final score above 15000 in Conflict
+t_task_desc_2701	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_2801	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_2802	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_2901	一局对战中击败其他玩家9次	Giết người khác 9 lần trong một trò chơi	Kill others 9 times in one game
+t_task_desc_3001	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_3002	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_3101	连续击败7名其他玩家	Kết thúc 7 combo tiêu diệt trong một trò chơi	Finish 7 combo of kill in one game
+t_task_desc_3201	大乱斗，取得5次前1名	Đạt No.1 5 lần trong Cận chiến	Get No.1 5 times in Melee
+t_task_desc_3202	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_3301	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_3401	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_3402	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_3501	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_3601	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_3602	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_3701	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_3801	大乱斗，取得10次前1名	Đạt No.1 10 lần trong Cận chiến	Get No.1 10 times in Melee
+t_task_desc_3802	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_3901	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_4001	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_4002	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_4101	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_4201	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_4202	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_4301	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_4401	大乱斗，取得5次前1名	Đạt No.1 5 lần trong Cận chiến	Get No.1 5 times in Melee
+t_task_desc_4402	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_4501	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_4601	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_4602	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_4701	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_4801	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_4802	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_4901	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_5001	大乱斗，取得10次前1名	Đạt No.1 10 lần trong Cận chiến	Get No.1 10 times in Melee
+t_task_desc_5002	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_5101	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_5201	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_5202	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_5301	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_5401	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_5402	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_5501	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_5601	大乱斗，取得5次前1名	Đạt No.1 5 lần trong Cận chiến	Get No.1 5 times in Melee
+t_task_desc_5602	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_5701	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_5801	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_5802	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_5901	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_6001	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_6002	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_6101	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_6201	大乱斗，取得10次前1名	Đạt No.1 10 lần trong Cận chiến	Get No.1 10 times in Melee
+t_task_desc_6202	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_6301	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_6401	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_6402	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_6501	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_6601	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_6602	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_6701	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_6801	大乱斗，取得5次前1名	Đạt No.1 5 lần trong Cận chiến	Get No.1 5 times in Melee
+t_task_desc_6802	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_6901	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_7001	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_7002	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_7101	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_7201	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_7202	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_7301	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_7401	大乱斗，取得10次前1名	Đạt No.1 10 lần trong Cận chiến	Get No.1 10 times in Melee
+t_task_desc_7402	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_7501	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_7601	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_7602	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_7701	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_7801	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_7802	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_7901	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_8001	大乱斗，取得5次前1名	Đạt No.1 5 lần trong Cận chiến	Get No.1 5 times in Melee
+t_task_desc_8002	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_8101	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_8201	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_8202	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_8301	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_8401	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_8402	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_8501	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_8601	大乱斗，取得10次前1名	Đạt No.1 10 lần trong Cận chiến	Get No.1 10 times in Melee
+t_task_desc_8602	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_8701	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_8801	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_8802	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_8901	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_9001	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_9002	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_9101	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_9201	大乱斗，取得5次前1名	Đạt No.1 5 lần trong Cận chiến	Get No.1 5 times in Melee
+t_task_desc_9202	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_9301	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_9401	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_9402	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_task_desc_9501	给任意角色升星1次	Nâng cấp bất kỳ anh hùng nào 1 lần	Upgrade any hero 1 time
+t_task_desc_9601	完成20局大乱斗	Chơi Cận chiến 20 lần	Play the Melee 20 times
+t_task_desc_9602	完成20局雪地会战	Chơi Xung đột 20 lần	Play the Conflict 20 times
+t_task_desc_9701	连续击败8名其他玩家	Kết thúc 8 combo tiêu diệt trong một trò chơi	Finish 8 combo of kill in one game
+t_task_desc_9801	大乱斗，取得10次前1名	Đạt No.1 10 lần trong Cận chiến	Get No.1 10 times in Melee
+t_task_desc_9802	一局对战中击败其他玩家10次	Giết người khác 10 lần trong một trò chơi	Kill others 10 times in one game
+t_task_desc_9901	完成1次奖杯升星	Nhận một ngôi sao sau một trận đấu	Get a star after one game
+t_task_desc_10001	累计击败100次男性角色	Giết các anh hùng nam 100 lần	Kill male heroes 100 times
+t_task_desc_10002	累计击败100次女性角色	Giết các nữ anh hùng 100 lần	Kill female heroes 100 times
+t_fashion_name_1001	雪球-粽子	AMMO-Zongzi	AMMO-Zongzi
+t_fashion_name_1002	雪球-骨头	AMMO-Bone	AMMO-Bone
+t_fashion_name_1003	雪球-酒瓶	AMMO-Chai	AMMO-Bottle
+t_fashion_name_1004	雪球-板砖	AMMO-Brick	AMMO-Brick
+t_fashion_name_1005	雪球-小丑鱼	AMMO-Cá	AMMO-Fish
+t_fashion_name_1006	雪球-河豚	AMMO-Puffer	AMMO-Puffer
+t_fashion_name_1007	雪球-能量球	AMMO-Bóng năng lượng	AMMO-Energy Ball
+t_fashion_name_1008	雪球-人字拖	AMMO-Dép xỏ ngón	AMMO-Flip Flops
+t_fashion_name_1501	雪球-手里剑	AMMO-Shuriken	AMMO-Shuriken
+t_fashion_name_1502	雪球-闪电	AMMO-Lighting	AMMO-Lighting
+t_fashion_name_1503	雪球-章鱼	AMMO-Bạch tuộc	AMMO-Octopus
+t_fashion_name_1504	雪球-火焰恶魔	AMMO-Fire Demo	AMMO-Fire Demo
+t_fashion_name_2001	特效-业火	Hiệu ứng-Blaze	Effect-Blaze
+t_fashion_name_2002	特效-五芒星	Hiệu ứng Pentacle	Effect-Pentacle
+t_fashion_name_2003	特效-惊雷	Hiệu ứng-Sấm sét	Effect-Thunder
+t_fashion_name_3001	雪炮-竹筒	Gun-Bamboo	Gun-Bamboo
+t_fashion_name_3002	雪炮-鲨鱼	Gun-Shark	Gun-Shark
+t_fashion_name_3003	雪炮-尖叫鸡	Gun-Chicken	Gun-Chicken
+t_fashion_name_3004	雪炮-霸分宝	Hút súng	Gun-Suction
+t_fashion_name_3005	雪炮-金角	Gun-Horn	Gun-Horn
+t_fashion_name_3006	雪炮-呱呱	Gun-Wonka	Gun-Wonka
+t_fashion_name_3007	雪炮-胖达	Gun-Panda	Gun-Panda
+t_fashion_name_3008	雪炮-喵喵	Gun-Meowth	Gun-Meowth
+t_fashion_name_3009	雪炮-聚能炮	Gun-Cannon	Gun-Cannon
+t_fashion_name_3010	雪炮-小喇叭	Gun-Petunia	Gun-Petunia
+t_fashion_name_3501	雪炮-神龙	Gun-Dragon	Gun-Dragon
+t_fashion_name_1009	雪球-苹果	AMMO-Apple	AMMO-Apple
+t_fashion_name_1010	雪球-包子	AMMO-Baozi	AMMO-Baozi
+t_fashion_name_1505	雪球-S7	AMMO-S7	AMMO-S7
+t_fashion_name_3011	雪炮-消防栓	Gun-Hydrant	Gun-Hydrant
+t_fashion_name_3012	雪炮-鲤鱼	Gun-Carp	Gun-Carp
+t_fashion_name_3502	雪炮-青花瓷	Súng-Sứ	Gun-Porcelain
+t_fashion_desc1_1001	[c2e5ed]在背包中装备将投掷的雪球变为粽子##【谨献给踊跃参与2017端午节活动的小伙伴们】	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Zongzi ## [Dành riêng cho những người bạn tích cực tham gia sự kiện Lễ hội Thuyền rồng 2017]	[c2e5ed]Use in storage to turn AMMO into Zongzi## [Dedicated to friends who actively participate in the event of 2017 Dragon Boat Festival]
+t_fashion_desc1_1002	[c2e5ed]在背包中装备后将投掷的雪球变为骨头	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Xương	[c2e5ed]Use in storage to turn AMMO into Bone
+t_fashion_desc1_1003	[c2e5ed]在背包中装备后将投掷的雪球变为酒瓶	[c2e5ed] Sử dụng trong kho để biến AMMO thành Chai	[c2e5ed]Use in storage to turn AMMO into Bottle
+t_fashion_desc1_1004	[c2e5ed]在背包中装备后将投掷的雪球变为板砖	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành đá	[c2e5ed]Use in storage to turn AMMO into Brick
+t_fashion_desc1_1005	[c2e5ed]在背包中装备后将投掷的雪球变为小丑鱼	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Cá	[c2e5ed]Use in storage to turn AMMO into Fish
+t_fashion_desc1_1006	[c2e5ed]在背包中装备后将投掷的雪球变为河豚	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Cá nóc	[c2e5ed]Use in storage to turn AMMO into Puffer
+t_fashion_desc1_1007	[c2e5ed]在背包中装备后将投掷的雪球变为能量球	[c2e5ed] Sử dụng trong kho để biến AMMO thành Quả cầu năng lượng	[c2e5ed]Use in storage to turn AMMO into Energy Ball
+t_fashion_desc1_1008	[c2e5ed]在背包中装备后将投掷的雪球变为人字拖	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Dép xỏ ngón	[c2e5ed]Use in storage to turn AMMO into Flip Flops
+t_fashion_desc1_1501	[c2e5ed]在背包中装备后将投掷的雪球变为手里剑	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Shuriken	[c2e5ed]Use in storage to turn AMMO into Shuriken
+t_fashion_desc1_1502	[c2e5ed]在背包中装备后将投掷的雪球变为闪电	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Ánh sáng	[c2e5ed]Use in storage to turn AMMO into Lighting
+t_fashion_desc1_1503	[c2e5ed]在背包中装备后将投掷的雪球变为章鱼	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Bạch tuộc	[c2e5ed]Use in storage to turn AMMO into Octopus
+t_fashion_desc1_1504	[c2e5ed]在背包中装备后将投掷的雪球变为火焰恶魔	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Fire Demo	[c2e5ed]Use in storage to turn AMMO into Fire Demo
+t_fashion_desc1_2001	[c2e5ed]在背包中装备后将蓄力特效变为业火	[c2e5ed] Sử dụng trong bộ nhớ để biến hiệu ứng sạc thành ngọn lửa	[c2e5ed]Use in storage to turn charging effect into Blaze
+t_fashion_desc1_2002	[c2e5ed]在背包中装备后将蓄力特效变为五芒星	[c2e5ed] Sử dụng trong bộ nhớ để biến hiệu ứng sạc thành Ngôi sao	[c2e5ed]Use in storage to turn charging effect into Pentacle
+t_fashion_desc1_2003	[c2e5ed]在背包中装备后将蓄力特效变为惊雷	[c2e5ed] Sử dụng trong bộ nhớ để biến hiệu ứng sạc thành Sấm sét	[c2e5ed]Use in storage to turn charging effect into Thunder
+t_fashion_desc1_3001	[c2e5ed]在背包中装备将雪炮模型替换为竹筒	[c2e5ed] Sử dụng trong kho để biến súng thành Tre	[c2e5ed]Use in storage to turn gun into Bamboo
+t_fashion_desc1_3002	[c2e5ed]在背包中装备将雪炮模型替换为鲨鱼	[c2e5ed] Dùng trong kho để biến súng thành Cá mập	[c2e5ed]Use in storage to turn gun into Shark
+t_fashion_desc1_3003	[c2e5ed]在背包中装备将雪炮模型替换为尖叫鸡	[c2e5ed] Dùng trong kho để biến súng thành Gà	[c2e5ed]Use in storage to turn gun into Chicken
+t_fashion_desc1_3004	[c2e5ed]在背包中装备将雪炮模型替换为霸分宝	[c2e5ed] Sử dụng trong kho để biến súng thành máy hút	[c2e5ed]Use in storage to turn gun into Suction
+t_fashion_desc1_3005	[c2e5ed]在背包中装备将雪炮模型替换为金角	[c2e5ed] Sử dụng trong kho để biến súng thành sừng	[c2e5ed]Use in storage to turn gun into Horn
+t_fashion_desc1_3006	[c2e5ed]在背包中装备将雪炮模型替换为呱呱	[c2e5ed] Dùng trong kho để biến súng thành Wonka	[c2e5ed]Use in storage to turn gun into Wonka
+t_fashion_desc1_3007	[c2e5ed]在背包中装备将雪炮模型替换为胖达	[c2e5ed] Sử dụng trong kho để biến súng thành gấu trúc	[c2e5ed]Use in storage to turn gun into Panda
+t_fashion_desc1_3008	[c2e5ed]在背包中装备将雪炮模型替换为喵喵	[c2e5ed] Sử dụng trong kho để biến súng thành Meowth	[c2e5ed]Use in storage to turn gun into Meowth
+t_fashion_desc1_3009	[c2e5ed]在背包中装备将雪炮模型替换为聚能炮	[c2e5ed] Sử dụng trong kho để biến súng thành Pháo	[c2e5ed]Use in storage to turn gun into Cannon
+t_fashion_desc1_3010	[c2e5ed]在背包中装备将雪炮模型替换为小喇叭	[c2e5ed] Sử dụng trong kho để biến súng thành Petunia	[c2e5ed]Use in storage to turn gun into Petunia
+t_fashion_desc1_3501	[c2e5ed]在背包中装备将雪炮模型替换为神龙	[c2e5ed] Sử dụng trong kho để biến súng thành Rồng	[c2e5ed]Use in storage to turn gun into Dragon
+t_fashion_desc1_1009	[c2e5ed]在背包中装备将投掷的雪球替换为苹果	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành táo	[c2e5ed]Use in storage to turn AMMO into Apple
+t_fashion_desc1_1010	[c2e5ed]在背包中装备将投掷的雪球替换为包子	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành Baozi	[c2e5ed]Use in storage to turn AMMO into Baozi
+t_fashion_desc1_1505	[c2e5ed]在背包中装备将投掷的雪球替换为S7	[c2e5ed] Sử dụng trong bộ nhớ để biến AMMO thành S7	[c2e5ed]Use in storage to turn AMMO into S7
+t_fashion_desc1_3011	[c2e5ed]在背包中装备将雪炮模型替换为消防栓	[c2e5ed] Sử dụng trong kho để biến súng thành vòi nước	[c2e5ed]Use in storage to turn gun into Hydrant
+t_fashion_desc1_3012	[c2e5ed]在背包中装备将雪炮模型替换为鲤鱼	[c2e5ed] Dùng trong kho để biến súng thành Cá Chép	[c2e5ed]Use in storage to turn gun into Carp
+t_fashion_desc1_3502	[c2e5ed]在背包中装备将雪炮模型替换为青花瓷	[c2e5ed] Sử dụng trong kho để biến súng thành Sứ	[c2e5ed]Use in storage to turn gun into Porcelain
+t_fashion_desc2_1001	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时普攻命中回复[ff8a00]1[-]点生命	[c2e5ed] ## Extra: AMMO cướp đi mạng sống [ff8a00] +1 [-] trong trận chiến ngay cả khi  không sử dụng skin	[c2e5ed]##Extra: AMMO's life steal [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1002	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả  không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1003	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1004	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1005	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh ngay cả khi không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1006	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点普攻伤害	[c2e5ed] ## Thêm: Sát thương của AMMO [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: AMMO's damage [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1007	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả  không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1008	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]3[-]移速	[c2e5ed] ## Extra: Tốc độ di chuyển [ff8a00] +3 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Move speed [ff8a00]+3[-] during fight even the skin is not using
+t_fashion_desc2_1501	[c2e5ed]##装备效果：增加[3defff]龙卷风[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]10[-]射程	[c2e5ed] ## Sử dụng sát thương của ： [3defff] Tornado [-] [ff8a00] +1% [-] ## Thêm: Phạm vi [ff8a00] +10 [-] trong khi giao tranh kể cả không sử dụng skin	[c2e5ed]##Using：[3defff]Tornado[-]'s damage [ff8a00]+1%[-]##Extra: Range [ff8a00]+10[-] during fight even the skin is not using
+t_fashion_desc2_1502	[c2e5ed]##装备效果：增加[3defff]雷电球[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1%[-]雷电球伤害	[c2e5ed] ## Sử dụng ： [3defff] Qủa cầu ánh sáng [-] sát thương [ff8a00] +1% [-] ## Thêm: [3defff] Qủa cầu ánh sáng [-] sát thương [ff8a00] +1% [- ] trong khi chiến đấu, ngay cả da không sử dụng	[c2e5ed]##Using：[3defff]Lightning Ball[-]'s damage [ff8a00]+1%[-]##Extra: [3defff]Lightning Ball[-]'s damage [ff8a00]+1%[-] during fight even the skin is not using
+t_fashion_desc2_1503	[c2e5ed]##装备效果：增加[3defff]墨水球[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]2[-]点普攻伤害	[c2e5ed] ## Sử dụng ： [3defff] Venom Bottle [-] sát thương [ff8a00] +1% [-] ## Thêm: Sát thương của AMMO [ff8a00] +2 [-] trong khi giao tranh kể cả skin không sử dụng	[c2e5ed]##Using：[3defff]Venom Bottle[-]'s damage [ff8a00]+1%[-]##Extra: AMMO's damage [ff8a00]+2[-] during fight even the skin is not using
+t_fashion_desc2_1504	[c2e5ed]##装备效果：增加[3defff]恶魔球[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1%[-]暴击率	[c2e5ed] ## Sử dụng sát thương của ： [3defff] Devil Bat [-] [ff8a00] +1% [-] ##\Phụ: Cảnh cáo nghiêm trọng [ff8a00] +1% [-] trong giao tranh kể cả  không sử dụng skin	[c2e5ed]##Using：[3defff]Devil Bat[-]'s damage [ff8a00]+1%[-]##Extra: Critical Strike [ff8a00]+1%[-] during fight even the skin is not using
+t_fashion_desc2_2001	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả skin không sử dụng	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_2002	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1%[-]技能伤害	[c2e5ed] ## Extra: Sát thương của kỹ năng [ff8a00] +1% [-] trong giao tranh ngay cả khi không sử dụng skin	[c2e5ed]##Extra: Skill's damage [ff8a00]+1%[-] during fight even the skin is not using
+t_fashion_desc2_2003	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]3[-]移速	[c2e5ed] ## Extra: Tốc độ di chuyển [ff8a00] +3 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Move Speed [ff8a00]+3[-] during fight even the skin is not using
+t_fashion_desc2_3001	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed] ## Bổ sung: Sức khỏe [ff8a00] +5 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_3002	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3003	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3004	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3005	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3006	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3007	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3008	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3009	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3010	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed] ## Thêm: Sức khỏe [ff8a00] +5 [-] trong giao tranh kể cả  không sử dụng skin	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_3501	[c2e5ed]##装备效果：增加[3defff]龙卷风[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]2[-]点攻击	[c2e5ed] ## Sử dụng sát thương của ： [3defff] Tornado [-] [ff8a00] +1% [-] ## Bổ sung: Tấn công [ff8a00] +2 [-] trong khi giao tranh ngay cả khi da không sử dụng	[c2e5ed]##Using：[3defff]Tornado[-]'s damage [ff8a00]+1%[-]##Extra: Attack [ff8a00]+2[-] during fight even the skin is not using
+t_fashion_desc2_1009	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed] ## Bổ sung: Sức khỏe [ff8a00] +5 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_1010	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed] ## Bổ sung: Sức khỏe [ff8a00] +5 [-] trong giao tranh kể cả  không sử dụng skin	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_1505	[c2e5ed]##装备效果：增加[3defff]烈性炸药[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]6[-]点移速	[c2e5ed] ## Sử dụng ： [3defff] Sát thương của TNT [-] [ff8a00] +1% [-] ## Thêm: Tốc độ di chuyển [ff8a00] +6 [-] trong khi giao tranh kể cả không sử dụng skin	[c2e5ed]##Using：[3defff]TNT[-]'s damage [ff8a00]+1%[-]##Extra: Move Speed [ff8a00]+6[-] during fight even the skin is not using
+t_fashion_desc2_3011	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed] ## Extra: Tấn công [ff8a00] +1 [-] trong giao tranh kể cả skin không sử dụng	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3012	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed] ## Thêm: Sức khỏe [ff8a00] +5 [-] trong giao tranh kể cả không sử dụng skin	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_3502	[c2e5ed]##装备效果：增加[3defff]冰棍[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]2[-]点普攻伤害	[c2e5ed] ## Sử dụng sát thương của ： [3defff] Popsicle [-] [ff8a00] +1% [-] ## Thêm: Sát thương AMMO [ff8a00] +2 [-] trong khi chiến đấu, kể cả  không sử dụng skin	[c2e5ed]##Using：[3defff]Popsicle[-]'s damage [ff8a00]+1%[-]##Extra: AMMO Damage [ff8a00]+2[-] during fight even the skin is not using
+t_daily_task_name_1	每日一战	Chiến đấu cho ngày hôm nay	Fight for today
+t_daily_task_name_2	队伍需要我	Đội cần tôi	Team needs me
+t_daily_task_name_3	勤能补拙	Tập luyện giúp hoàn hảo hơn	Practice makes perfect
+t_daily_task_name_4	联合起来更强大	Hợp sức, chúng tôi mạnh mẽ hơn!	United, we are stronger!
+t_daily_task_name_5	开黑更精彩	Tinh thần đồng đội tuyệt vời	Wonderful teamwork
+t_daily_task_name_6	强大的回报	Mạnh mẽ hơn là tốt hơn	Stronger is better
+t_daily_task_name_7	胜利代表着实力	Chiến thắng là tất cả	Victory is all
+t_daily_task_name_8	实力碾压	Đây là sức mạnh của tôi!	This is my power!
+t_daily_task_name_9	分享即收获	Chia sẻ đang đạt được	Sharing is gaining
+t_daily_task_desc_1	完成1局大乱斗	Chơi Melee một lần	Play the Melee once
+t_daily_task_desc_2	完成1局雪地会战	Chơi Xung đột một lần	Play the Conflict once
+t_daily_task_desc_3	完成3局大乱斗	Chơi Cận chiến 3 lần	Play the Melee 3 times
+t_daily_task_desc_4	完成3局雪地会战	Chơi Xung đột 3 lần	Play the Conflict 3 times
+t_daily_task_desc_5	与其他玩家组队进入2局对战	Chơi trong một đội 2 lần	Play in a team 2 times
+t_daily_task_desc_6	击败10名其他玩家	Giết người khác 10 lần	Kill others 10 times
+t_daily_task_desc_7	大乱斗，取得1次第一名	Đạt No.1 trong Cận chiến	Get No.1 in Melee
+t_daily_task_desc_8	一局战斗中击败5名玩家	Giết người khác 5 lần trong một trò chơi	Kill others 5 times in one game
+t_daily_task_desc_9	分享1次游戏	Chia sẻ một lần	Share once
+t_tips_1	账号升级后可以增加每周战斗金币上限	Tăng tối đa vàng chiến đấu hàng tuần sau khi nâng cấp tài khoản.	Increase the Max of weekly fight gold after account levelup.
+t_tips_2	每个赛季持续一周，每周一开始发放上个赛季的奖励	Mỗi mùa kéo dài một tuần. Giải thưởng của mùa giải trước sẽ được gửi qua email cho bạn vào thứ Hai hàng tuần.	Every season lasts one week. The award of last season is emailed to you every Monday.
+t_tips_3	每周一开始新的赛季，奖杯段位会随新赛季到来而下降	Cúp sẽ suy giảm khi mùa giải mới đến.	Cup will decline with the coming of new season.
+t_tips_4	留心地面上出现的红圈，被陨石命中会立即死亡嘞	Chú ý đến vòng tròn màu đỏ trên mặt đất. Nó sẽ chết ngay lập tức một khi bị thiên thạch đâm vào.	Pay attention to the red circle on the ground. It will be dead immediately once hit by meteorite.
+t_tips_5	升级后可以获得天赋点，天赋可以给角色带来巨大增益	Điểm tài năng có thể nhận được khi lên cấp trong chiến đấu, mang lại lợi nhuận khổng lồ cho các anh hùng.	Talent point can be gained upon levelup in fight, bringing huge profits for heroes.
+t_tips_6	雪人是无敌的，但还是会被龙卷风吹走哟	Snowman là bất khả xâm phạm, nhưng có thể bị thổi bay bởi Tornado.	Snowman is invulnerable, but can be blown away by Tornado.
+t_tips_7	能量越高，释放的道具技能越强力哦	Năng lượng cao hơn, kỹ năng mạnh mẽ hơn.	Higher energy, stronger skill.
+t_tips_8	带上你的小伙伴一起玩耍吧，多多分享多多领奖	Đưa bạn bè của bạn đi chơi cùng nhau. Và bạn có thể chia sẻ để nhận phần thưởng.	Take your friends to play together. And you can share to get reward.
+t_tips_9	混乱状态下，所有操作都会反向，包括技能释放哦	Tất cả các hoạt động, bao gồm phát hành kỹ năng, sẽ được đối lập trong trạng thái hỗn loạn.	All the operations, skill releasing included, will be opposite under chaotic state.
+t_tips_10	零流量自嗨结算时只获得金币和宝箱，成就和奖杯不会发生变化	Chỉ vàng và rương kho báu nhận được trong quá trình thanh toán Luyện tập với Danh dự và cúp không thay đổi.	Only gold and treasure chest are obtained during Practice settlement with Honor and cup unchanged.
+t_tips_11	偷偷告诉你，首次改名是免费的~	Nhưng hãy để tôi nói với bạn rằng nó hoàn toàn miễn phí cho lần đổi tên đầu tiên.	But let me tell you it is free of charge for first renaming.
+t_tips_12	战斗结束时排名越高，获得珍贵宝箱的几率越大	Xếp hạng cao hơn của một trò chơi có thể nhận được rương tốt hơn sau khi giải quyết.	Higher rank of one game can get better chest after settlement.
+t_tips_13	花费钻石可立即打开解锁中的宝箱	Tiêu kim cương để mở khóa rương ngay lập tức.	Spend diamonds to unlock chest immediately.
+t_tips_14	最多只能同时拥有4个宝箱，宝箱满了后无法再获得新宝箱	Bạn không thể nhận được rương mới khi khe ngực đã đầy.	You can't get a new chest when chest slot is full.
+t_tips_15	雪球蓄力后攻击力和射程都会大幅增强	Sát thương và phạm vi của AMMO sẽ được cải thiện massi	Damage and range of AMMO will be improved massively after charging.
+t_tips_16	战场瞬息万变，不到最后一刻谁也不能保证自己的排名	Điều kiện chiến trường thay đổi nhanh chóng, không ai có thể đảm bảo thứ hạng của anh ta cho đến giây phút cuối cùng.	The conditions of battlefield change quickly, nobody can guarantee his ranking till the last moment.
+t_tips_17	点击大厅界面的奖杯图标可以查看奖杯升降规则	Nhấn vào biểu tượng cốc trong sảnh để xem thông tin về cốc.	Click the cup icon in the hall to view the information of cup.
+t_tips_18	战斗不止是近身突突突，蓄力的超远狙击更安全	Sạc xa an toàn hơn.	Far snipe of charging is safer.
+t_tips_19	重复获得已拥有的角色，系统自动转化为20个角色碎片	Lặp lại để nhận anh hùng đã sở hữu và hệ thống sẽ chuyển nó thành 20 mảnh anh hùng.	Repeat to get owned heroes and system will convert it into 20 hero shards.
+t_vip_attr_name_1	月卡会员	Thành viên thẻ tháng	Month Card Member
+t_vip_attr_name_2	年卡会员	Thành viên thẻ năm	Year Card Member
+t_vip_attr_desc_1	[c2e5ed]月卡会员特权：##减少宝箱解锁时间20%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed] Đặc quyền của Thành viên Thẻ Tháng ## Thời gian mở khóa rương -20% ## Nhân ba phần thưởng khi đăng nhập ## Phần thưởng nhân đôi khi thanh toán theo mùa ## Phần thưởng hàng ngày	[c2e5ed]Privileges of Month Card Member##Unlocking time of chests -20%##Triple rewards of login##Double rewards of season settlement##Daily reward
+t_vip_attr_desc_2	[c2e5ed]年卡会员特权：##减少宝箱解锁时间30%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed] Đặc quyền của thành viên thẻ năm ## Thời gian mở rương -20% ## Nhân ba phần thưởng khi đăng nhập ## Phần thưởng nhân đôi khi thanh toán theo mùa ## Phần thưởng hàng ngày	[c2e5ed]Privileges of Year Card Member##Unlocking time of chests -20%##Triple rewards of login##Double rewards of season settlement##Daily reward
+t_boss_attr_name_1	雪怪	Boss	Boss
+t_talent_pve_name_1001	攻击[ee3b3b]+2,生命值[5bd300]+10	CHƯA	NOTYET
+t_talent_pve_name_1002	攻击[ee3b3b]+4/8/12,攻击[ee3b3b]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_1003	生命值[5bd300]+20/40/60,生命值[5bd300]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_1004	攻击[ee3b3b]+4/8/12,普通雪球射程[e4ac01]+5000/10000/15000	CHƯA	NOTYET
+t_talent_pve_name_1005	攻击[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,移速[e4ac01]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_1006	生命值[5bd300]+20/40/60,伤害减免[5bd300]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_1007	攻击[ee3b3b]+4/8/12,暴击率[ee3b3b]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_1008	攻击[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,无视防御概率[ee3b3b]+20/40/60%	CHƯA	NOTYET
+t_talent_pve_name_1009	攻击[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,普通雪球命中回复生命[5bd300]+10/20/30	CHƯA	NOTYET
+t_talent_pve_name_1010	生命值[5bd300]+20/40/60,每秒回复生命[5bd300]+5/10/15	CHƯA	NOTYET
+t_talent_pve_name_1011	攻击[ee3b3b]+8/16/24,每击杀一名敌人攻击[ee3b3b]+1/2/3	CHƯA	NOTYET
+t_talent_pve_name_1012	攻击[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,每击杀一名敌人生命[5bd300]+5/10/15	CHƯA	NOTYET
+t_talent_pve_name_1013	攻击[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,触发死亡时，生命变为1，无敌5/6/7秒，冷却120秒	CHƯA	NOTYET
+t_talent_pve_name_1014	攻击[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,免疫控制概率[5bd300]+20/40/60%	CHƯA	NOTYET
+t_talent_pve_name_1015	生命值[5bd300]+40/80/120,免疫普攻概率[5bd300]+10/20/30%	CHƯA	NOTYET
+t_talent_pve_name_2001	变雪人冷却时间减少[e4ac01]+10/20/30%	CHƯA	NOTYET
+t_talent_pve_name_2002	技能伤害增加[ee3b3b]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_2003	技能冷却时间减少[e4ac01]+10/20/30%	CHƯA	NOTYET
+t_talent_pve_name_2004	技能伤害增加[ee3b3b]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_2005	拾取技能球升2级概率[e4ac01]+20/40/60%	CHƯA	NOTYET
+t_talent_pve_name_2006	控制敌人时间延长[ee3b3b]+10/20/30%	CHƯA	NOTYET
+t_talent_pve_name_2007	技能伤害增加[ee3b3b]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+20/40/60%	CHƯA	NOTYET
+t_talent_pve_name_2009	释放技能回复生命[5bd300]+100/200/300	CHƯA	NOTYET
+t_talent_pve_name_2010	技能冷却期间减伤[5bd300]+8/16/24%	CHƯA	NOTYET
+t_talent_pve_name_2011	技能伤害增加[ee3b3b]+10/20/30%	CHƯA	NOTYET
+t_talent_pve_name_2012	对技能释放者反弹伤害[5bd300]+20/40/60%	CHƯA	NOTYET
+t_talent_pve_name_2013	释放技能回复至满生命值概率[5bd300]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_2014	对自己当前的技能免疫概率[5bd300]+20/40/60%	CHƯA	NOTYET
+t_talent_pve_name_2015	释放技能免除冷却概率[e4ac01]+10/20/30%	CHƯA	NOTYET
+t_talent_pve_name_3001	移速[e4ac01]+1500/3000/4500	CHƯA	NOTYET
+t_talent_pve_name_3002	拾取水晶额外积分[e4ac01]+10/20/30	CHƯA	NOTYET
+t_talent_pve_name_3003	物品拾取范围[e4ac01]+10/20/30%	CHƯA	NOTYET
+t_talent_pve_name_3004	拾取水晶回复生命[5bd300]+5/10/15	CHƯA	NOTYET
+t_talent_pve_name_3005	拾取技能球升2级概率[e4ac01]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_3006	拾取能力球升2级概率[e4ac01]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_3007	血瓶回复量[5bd300]+40/80/120%	CHƯA	NOTYET
+t_talent_pve_name_3008	拾取水晶2倍积分概率[e4ac01]+5/10/15%	CHƯA	NOTYET
+t_talent_pve_name_3009	拾取能力球增加积分[e4ac01]+300/600/900	CHƯA	NOTYET
+t_talent_pve_name_3010	拾取能力雪球回复生命[5bd300]+20/40/60	CHƯA	NOTYET
+t_talent_pve_name_3011	护盾抵挡伤害次数[5bd300]+1/2/3	CHƯA	NOTYET
+t_talent_pve_name_3012	每10000积分攻击[ee3b3b]+4/8/12	CHƯA	NOTYET
+t_talent_pve_name_3013	每10000积分生命[5bd300]+20/40/60	CHƯA	NOTYET
+t_talent_pve_name_3014	拾取能力雪球获得护盾概率[e4ac01]+20/40/60%	CHƯA	NOTYET
+t_talent_pve_name_3015	能力雪球最大等级提升[e4ac01]+2/4/6	CHƯA	NOTYET
+t_talent_pve_desc1_1001	攻击[ee3b3b]+4,生命值[5bd300]+20	CHƯA	NOTYET
+t_talent_pve_desc1_1002	攻击[ee3b3b]+4,攻击[ee3b3b]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_1003	生命值[5bd300]+20,生命值[5bd300]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_1004	攻击[ee3b3b]+4,普通雪球射程[e4ac01]+5000	CHƯA	NOTYET
+t_talent_pve_desc1_1005	攻击[ee3b3b]+2,生命值[5bd300]+10,移速[e4ac01]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_1006	生命值[5bd300]+20,伤害减免[5bd300]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_1007	攻击[ee3b3b]+4,暴击率[ee3b3b]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_1008	攻击[ee3b3b]+2,生命值[5bd300]+10,无视防御概率[ee3b3b]+20%	CHƯA	NOTYET
+t_talent_pve_desc1_1009	攻击[ee3b3b]+2,生命值[5bd300]+10,普通雪球命中回复生命[5bd300]+10	CHƯA	NOTYET
+t_talent_pve_desc1_1010	生命值[5bd300]+20,每秒回复生命[5bd300]+5	CHƯA	NOTYET
+t_talent_pve_desc1_1011	攻击[ee3b3b]+8,每击杀一名敌人攻击[ee3b3b]+1	CHƯA	NOTYET
+t_talent_pve_desc1_1012	攻击[ee3b3b]+4,生命值[5bd300]+20,每击杀一名敌人生命[5bd300]+5	CHƯA	NOTYET
+t_talent_pve_desc1_1013	攻击[ee3b3b]+4,生命值[5bd300]+20,触发死亡时，生命变为1，无敌5秒，冷却120秒	CHƯA	NOTYET
+t_talent_pve_desc1_1014	攻击[ee3b3b]+4,生命值[5bd300]+20,免疫控制概率[5bd300]+20%	CHƯA	NOTYET
+t_talent_pve_desc1_1015	生命值[5bd300]+40,免疫普攻概率[5bd300]+10%	CHƯA	NOTYET
+t_talent_pve_desc1_2001	变雪人冷却时间减少[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc1_2002	技能伤害增加[ee3b3b]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_2003	技能冷却时间减少[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc1_2004	技能伤害增加[ee3b3b]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_2005	拾取技能球升2级概率[e4ac01]+20%	CHƯA	NOTYET
+t_talent_pve_desc1_2006	控制敌人时间延长[ee3b3b]+10%	CHƯA	NOTYET
+t_talent_pve_desc1_2007	技能伤害增加[ee3b3b]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+20%	CHƯA	NOTYET
+t_talent_pve_desc1_2009	释放技能回复生命[5bd300]+100	CHƯA	NOTYET
+t_talent_pve_desc1_2010	技能冷却期间减伤[5bd300]+8%	CHƯA	NOTYET
+t_talent_pve_desc1_2011	技能伤害增加[ee3b3b]+10%	CHƯA	NOTYET
+t_talent_pve_desc1_2012	对技能释放者反弹伤害[5bd300]+20%	CHƯA	NOTYET
+t_talent_pve_desc1_2013	释放技能回复至满生命值概率[5bd300]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_2014	对自己当前的技能免疫概率[5bd300]+20%	CHƯA	NOTYET
+t_talent_pve_desc1_2015	释放技能免除冷却概率[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc1_3001	移速[e4ac01]+1500	CHƯA	NOTYET
+t_talent_pve_desc1_3002	拾取水晶额外积分[e4ac01]+10	CHƯA	NOTYET
+t_talent_pve_desc1_3003	物品拾取范围[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc1_3004	拾取水晶回复生命[5bd300]+5	CHƯA	NOTYET
+t_talent_pve_desc1_3005	拾取技能球升2级概率[e4ac01]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_3006	拾取能力球升2级概率[e4ac01]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_3007	血瓶回复量[5bd300]+40%	CHƯA	NOTYET
+t_talent_pve_desc1_3008	拾取水晶2倍积分概率[e4ac01]+5%	CHƯA	NOTYET
+t_talent_pve_desc1_3009	拾取能力球增加积分[e4ac01]+300	CHƯA	NOTYET
+t_talent_pve_desc1_3010	拾取能力雪球回复生命[5bd300]+20	CHƯA	NOTYET
+t_talent_pve_desc1_3011	护盾抵挡伤害次数[5bd300]+1	CHƯA	NOTYET
+t_talent_pve_desc1_3012	每10000积分攻击[ee3b3b]+4	CHƯA	NOTYET
+t_talent_pve_desc1_3013	每10000积分生命[5bd300]+20	CHƯA	NOTYET
+t_talent_pve_desc1_3014	拾取能力雪球获得护盾概率[e4ac01]+20%	CHƯA	NOTYET
+t_talent_pve_desc1_3015	能力雪球最大等级提升[e4ac01]+2	CHƯA	NOTYET
+t_talent_pve_desc2_1001	攻击[ee3b3b]+6,生命值[5bd300]+30	CHƯA	NOTYET
+t_talent_pve_desc2_1002	攻击[ee3b3b]+8,攻击[ee3b3b]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_1003	生命值[5bd300]+40,生命值[5bd300]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_1004	攻击[ee3b3b]+8,普通雪球射程[e4ac01]+10000	CHƯA	NOTYET
+t_talent_pve_desc2_1005	攻击[ee3b3b]+4,生命值[5bd300]+20,移速[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_1006	生命值[5bd300]+40,伤害减免[5bd300]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_1007	攻击[ee3b3b]+8,暴击率[ee3b3b]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_1008	攻击[ee3b3b]+4,生命值[5bd300]+20,无视防御概率[ee3b3b]+40%	CHƯA	NOTYET
+t_talent_pve_desc2_1009	攻击[ee3b3b]+4,生命值[5bd300]+20,普通雪球命中回复生命[5bd300]+20	CHƯA	NOTYET
+t_talent_pve_desc2_1010	生命值[5bd300]+40,每秒回复生命[5bd300]+10	CHƯA	NOTYET
+t_talent_pve_desc2_1011	攻击[ee3b3b]+16,每击杀一名敌人攻击[ee3b3b]+2	CHƯA	NOTYET
+t_talent_pve_desc2_1012	攻击[ee3b3b]+8,生命值[5bd300]+40,每击杀一名敌人生命[5bd300]+10	CHƯA	NOTYET
+t_talent_pve_desc2_1013	攻击[ee3b3b]+8,生命值[5bd300]+40,触发死亡时，生命变为1，无敌6秒，冷却120秒	CHƯA	NOTYET
+t_talent_pve_desc2_1014	攻击[ee3b3b]+8,生命值[5bd300]+40,免疫控制概率[5bd300]+40%	CHƯA	NOTYET
+t_talent_pve_desc2_1015	生命值[5bd300]+80,免疫普攻概率[5bd300]+20%	CHƯA	NOTYET
+t_talent_pve_desc2_2001	变雪人冷却时间减少[e4ac01]+20%	CHƯA	NOTYET
+t_talent_pve_desc2_2002	技能伤害增加[ee3b3b]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_2003	技能冷却时间减少[e4ac01]+20%	CHƯA	NOTYET
+t_talent_pve_desc2_2004	技能伤害增加[ee3b3b]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_2005	拾取技能球升2级概率[e4ac01]+40%	CHƯA	NOTYET
+t_talent_pve_desc2_2006	控制敌人时间延长[ee3b3b]+20%	CHƯA	NOTYET
+t_talent_pve_desc2_2007	技能伤害增加[ee3b3b]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+40%	CHƯA	NOTYET
+t_talent_pve_desc2_2009	释放技能回复生命[5bd300]+200	CHƯA	NOTYET
+t_talent_pve_desc2_2010	技能冷却期间减伤[5bd300]+16%	CHƯA	NOTYET
+t_talent_pve_desc2_2011	技能伤害增加[ee3b3b]+20%	CHƯA	NOTYET
+t_talent_pve_desc2_2012	对技能释放者反弹伤害[5bd300]+40%	CHƯA	NOTYET
+t_talent_pve_desc2_2013	释放技能回复至满生命值概率[5bd300]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_2014	对自己当前的技能免疫概率[5bd300]+40%	CHƯA	NOTYET
+t_talent_pve_desc2_2015	释放技能免除冷却概率[e4ac01]+20%	CHƯA	NOTYET
+t_talent_pve_desc2_3001	移速[e4ac01]+3000	CHƯA	NOTYET
+t_talent_pve_desc2_3002	拾取水晶额外积分[e4ac01]+20	CHƯA	NOTYET
+t_talent_pve_desc2_3003	物品拾取范围[e4ac01]+20%	CHƯA	NOTYET
+t_talent_pve_desc2_3004	拾取水晶回复生命[5bd300]+10	CHƯA	NOTYET
+t_talent_pve_desc2_3005	拾取技能球升2级概率[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_3006	拾取能力球升2级概率[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_3007	血瓶回复量[5bd300]+80%	CHƯA	NOTYET
+t_talent_pve_desc2_3008	拾取水晶2倍积分概率[e4ac01]+10%	CHƯA	NOTYET
+t_talent_pve_desc2_3009	拾取能力球增加积分[e4ac01]+600	CHƯA	NOTYET
+t_talent_pve_desc2_3010	拾取能力雪球回复生命[5bd300]+40	CHƯA	NOTYET
+t_talent_pve_desc2_3011	护盾抵挡伤害次数[5bd300]+2	CHƯA	NOTYET
+t_talent_pve_desc2_3012	每10000积分攻击[ee3b3b]+8	CHƯA	NOTYET
+t_talent_pve_desc2_3013	每10000积分生命[5bd300]+40	CHƯA	NOTYET
+t_talent_pve_desc2_3014	拾取能力雪球获得护盾概率[e4ac01]+40%	CHƯA	NOTYET
+t_talent_pve_desc2_3015	能力雪球最大等级提升[e4ac01]+4	CHƯA	NOTYET
+t_talent_pve_desc3_1001	攻击[ee3b3b]+2,生命值[5bd300]+10,	CHƯA	NOTYET
+t_talent_pve_desc3_1002	攻击[ee3b3b]+12,攻击[ee3b3b]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_1003	生命值[5bd300]+60,生命值[5bd300]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_1004	攻击[ee3b3b]+12,普通雪球射程[e4ac01]+15000	CHƯA	NOTYET
+t_talent_pve_desc3_1005	攻击[ee3b3b]+6,生命值[5bd300]+30,移速[e4ac01]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_1006	生命值[5bd300]+60,伤害减免[5bd300]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_1007	攻击[ee3b3b]+12,暴击率[ee3b3b]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_1008	攻击[ee3b3b]+6,生命值[5bd300]+30,无视防御概率[ee3b3b]+60%	CHƯA	NOTYET
+t_talent_pve_desc3_1009	攻击[ee3b3b]+6,生命值[5bd300]+30,普通雪球命中回复生命[5bd300]+30	CHƯA	NOTYET
+t_talent_pve_desc3_1010	生命值[5bd300]+60,每秒回复生命[5bd300]+15	CHƯA	NOTYET
+t_talent_pve_desc3_1011	攻击[ee3b3b]+24,每击杀一名敌人攻击[ee3b3b]+3	CHƯA	NOTYET
+t_talent_pve_desc3_1012	攻击[ee3b3b]+12,生命值[5bd300]+60,每击杀一名敌人生命[5bd300]+15	CHƯA	NOTYET
+t_talent_pve_desc3_1013	攻击[ee3b3b]+12,生命值[5bd300]+60,触发死亡时，生命变为1，无敌7秒，冷却120秒	CHƯA	NOTYET
+t_talent_pve_desc3_1014	攻击[ee3b3b]+12,生命值[5bd300]+60,免疫控制概率[5bd300]+60%	CHƯA	NOTYET
+t_talent_pve_desc3_1015	生命值[5bd300]+120,免疫普攻概率[5bd300]+30%	CHƯA	NOTYET
+t_talent_pve_desc3_2001	变雪人冷却时间减少[e4ac01]+30%	CHƯA	NOTYET
+t_talent_pve_desc3_2002	技能伤害增加[ee3b3b]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_2003	技能冷却时间减少[e4ac01]+30%	CHƯA	NOTYET
+t_talent_pve_desc3_2004	技能伤害增加[ee3b3b]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_2005	拾取技能球升2级概率[e4ac01]+60%	CHƯA	NOTYET
+t_talent_pve_desc3_2006	控制敌人时间延长[ee3b3b]+30%	CHƯA	NOTYET
+t_talent_pve_desc3_2007	技能伤害增加[ee3b3b]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+60%	CHƯA	NOTYET
+t_talent_pve_desc3_2009	释放技能回复生命[5bd300]+300	CHƯA	NOTYET
+t_talent_pve_desc3_2010	技能冷却期间减伤[5bd300]+24%	CHƯA	NOTYET
+t_talent_pve_desc3_2011	技能伤害增加[ee3b3b]+30%	CHƯA	NOTYET
+t_talent_pve_desc3_2012	对技能释放者反弹伤害[5bd300]+60%	CHƯA	NOTYET
+t_talent_pve_desc3_2013	释放技能回复至满生命值概率[5bd300]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_2014	对自己当前的技能免疫概率[5bd300]+60%	CHƯA	NOTYET
+t_talent_pve_desc3_2015	释放技能免除冷却概率[e4ac01]+30%	CHƯA	NOTYET
+t_talent_pve_desc3_3001	移速[e4ac01]+4500	CHƯA	NOTYET
+t_talent_pve_desc3_3002	拾取水晶额外积分[e4ac01]+30	CHƯA	NOTYET
+t_talent_pve_desc3_3003	物品拾取范围[e4ac01]+30%	CHƯA	NOTYET
+t_talent_pve_desc3_3004	拾取水晶回复生命[5bd300]+15	CHƯA	NOTYET
+t_talent_pve_desc3_3005	拾取技能球升2级概率[e4ac01]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_3006	拾取能力球升2级概率[e4ac01]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_3007	血瓶回复量[5bd300]+120%	CHƯA	NOTYET
+t_talent_pve_desc3_3008	拾取水晶2倍积分概率[e4ac01]+15%	CHƯA	NOTYET
+t_talent_pve_desc3_3009	拾取能力球增加积分[e4ac01]+900	CHƯA	NOTYET
+t_talent_pve_desc3_3010	拾取能力雪球回复生命[5bd300]+60	CHƯA	NOTYET
+t_talent_pve_desc3_3011	护盾抵挡伤害次数[5bd300]+3	CHƯA	NOTYET
+t_talent_pve_desc3_3012	每10000积分攻击[ee3b3b]+12	CHƯA	NOTYET
+t_talent_pve_desc3_3013	每10000积分生命[5bd300]+60	CHƯA	NOTYET
+t_talent_pve_desc3_3014	拾取能力雪球获得护盾概率[e4ac01]+60%	CHƯA	NOTYET
+t_talent_pve_desc3_3015	能力雪球最大等级提升[e4ac01]+6	CHƯA	NOTYET
+t_battle_msg_101	集合，速攻雪怪！	Rơi vào! Tấn công ông chủ!	Fall in! Attack the Boss!
+t_battle_msg_102	跟着我，带你飞~	Theo tôi!	Follow me!
+t_battle_msg_103	敌人很强，猥琐发育。	Kẻ thù mạnh hơn, tránh xa.	Enemy is stronger, keep away.
+t_battle_msg_104	救我，我被包围了！	Giúp tôi với, tôi đang gặp rắc rối!	Help me, I am in trouble!
+t_rank_type_desc_0	账号等级不少于5级	Yêu cầu Lv.5	Required Lv.5
+t_rank_type_desc_1	成就等级不少于4级（否则显示为0）	Danh dự bắt buộc Lv.4, nếu không được hiển thị là 0	Required Honor Lv.4, otherwise displayed as 0
+t_rank_type_desc_2	单场最高得分不少于50000（否则显示为0），不含自嗨模式	Yêu cầu điểm 50000 ít nhất trong một trò chơi để có tên trong danh sách (Thực hành không tham gia), nếu không sẽ hiển thị là 0	Required 50000 score at least in single game to get on the list(Practice not involved), otherwise displayed as 0
+t_rank_type_desc_3	单场最高击杀数不少于8次（否则显示为0），不含自嗨模式	Giết 8 người khác ít nhất trong một trò chơi để có tên trong danh sách (Thực hành không tham gia), nếu không sẽ hiển thị là 0	Kill 8 others at least in single game to get on the list(Practice not involved), otherwise displayed as 0
+t_rank_type_desc_4	单场连杀数不少于5次（否则显示为0），不含自嗨模式	Giết 5 người khác ít nhất một cách kiên quyết không chết trong một trò chơi để có tên trong danh sách (Thực hành không tham gia), nếu không sẽ hiển thị là 0	Kill 5 others at least insistently without death in single game to get on the list(Practice not involved), otherwise displayed as 0
+t_guide_init_01	欢迎来到新手教程！	Chào mừng bạn đến với hướng dẫn của Zuki, chúng ta bắt đầu!	Welcome to the tutorial of Zuki, here we go!
+t_guide_init_02	点击拖动轮盘移动	Kéo bánh xe để di chuyển anh hùng của bạn	Drag the wheel to move your hero
+t_guide_init_03	移动角色到目标点	Di chuyển đến đích	Move to the destination
+t_guide_init_04	任务:使用普攻命中敌人5次	Nhiệm vụ: Đánh kẻ thù 5 lần	Mission: Hit the enemy 5 times
+t_guide_init_05	连续点击普攻按钮	Nhấn nhanh vào nút tấn công	Tap the attack button quickly
+t_guide_init_06	长按进行蓄力	Tiếp tục nhấn nút để sạc	Keep pressing the button to charge
+t_guide_init_07	长按普通按钮进行充能，充能完成能大大提升攻击和射程	Charge-Attack mạnh hơn với tầm xa hơn	Charge-attack is more powerful with longer range
+t_guide_init_08	长按进行蓄力	Tiếp tục nhấn nút để sạc	Keep pressing the button to charge
+t_guide_init_09	任务:使用蓄力攻击命中敌人2次	Nhiệm vụ: Đánh địch 2 lần bằng đòn tấn công	Mission: Hit the enemy 2 times by the charge-attack
+t_guide_init_10	战场的祭坛定期刷新新技能道具,前往拾取技能道具	Phép thuật sẽ được gọi bởi bàn thờ thường xuyên trong chiến trường, hãy nhặt nó lên	Magic spell will be called by the altar regularly in battlefield, pick it up
+t_guide_init_11	释放道具技能消耗能量,请在战场中收集能量水晶	Giải phóng một phép thuật sẽ làm tiêu hao thanh năng lượng và bạn có thể thu thập viên pha lê để tăng cường năng lượng của mình	Release a magic spell will expend energy bar, and you can collect the crystal to boost your energy
+t_guide_init_12	现在有一格能量了 可以释放一级技能	Bạn có một thanh năng lượng đầy, hãy cố gắng giải phóng phép thuật	You have a filled energy bar, try to release the magic spell
+t_guide_init_13	任务:使用技能命中敌人1次	Nhiệm vụ: Đánh kẻ thù 1 lần bằng phép thuật	Mission: Hit the enemy 1 time by the magic spell
+t_guide_init_14	点击释放技能	Nhấn để giải phóng phép thuật	Tap to release magic spell
+t_guide_init_15	技能为一次性道具，使用后需要重新拾取	Phép thuật là vật chống đỡ một lần, bạn phải chọn một cái khác để sử dụng	Magic spell is an one-time prop, you have to pick another one to use
+t_guide_init_16	能量槽越多，释放技能等级越高，威力越大，请收集更多水晶吧	Phát hành một phép thuật sẽ tiêu hao tất cả các thanh năng lượng đã nạp đầy của bạn. Thu thập thêm pha lê và phát hành câu thần chú mạnh mẽ nhất	Release a magic spell will expend all of your filled energy bars. Collect more crystal and release the most powerful spell
+t_guide_init_17	任务:使用三级技能命中敌人1次	Nhiệm vụ: Đánh kẻ thù 1 lần bằng phép thuật mạnh nhất	Mission: Hit the enemy 1 time by the most powerful magic spell
+t_guide_init_18	点击释放技能	Nhấn để giải phóng phép thuật	Tap to release magic spell
+t_guide_init_19	冲锋和雪人是每个角色的通用技能，始终消耗一个能量，有各自冷却时间	Rush và Snowman là những phép thuật ban đầu cho mỗi anh hùng, cả hai đều có thời gian CD nhưng chỉ mở rộng một thanh năng lượng luôn luôn	Rush and Snowman are initial magic spells for each hero, they both have CD time but expand only one energy bar invariably
+t_guide_init_20	冲锋：在持续时间内大幅度提升移动速度	Rush: Tăng thêm tốc độ di chuyển cho bản thân trong 2 giây	Rush: Grant yourself bonus movement speed for 2 seconds
+t_guide_init_21	任务:请在3秒内到达目的地	Nhiệm vụ: Đến đích sau 3 giây	Mission: Arrive at your destination in 3 seconds
+t_guide_init_22	雪人：在持续时间内免疫一切伤害，并持续回复生命	Người tuyết: Biến mình thành người tuyết đứng yên có thể tự hồi phục trong trạng thái bất khả xâm phạm trong suốt thời gian	Snowman: Transfigure yourself into a stationary snowman which can heal itself in an invulnerable state during the duration
+t_guide_init_23	任务:请在7秒内保持存活	Nhiệm vụ: Sống sót sau 7 giây	Mission: Survive 7 seconds
+t_guide_init_24	再次点击雪人按钮可以结束雪人状态，或等到持续时间结束自动解除	Nhấn vào nút người tuyết một lần nữa để tự định hình lại hoặc bạn có thể đợi hết thời gian	Tap the snowman button again to transfigure yourself back, or you can wait the duration is over
+t_guide_init_25	战场会定时刷新雪怪，雪怪被击败会掉落大量资源，请尽快前往	Boss sẽ xuất hiện thường xuyên, nó sẽ cung cấp nguồn tài nguyên chiến đấu lớn sau khi bị giết. Làm theo hướng dẫn và hoàn thành nó!	The boss will appear regularly, it will provide massive battle resource after being killed. Follow the lead and finish it!
+t_guide_init_26	任务:击败雪怪（雪怪免疫技能伤害）	Nhiệm vụ: Giết boss (Boss không thể bị ma thuật làm hại)	Mission: Kill the boss (Boss cannot be harmed by magic spells)
+t_guide_init_27	点击查看强力buff，翅膀持有者死亡后会传递给击杀者	Nhấn vào biểu tượng buff để xem khả năng của cánh. Cánh có thể bị cướp bằng cách tiêu diệt tàu sân bay cuối cùng	Tap the buff icon to view the wing's ability. The wing can be robbed through killing the last carrier
+t_guide_init_28	你已完成所有教程，现在开始实战训练吧	Tất cả các hướng dẫn hoàn thành. Hãy bắt đầu một trận chiến thực sự!	All tutorials complete. Let's begin an actual combat!
+t_guide_init_29	点击图标学习天赋	Nhấn vào một biểu tượng để mở khóa một khả năng	Tap an icon to unlock an ability
+t_guide_init_30	拾取水晶同时增加经验，每次升级获得一次天赋加点机会	Nhặt viên pha lê cũng có thể tăng điểm kinh nghiệm của bạn, bạn có cơ hội mở khóa khả năng mỗi khi bạn lên cấp	Picking the crystal can also increase your exp, you have a chance to unlock an ability each time you level up
+t_penguin_name_2001	小豆豆	Wendy	Wendy
+t_penguin_name_2002	小豆豆	Wendy	Wendy
+t_penguin_name_2003	小豆豆	Wendy	Wendy
+t_penguin_name_2004	小豆豆	Wendy	Wendy
+t_penguin_name_2005	小豆豆	Wendy	Wendy
+t_penguin_name_2006	豆豆	Tracy	Tracy
+t_penguin_name_2007	豆豆	Tracy	Tracy
+t_penguin_name_2008	豆豆	Tracy	Tracy
+t_penguin_name_2009	豆豆	Tracy	Tracy
+t_penguin_name_2010	豆豆	Tracy	Tracy
+t_penguin_name_2011	大豆豆	Cathy	Cathy
+t_penguin_name_2012	大豆豆	Cathy	Cathy
+t_penguin_name_2013	大豆豆	Cathy	Cathy
+t_penguin_name_2014	大豆豆	Cathy	Cathy
+t_penguin_name_2015	大豆豆	Cathy	Cathy
+t_boss_attr_name_10001	雪怪	Boss	Boss
+t_boss_attr_name_10002	雪怪	Boss	Boss
+t_boss_attr_name_10003	雪怪	Boss	Boss
+t_boss_attr_name_10004	雪怪	Boss	Boss
+t_boss_attr_name_10005	雪怪	Boss	Boss

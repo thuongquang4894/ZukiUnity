@@ -1,0 +1,847 @@
+STRING	STRING	STRING	STRING	STRING
+代号	简体中文	Tiếng Việt	English	Tiếng Việt (Version tự dịch)
+AchieveAnimation_001	恭喜达成新成就	Chúc mừng!	Congratulations	Chúc mừng!
+AchieveAnimation_002	成新成就	Thành tựu mới		Thành tựu mới
+AchieveAnimation_003	确定	OK	OK	OK
+AchieveAnimation_004	分享	Chia sẻ	Share	Chia sẻ
+AchieveAnimation_005	成就等级	Cấp độ thành tích	Honor Level	Cấp độ thành tích
+AchieveAnimation_006	12312	12312		12312
+AchieveAnimation_007	一局对战中击杀1一	Giết 1 trong một trò chơi		Giết 1 trong một trò chơi
+AvaIconPanel_001	使用中	Đang sử dụng	Using	Đang sử dụng
+AvatarPanel_001	系统头像	Avatar	Avatar	Avatar
+AvatarPanel_002	描述	Chi tiết	Detail	Chi tiết
+AvatarPanel_003	111	111		111
+AvatarPanel_004	使用	Sử dụng	Use	Sử dụng
+AvatarPanel_005	1.11E+32	1.11E+32		1.11E+32
+AvatarPanel_006	头像框详情	Chi tiết	Detail	Chi tiết
+AvatarPanel_007	系统头像框	Khung	Rim	Khung
+AvatarPanel_008	使用中	Đang sử dụng	Using	Đang sử dụng
+AvatarPanel_009	头像	Avatar	Avatar	Avatar
+AvatarPanel_010	头像框	Khung	Rim	Khung
+AvatarPanel_011	头像	Avatar	Avatar	Avatar
+BackPanel_001	6111111	6111111		6111111
+BackPanel_002	11111	11111		11111
+BackPanel_003	1	1		1
+BackPanel_004	999/1999	999/1999		999/1999
+BackPanel_005	一二三四一二	123412		123412
+BackPanel_006	99999999	99999999		99999999
+BackPanel_007	99999999	99999999		99999999
+BackPanel_008	99999999	99999999		99999999
+BattlePanel_001	99	99		99
+BattlePanel_002	名字最大八个大字	Tối đa tám ký tự của tên		Tối đa tám ký tự của tên
+BattlePanel_003	名字最	Tên hay nhất		Tên hay nhất
+BattlePanel_004	99	99		99
+BattlePanel_005	名字最大八个大字	Tối đa tám ký tự của tên		Tối đa tám ký tự của tên
+BattlePanel_006	名字最	Tên hay nhất		Tên hay nhất
+BattlePanel_007	99	99		99
+BattlePanel_008	名字最大八个大字	Tối đa tám ký tự của tên		Tối đa tám ký tự của tên
+BattlePanel_009	名字最	Tên hay nhất		Tên hay nhất
+BattlePanel_010	15125	15125		15125
+BattlePanel_011	15125	15125		15125
+BattlePanel_012	15125	15125		15125
+BattlePanel_013	免疫	Miễn dịch	Immune	Miễn dịch
+BattlePanel_014	Lv.25	Lv.25		Lv.25
+BattlePanel_015	5	5		5
+BattlePanel_016	5	5		5
+BattlePanel_017	5	5		5
+BattlePanel_018	5	5		5
+BattlePanel_019	秒	s	s	s
+BattlePanel_020	[c2e5ed]移速[57FC5B]+20%[-][c2e5ed]，输出伤害[57FC5B]+50%[-][c2e5ed]，减伤[57FC5B]+30%[-][c2e5ed]，免控概率[57FC5B]+20%[-]	[c2e5ed] Tốc độ di chuyển [57FC5B] +20% [-] [c2e5ed], Sát thương [57FC5B] +50% [-] [c2e5ed], Giảm sát thương [57FC5B] +30% [-] [c2e5ed], Miễn dịch khống chế [57FC5B] +20% [-]	[c2e5ed]Move Speed [57FC5B]+20%[-][c2e5ed], Damage [57FC5B]+50%[-][c2e5ed], Damage Reduction [57FC5B]+30%[-][c2e5ed], Immunity of Control[57FC5B]+20%[-]	[c2e5ed] Tốc độ di chuyển [57FC5B] +20% [-] [c2e5ed], Sát thương [57FC5B] +50% [-] [c2e5ed], Giảm sát thương [57FC5B] +30% [-] [c2e5ed], Miễn dịch khống chế [57FC5B] +20% [-]
+BattlePanel_021	1.23E+20	1.23E+20		1.23E+20
+BattlePanel_022	10/110	10/110		10/110
+BattlePanel_023	雪怪	Boss	Boss	Boss
+BattlePanel_024	11:00	11:00		11:00
+BattlePanel_025	攻击力	Tấn công	Attack	Tấn công
+BattlePanel_026	[5bd300]+30%	[5bd300]+30%		[5bd300]+30%
+BattlePanel_027	攻击力	Tấn công	Attack	Tấn công
+BattlePanel_028	[5bd300]+30%	[5bd300]+30%		[5bd300]+30%
+BattlePanel_029	攻击力	Tấn công	Attack	Tấn công
+BattlePanel_030	[5bd300]+30%	[5bd300]+30%		[5bd300]+30%
+BattlePanel_031	攻击力	Tấn công	Attack	Tấn công
+BattlePanel_032	[5bd300]+30%	[5bd300]+30%		[5bd300]+30%
+BattlePanel_033	攻击力	Tấn công	Attack	Tấn công
+BattlePanel_034	[5bd300]+30%	[5bd300]+30%		[5bd300]+30%
+BattlePanel_035	1.23E+11	1.23E+11		1.23E+11
+BattlePanel_036	全场最佳	MVP	MVP	MVP
+BattlePanel_037	获胜队伍中表现最佳玩家	Người chơi có giá trị nhất trong số những người chiến thắng	Most valuable player of winners	Người chơi có giá trị nhất trong số những người chiến thắng
+BattlePanel_038	超        神	Siêu thần	Godlike	Siêu thần
+BattlePanel_039	不死亡情况下连杀8人以上	Giết hơn 8 người liên tiếp mà không chết	Not killed even kill more than 8 players	Giết hơn 8 người liên tiếp mà không chết
+BattlePanel_040	人  头  王	Sát thủ hàng đầu	Top Killer	Sát thủ hàng đầu
+BattlePanel_041	全场击杀次数最多	Giết nhiều người chơi nhất	Kill the most players	Giết nhiều người chơi nhất
+BattlePanel_042	123123123	123123123		123123123
+BattlePanel_043	123	123		123
+BattlePanel_044	123	123		123
+BattlePanel_045	双杀	Giết hai lần liên tiếp	Double kill	Giết hai lần liên tiếp
+BattlePanel_046	雪怪10s后离开战场	Boss sẽ rời đi sau 10 giây	The boss will leave after 10 seconds	Boss sẽ rời đi sau 10 giây
+BattlePanel_047	10:00	08:00	08:00	08:00
+BattlePanel_048	500	500		500
+BattlePanel_049	500	500		500
+BattlePanel_050	5000000	5000000		5000000
+BattlePanel_051	得分榜	Điểm	Score	Điểm
+BattlePanel_052	击杀榜	Giết	Kill	Giết
+BattlePanel_053	名字最多八个大字	Tên có thể có tối đa tám ký tự		Tên có thể có tối đa tám ký tự
+BattlePanel_054	999999	999999		999999
+BattlePanel_055	名字最多八个大字	Tên có thể có tối đa tám ký tự		Tên có thể có tối đa tám ký tự
+BattlePanel_056	999999	999999		999999
+BattlePanel_057	名字最多八个大字	Tên có thể có tối đa tám ký tự		Tên có thể có tối đa tám ký tự
+BattlePanel_058	999999	999999		999999
+BattlePanel_059	4	4	4	4
+BattlePanel_060	名字最多八个大字	Tên có thể có tối đa tám ký tự		Tên có thể có tối đa tám ký tự
+BattlePanel_061	999999	999999		999999
+BattlePanel_062	5	5	5	5
+BattlePanel_063	名字最多八个大字	Tên có thể có tối đa tám ký tự		Tên có thể có tối đa tám ký tự
+BattlePanel_064	999999	999999		999999
+BattlePanel_065	1	1	1	1
+BattlePanel_066	名字最多八个大字	Tên có thể có tối đa tám ký tự		Tên có thể có tối đa tám ký tự
+BattlePanel_067	999999	999999		999999
+BattlePanel_068	正在说话...	Ghi âm…	Recording…	Ghi âm…
+BattlePanel_069	取消施法	Hủy bỏ	Cancel	Hủy bỏ
+BattlePanel_070	FPS:	FPS:	FPS:	FPS:
+BattlePanel_071	12	12	12	12
+BattlePanel_072	2000	2000		2000
+BattlePanel_073	Ping:	Ping:	Ping:	Ping:
+BattlePanel_074	12	12	12	12
+BattlePanel_075	点击继续	Nhấn để tiếp tục	Tap to continue	Nhấn để tiếp tục
+BattlePanel_076	你被名字最多八个大字杀死了	Bị giết bởi	Slain by	Bị giết bởi
+BattlePanel_077	34	34		34
+BattlePanel_078	复活	Hồi sinh	Reviving	Hồi sinh
+BattlePanel_079	返回大厅	Trở lại chiến trường	Back to hall	Trở lại chiến trường
+BattlePanel_080	返回大厅	Trở lại chiến trường	Back to hall	Trở lại chiến trường
+BattlePanel_081	排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_082	用户	Người chơi	Player	Người chơi
+BattlePanel_083	得分	Điểm số	Score	Điểm số
+BattlePanel_084	击杀/死亡	Giết/Chết	Kill/Death	Giết/Chết
+BattlePanel_085	奖杯	Cup	Cup	Cup
+BattlePanel_086	奖励	Giải thưởng	Reward	Giải thưởng
+BattlePanel_087	好友	Tương tác	Interaction	Tương tác
+BattlePanel_088	1	1	1	1
+BattlePanel_089	玩家名字最长八字	Ký tự dài nhất trong tên của người chơi		Ký tự dài nhất trong tên của người chơi
+BattlePanel_090	玩家名字最长八字	Ký tự dài nhất trong tên của người chơi		Ký tự dài nhất trong tên của người chơi
+BattlePanel_091	999999	999999		999999
+BattlePanel_092	1月2日	Ngày 2 tháng 2	2nd, Feb	Ngày 2 tháng 2
+BattlePanel_093	(+55)	(+55)	(+55)	(+55)
+BattlePanel_094	获取上限	Lớn nhất	Max	Lớn nhất
+BattlePanel_095	[ff8a00](双倍)[-]	[ff8a00] (Đôi) [-]	[ff8a00](Double)[-]	[ff8a00] (Đôi) [-]
+BattlePanel_096	本轮结算	Kết quả	Result	Kết quả
+BattlePanel_097	详情	Chi tiết	Detail	Chi tiết
+BattlePanel_098	属性	Tài sản	Property	Tài sản
+BattlePanel_099	名字	Tên	Name	Tên
+BattlePanel_100	稀有	Hiếm	Rare	Hiếm
+BattlePanel_101	1.11E+104	1.11E+104		1.11E+104
+BattlePanel_102	生命	Hp	Health	Hp
+BattlePanel_103	100[56DF77]+111[-]	100[56DF77]+111[-]		100[56DF77]+111[-]
+BattlePanel_104	防御	Phòng thủ	Defense	Phòng thủ
+BattlePanel_105	100[ff0000]+111[-]	100[ff0000]+111[-]		100[ff0000]+111[-]
+BattlePanel_106	移速	Tốc độ di chuyển	Move Speed	Tốc độ di chuyển
+BattlePanel_107	100[ff0000]+111[-]	100[ff0000]+111[-]		100[ff0000]+111[-]
+BattlePanel_108	回血	Tái tạo Hp	Health Regeneration	Tái tạo Hp
+BattlePanel_109	100[ff0000]+111[-]	100[ff0000]+111[-]		100[ff0000]+111[-]
+BattlePanel_110	暴击	Tỉ lệ chí mạng	Critical Rate	Tỉ lệ chí mạng
+BattlePanel_111	100[ff0000]+111[-]	100[ff0000]+111[-]		100[ff0000]+111[-]
+BattlePanel_112	射程	Phạm vi	Range	Phạm vi
+BattlePanel_113	100[ff0000]+111[-]	100[ff0000]+111[-]		100[ff0000]+111[-]
+BattlePanel_114	攻击	Tấn công	Attack	Tấn công
+BattlePanel_115	100[ff0000]+111[-]	100[ff0000]+111[-]		100[ff0000]+111[-]
+BattlePanel_116	3	3		3
+BattlePanel_117	个人战绩	Dữ liệu của tôi	My data	Dữ liệu của tôi
+BattlePanel_118	确认	OK	OK	OK
+BattlePanel_119	分享	Chia sẻ	Share	Chia sẻ
+BattlePanel_120	玩家	Tên	Name	Tên
+BattlePanel_121	玩家角色	Anh hùng	Hero	Anh hùng
+BattlePanel_122	出战角色	Anh hùng	Hero	Anh hùng
+BattlePanel_123	玩家排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_124	最终排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_125	玩家排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_126	最终得分	Điểm số	Score	Điểm số
+BattlePanel_127	玩家排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_128	获得经验	Exp	Exp	Exp
+BattlePanel_129	玩家排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_130	击杀人数	Giết 	Kill	Giết 
+BattlePanel_131	玩家排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_132	被击杀数	Chết	Death	Chết
+BattlePanel_133	111	111		111
+BattlePanel_134	获得金币	Vàng	Gold	Vàng
+BattlePanel_135	玩家排名	Thứ hạng	Rank	Thứ hạng
+BattlePanel_136	确认	OK	OK	OK
+BattlePanel_137	完成引导	Hoàn thành	Finished	Hoàn thành
+BattlePanel_138	恭喜你完成引导,接下来就看你大展身手咯~~	Chúc mừng bạn đã hoàn thành hướng dẫn và sau đó chúng tôi sẽ thấy bạn thể hiện kỹ năng của mình ~~		Chúc mừng bạn đã hoàn thành hướng dẫn và sau đó chúng tôi sẽ thấy bạn thể hiện kỹ năng của mình ~~
+BattlePanel_139	图形	Đồ họa	Graphics	Đồ họa
+BattlePanel_140	画质:	Chất lượng:	Quality:	Chất lượng:
+BattlePanel_141	普通	Bình thường	Normal	Bình thường
+BattlePanel_142	较高	Trung bình	Medium	Trung bình
+BattlePanel_143	极高	Cao	High	Cao
+BattlePanel_144	特效:	Hiệu ứng:	Effect:	Hiệu ứng:
+BattlePanel_145	普通	Bình thường	Normal	Bình thường
+BattlePanel_146	精美	Xuất sắc	Excellent	Xuất sắc
+BattlePanel_147	确认	OK	OK	OK
+BattlePanel_148	按住方向轮盘移动角色到目标地点	Nhấn và giữ vô lăng để di chuyển nhân vật đến vị trí mục tiêu		Nhấn và giữ vô lăng để di chuyển nhân vật đến vị trí mục tiêu
+BattlePanel_149	按住方向轮盘移动角色到目标地点	Nhấn và giữ vô lăng để di chuyển nhân vật đến vị trí mục tiêu		Nhấn và giữ vô lăng để di chuyển nhân vật đến vị trí mục tiêu
+BattlePanel_150	确认	OK	OK	OK
+BattlePanel_151	跳过教程	Bỏ qua tất cả hướng dẫn	Skip all tutorial	Bỏ qua tất cả hướng dẫn
+BattlePanel_152	此操作将会立即结束教程，确定不需要学习一下么~	Bạn sẽ rời khỏi hướng dẫn	You will leave the tutorial	Bạn sẽ rời khỏi hướng dẫn
+BattlePanel_153	点击屏幕继续	Nhấn để tiếp tục	Tap to continue	Nhấn để tiếp tục
+BattlePanel_154	分享	Chia sẻ	Share	Chia sẻ
+BattlePanel_155	欢迎来到冰雪世界，请跟随软妹的语音进行操作吧~	Chào mừng bạn, hãy làm theo hướng dẫn và học cách chơi	Welcome, follow the tutorial and learn how to play	Chào mừng bạn, hãy làm theo hướng dẫn và học cách chơi
+BattlePanel_156	点击此处继续	Nhấn vào đây để tiếp tục	Tap here to continue	Nhấn vào đây để tiếp tục
+BattlePanel_157	0/10	0/10		0/10
+BattlePanel_158	确认	OK	OK	OK
+BattlePanel_159	任务失败，重新开始	Nhiệm vụ không thành công, hãy thử lại	Mission failed, try again	Nhiệm vụ không thành công, hãy thử lại
+BuyPanel_001	-10	-10	-10	-10
+BuyPanel_002	10	10	10	10
+BuyPanel_003	999999	999999		999999
+BuyPanel_004	花费	Trị giá	Cost	Trị giá
+BuyPanel_005	1/99	1/99		1/99
+BuyPanel_006	请选择购买数量：	Số lượng:	Amount：	Số lượng:
+BuyPanel_007	确认	OK	OK	OK
+BuyPanel_008	取消	Hủy bỏ	Cancel	Hủy bỏ
+BuyPanel_009	道具名称	Tên vật phẩm	Item name	Tên vật phẩm
+BuyPanel_010	99999	99999		99999
+BuyPanel_011	拥有	Có	Have	Có
+BuyPanel_012	99999	99999		99999
+BuyPanel_013	单价	Giá bán	Price	Giá bán
+BuyPanel_014	购买	Mua hàng	Buy	Mua hàng
+BuyPanel_015	兑换	Trao đổi	Exchange	Trao đổi
+BuyPanel_016	骨头	Khúc xương		Khúc xương
+BuyPanel_017	骨头1111111111111111111111111111	Xương 1111111111111111111111111111		Xương 1111111111111111111111111111
+BuyPanel_018	x698	x698		x698
+ChatPanel_001	点击输入你要说的话	Nhấn để nhập	Tap to input	Nhấn để nhập
+ChatPanel_002	确认	OK	OK	OK
+ChatPanel_003	最多输入30个汉字	Giới hạn 30 chữ cái	30 letters limited	Giới hạn 30 chữ cái
+ChatPanel_004	喇叭	Kèn Trumpet	Trumpet	Kèn Trumpet
+ChatPanel_005	剩余数量：	Có	Have	Có
+ChatPanel_006	9999	9999		9999
+ChatPanel_007	取消	Hủy bỏ	Cancel	Hủy bỏ
+ChatPanel_008	New Label	Nhãn mới		Nhãn mới
+ChatPanel_009	30	30		30
+ChatPanel_010	黄金11111111111111111111111111111111111111111111111111111111111111111111111111111111	Vàng 11111111111111111111111111111111111111111111111111111111111111111111111111111111111		Vàng 11111111111111111111111111111111111111111111111111111111111111111111111111111111111
+ChatPanel_011	角色	Anh hùng	Hero	Anh hùng
+ChatPanel_012	x99	x99		x99
+ChatPanel_013	发送	Gửi	Send	Gửi
+ChatPanel_014	您有1条新消息	1 tin nhắn mới(s)	1 new message(s)	1 tin nhắn mới(s)
+ChatPanel_015	点击输入你要说的话	Nhấn để nhập	Tap to input	Nhấn để nhập
+ChatPanel_016	综合	Cộng đồng	Public	Cộng đồng
+ChatPanel_017	频道	Kênh	Channel	Kênh
+ChatPanel_018	系统	Hệ thống	System	Hệ thống
+ChestPanel_001	99	99		99
+ChestPanel_002	99	99		99
+ChestPanel_003	99	99		99
+ChestPanel_004	99	99		99
+ChestPanel_005	2	2		2
+ChestPanel_006	New Label	Nhãn mới		Nhãn mới
+ChestPanel_007	111	111		111
+ChestPanel_008	New Label	Nhãn mới		Nhãn mới
+ChestPanel_009	111	111		111
+ChestPanel_010	99	99		99
+ChestPanel_011	99	99		99
+ChestPanel_012	99	99		99
+ChestPanel_013	99	99		99
+ChestPanel_014	120	120		120
+ChestPanel_015	金币	Vàng	Gold	Vàng
+ChestPanel_016	120-240	120-240		120-240
+ChestPanel_017	物品	Vật phẩm	Item	Vật phẩm
+ChestPanel_018	120-240	120-240		120-240
+ChestPanel_019	稀有以上物品	Hàng hiếm hoặc tốt hơn	Rare or better item	Hàng hiếm hoặc tốt hơn
+ChestPanel_020	至少包含：	Ít nhất:	At least：	Ít nhất:
+ChestPanel_021	120-240	120-240		120-240
+ChestPanel_022	金币	Vàng	Gold	Vàng
+ChestPanel_023	120-240	120-240		120-240
+ChestPanel_024	物品	Vật phẩm	Item	Vật phẩm
+ChestPanel_025	打开	Mở ra	Open	Mở ra
+ChestPanel_026	99	99		99
+ChestPanel_027	立即打开	Mở ngay bây giờ	Open now	Mở ngay bây giờ
+ChestPanel_028	解锁倒计时:	Mở khóa thời gian:	Unlock time:	Mở khóa thời gian:
+ChestPanel_029	20:20:20	20:20:20		20:20:20
+ChestPanel_030	99	99		99
+ChestPanel_031	购买	Mua hàng	Buy	Mua hàng
+ChestPanel_032	超级神奇宝箱	Rương kho báu siêu huyền diệu		Rương kho báu siêu huyền diệu
+ChestPanel_033	开始解锁	Mở khóa	Unlock	Mở khóa
+ChestPanel_034	12小时	12 giờ	12 hours	12 giờ
+ChestPanel_035	购买宝箱11111111111111111111111111111111111111111111	Mua rương kho báu 11111111111111111111111111111111111111111111111		Mua rương kho báu 11111111111111111111111111111111111111111111111
+ChestPanel_036	开启宝箱	Mở kho báu	Open chest	Mở kho báu
+ChestShowPanel_001	x999	x999		x999
+ChestShowPanel_002	立即打开	Mở ngay bây giờ	Open now	Mở ngay bây giờ
+ChestShowPanel_003	02:52:00	02:52:00		02:52:00
+ChestShowPanel_004	点击解锁	Mở khóa	Unlock	Mở khóa
+ChestShowPanel_005	打开	Mở ra	Open	Mở ra
+ChestShowPanel_006	宝箱位	Rương kho báu	Chest slot	Rương kho báu
+ChestShowPanel_007	宝石宝箱	Rương đá quý		Rương đá quý
+ChestShowPanel_008	解锁时间	Dành thời gian	Spend time	Dành thời gian
+ChestShowPanel_009	1月3日	3 tháng 1		3 tháng 1
+ChestShowPanel_010	今日可开启1次，每日05:00重置	Còn lại [-] [f01c1c] 1 [-] [C2E5ED] giờ, đặt lại lúc [-] [57FC5B] 5:00 sáng [-] [C2E5ED] hàng ngày	Remaining [-][f01c1c]1[-][C2E5ED] time(s), reset at [-][57FC5B]5:00 am[-][C2E5ED] daily	Còn lại [-] [f01c1c] 1 [-] [C2E5ED] giờ, đặt lại lúc [-] [57FC5B] 5:00 sáng [-] [C2E5ED] hàng ngày
+ChestShowPanel_011	[3AB9FC]打开需要完成[-][57FC5B]3[-][3AB9FC]场个人竞技或团队竞技	[3AB9FC] Bắt buộc phải chơi Cận chiến hoặc Xung đột [-] [57FC5B] 3 [-] [3AB9FC] lần	[3AB9FC]Required to play the Melee or Conflict [-][57FC5B]3[-][3AB9FC] times	[3AB9FC] Bắt buộc phải chơi Cận chiến hoặc Xung đột [-] [57FC5B] 3 [-] [3AB9FC] lần
+ChestShowPanel_012	战斗宝箱	Rương hàng ngày	Daily Chest	Rương hàng ngày
+ChestShowPanel_013	打开	Mở ra	Open	Mở ra
+common_panel_001	New Label	Nhãn mới		Nhãn mới
+common_panel_002	8	8		8
+CupPanel_001	奖杯	Cup	Cup	Cup
+CupPanel_002	本赛季	Mùa này	This season	Mùa này
+CupPanel_003	结算倒计时：	Đếm ngược	Countdown	Đếm ngược
+CupPanel_004	结算的奖励以邮件方式发放	Phần thưởng mùa giải sẽ được gửi qua đường bưu điện	Season reward will be send by mail	Phần thưởng mùa giải sẽ được gửi qua đường bưu điện
+CupPanel_005	New Label	Nhãn mới		Nhãn mới
+CupPanel_006	New Label	Nhãn mới		Nhãn mới
+CupPanel_007	赛季奖励	Giải thưởng mùa giải	Season prize	Giải thưởng mùa giải
+CupPanel_008	当前奖杯	Hiện hành	Current	Hiện hành
+DetailPanel_001	钻石	Kim cương	Diamond	Kim cương
+DetailPanel_002	1.11E+52	1.11E+52		1.11E+52
+DetailPanel_003	道具详情	Chi tiết	Detail	Chi tiết
+DetailPanel_004	钻石	Kim cương	Diamond	Kim cương
+DetailPanel_005	拥有	Có	Have	Có
+DetailPanel_006	New Label	Nhãn mới		Nhãn mới
+ForeBattle_001	战斗准备	Sẵn sàng cho trận chiến		Sẵn sàng cho trận chiến
+ForeBattle_002	天赋	Tài năng		Tài năng
+ForeBattle_003	技能一	Kỹ năng một		Kỹ năng một
+ForeBattle_004	技能二	Kỹ năng hai		Kỹ năng hai
+ForeBattle_005	点击刷新	Làm mới	Refresh	Làm mới
+ForeBattle_006	x10	x10		x10
+ForeBattle_007	免费	Miễn phí	Free	Miễn phí
+ForeBattle_008	进入战场后，初始状态可拥有一个天赋和两个技能，每场3次机会刷新	Sau khi vào chiến trường, trạng thái ban đầu có thể có một tài năng và hai kỹ năng, 3 cơ hội làm mới mỗi trận đấu		Sau khi vào chiến trường, trạng thái ban đầu có thể có một tài năng và hai kỹ năng, 3 cơ hội làm mới mỗi trận đấu
+ForeBattle_009	本场刷新次数	Làm mới thời gian trong trường này		Làm mới thời gian trong trường này
+ForeBattle_010	2月3日	3 tháng 2		3 tháng 2
+ForeBattle_011	12	12		12
+ForeBattle_012	秒后进入战场...	Vào chiến trường sau vài giây ...		Vào chiến trường sau vài giây ...
+ForeBattle_013	立即进入	Nhấn Enter ngay bây giờ		Nhấn Enter ngay bây giờ
+FriendPanel_001	好友	Bạn bè	Friend	Bạn bè
+FriendPanel_002	11	11		11
+FriendPanel_003	黑名单	Danh sách đen	Blacklist	Danh sách đen
+FriendPanel_004	睡熟世俗事实上是	Ngủ một cách trần tục thực sự là		Ngủ một cách trần tục thực sự là
+FriendPanel_005	在线	Trực tuyến	Online	Trực tuyến
+FriendPanel_006	1	1		1
+FriendPanel_007	11	11		11
+FriendPanel_008	推荐好友	RCMD	RCMD	RCMD
+FriendPanel_009	搜索玩家	Tìm kiếm	Search	Tìm kiếm
+FriendPanel_010	申请列表	Lời yêu cầu	Request	Lời yêu cầu
+FriendPanel_011	好友馈赠	Quà tặng	Gift	Quà tặng
+FriendPanel_012	当前在线  20 / 60	Trực tuyến	on-line	Trực tuyến
+FriendPanel_013	您当前没有任何好友可通过推荐添加好友或者搜索好友	Bạn không có bạn bè, hãy nhấn vào Tìm kiếm hoặc RCMD để tìm ai đó	You have no friends, tap the Search or RCMD to find someone	Bạn không có bạn bè, hãy nhấn vào Tìm kiếm hoặc RCMD để tìm ai đó
+FriendPanel_014	搜索玩家	Tìm kiếm	Search	Tìm kiếm
+FriendPanel_015	没有搜索到该玩家，请检查是否输入错误	Không có kết quả, vui lòng kiểm tra tên	No results, check the name please	Không có kết quả, vui lòng kiểm tra tên
+FriendPanel_016	请输入玩家的昵称	Nhập biệt hiệu của người chơi	Input a player's nickname	Nhập biệt hiệu của người chơi
+FriendPanel_017	搜索玩家	Tìm kiếm	Search	Tìm kiếm
+FriendPanel_018	1	1		1
+FriendPanel_019	睡熟世俗事实上是	Ngủ một cách trần tục thực sự là		Ngủ một cách trần tục thực sự là
+FriendPanel_020	推荐好友	RCMD	RCMD	RCMD
+FriendPanel_021	换一批	Làm mới	Refresh	Làm mới
+FriendPanel_022	没有可推荐的玩家	Không có	None	Không có
+FriendPanel_023	好友申请	Lời yêu cầu	Request	Lời yêu cầu
+FriendPanel_024	1	1		1
+FriendPanel_025	睡熟世俗事实上是	Ngủ một cách trần tục thực sự là		Ngủ một cách trần tục thực sự là
+FriendPanel_026	同意	Đồng ý	Agree	Đồng ý
+FriendPanel_027	拒绝	Bỏ qua   	Ignore	Bỏ qua   
+FriendPanel_028	验证消息2222	Thông báo xác minh 2222		Thông báo xác minh 2222
+FriendPanel_029	申请列表为空	Trống	Empty	Trống
+FriendPanel_030	不接受好友申请	Bỏ qua tất cả	Ignore all	Bỏ qua tất cả
+FriendPanel_031	1	1		1
+FriendPanel_032	睡熟世俗事实上是	Ngủ một cách trần tục thực sự là		Ngủ một cách trần tục thực sự là
+FriendPanel_033	向您馈赠了	Tặng cho bạn		Tặng cho bạn
+FriendPanel_034	200	200		200
+FriendPanel_035	好友馈赠	Quà tặng	Gift	Quà tặng
+FriendPanel_036	一键领取	Yêu cầu tất cả	Claim all	Yêu cầu tất cả
+FriendPanel_037	没有好友馈赠可领取	Không có quà từ bạn bè	No gifts from friends	Không có quà từ bạn bè
+FriendPanel_038	你不想理睬对方！	Bỏ qua	Ignore	Bỏ qua
+FriendPanel_039	清空黑名单	Trống	Clear	Trống
+FriendPanel_040	发送	Gửi	Send	Gửi
+FriendPanel_041	您有1条新消息	1 tin nhắn mới(s)	1 new message(s)	1 tin nhắn mới(s)
+FriendPanel_042	点击输入你要说的话	Nhấn để nhập	Tap to input	Nhấn để nhập
+FriendPanel_043	New Label	Nhãn mới	New Label	Nhãn mới
+FriendPanel_044	1.11E+37	1.11E+37		1.11E+37
+FriendPanel_045	30	30		30
+FriendPanel_046	2017/5/10 10:12	2017/5/10 10:12		2017/5/10 10:12
+FriendPanel_047	New Label	Nhãn mới	New Label	Nhãn mới
+FriendPanel_048	30	30		30
+FriendPanel_049	2017/5/10 10:12	2017/5/10 10:12		2017/5/10 10:12
+GainPanel_001	恭喜您	Xin chúc mừng	Congratulations	Xin chúc mừng
+GainPanel_002	点击屏幕继续	Nhấn để tiếp tục	Tap to continue	Nhấn để tiếp tục
+GainPanel_003	获得了	!	!	!
+HallPanel_001	11	11		11
+HallPanel_002	综合	Cộng đồng	Public	Cộng đồng
+HallPanel_003	1.11E+32	1.11E+32		1.11E+32
+HallPanel_004	11111	11111		11111
+HallPanel_005	角色	Anh hùng	Hero	Anh hùng
+HallPanel_006	1	1		1
+HallPanel_007	背包	Hành trang	Bag	Hành trang
+HallPanel_008	任务	Course	Course	Course
+HallPanel_009	1	1		1
+HallPanel_010	成就	Thành tích	Honor	Thành tích
+HallPanel_011	11	11		11
+HallPanel_012	排行榜	Thứ hạng	Rank	Thứ hạng
+HallPanel_013	技能	Kỹ năng	Skill	Kỹ năng
+HallPanel_014	宝箱	Rương	Chest	Rương
+HallPanel_015	分享	Chia sẻ	Share	Chia sẻ
+HallPanel_016	夺宝	Kho báu	Treasure	Kho báu
+HallPanel_017	福利	Đặc quyền	Privilege	Đặc quyền
+HallPanel_018	首充	## Lần nạp tiền đầu tiên	First##Recharge	## Lần nạp tiền đầu tiên
+HallPanel_019	冰法七月	Phương pháp băng Tháng bảy		Phương pháp băng Tháng bảy
+HallPanel_020	冰法111111111111111111111111111111111111111111	Ice method 11111111111111111111111111111111111111111111		Ice method 11111111111111111111111111111111111111111111
+HallPanel_021	21321321	21321321		21321321
+HallPanel_022	1.11E+117	1,11E + 117		1,11E + 117
+HallPanel_023	SINGLE MODE	Trực tuyến	Online	Trực tuyến
+HallPanel_024	团队竞技	Cuộc xung đột	Conflict	Cuộc xung đột
+HallPanel_025	团队竞技	Cuộc xung đột	Conflict	Cuộc xung đột
+HallPanel_026	1月3日	3 tháng 1		3 tháng 1
+HallPanel_027	每日5:00重置双倍次数	Đặt lại hai lần mỗi ngày lúc 5:00		Đặt lại hai lần mỗi ngày lúc 5:00
+HallPanel_028	战斗结算双倍收益剩余次数（3级后不包括离线练习）	Thời gian thanh toán gấp đôi còn lại (Thực hành không tham gia sau Lv.3):	Remaining double settlement times(Practice not involved after Lv.3):	Thời gian thanh toán gấp đôi còn lại (Thực hành không tham gia sau Lv.3):
+HallPanel_029	$18	$18		$18
+HallPanel_030	每日在此领取	Phần thưởng hàng ngày	Daily Reward	Phần thưởng hàng ngày
+HallPanel_031	年卡	Thẻ năm	Year Card	Thẻ năm
+HallPanel_032	名字专属颜色	Màu độc quyền của tên	Exclusive color of name	Màu độc quyền của tên
+HallPanel_033	年卡会员头像框	Vành độc quyền	Exclusive rim	Vành độc quyền
+HallPanel_034	3倍签到奖励	Phần thưởng đăng nhập x3	Sign-in rewards x3	Phần thưởng đăng nhập x3
+HallPanel_035	减少宝箱解锁时间30%	Mở khóa thời gian rương -30%	Unlocking chest time -30%	Mở khóa thời gian rương -30%
+HallPanel_036	赛季奖杯结算奖励2倍	Phần thưởng giải quyết theo mùa x2	Season settlement rewards x2	Phần thưởng giải quyết theo mùa x2
+HallPanel_037	首次充值年卡赠送角色	Chỉ yêu cầu một lần	Claim only once	Chỉ yêu cầu một lần
+HallPanel_038	[ffcd00]冷风	[ffcd00] Husky	[ffcd00]Husky	[ffcd00] Husky
+HallPanel_039	首次充值年卡赠送角色	Chỉ yêu cầu một lần	Claim only once	Chỉ yêu cầu một lần
+HallPanel_040	[ffcd00]敖饼	[ffcd00] Rồng	[ffcd00]Dragon	[ffcd00] Rồng
+HallPanel_041	首次充值年卡赠送	Chỉ yêu cầu một lần	Claim only once	Chỉ yêu cầu một lần
+HallPanel_042	[ffcd00]雪炮-神龙	[ffcd00] Gun-Dragon	[ffcd00]Gun-Dragon	[ffcd00] Gun-Dragon
+HallPanel_043	每日在此领取	Phần thưởng hàng ngày	Daily Reward	Phần thưởng hàng ngày
+HallPanel_044	成为月卡会员	MUA NGAY	BUY NOW	MUA NGAY
+HallPanel_045	成为年卡会员	MUA NGAY	BUY NOW	MUA NGAY
+HallPanel_046	$18	$18		$18
+HallPanel_047	每日在此领取	Phần thưởng hàng ngày	Daily Reward	Phần thưởng hàng ngày
+HallPanel_048	名字专属颜色	Màu độc quyền của tên	Exclusive color of name	Màu độc quyền của tên
+HallPanel_049	月卡会员头像框	Vành độc quyền	Exclusive rim	Vành độc quyền
+HallPanel_050	3倍签到奖励	Phần thưởng đăng nhập x3	Sign-in rewards x3	Phần thưởng đăng nhập x3
+HallPanel_051	减少宝箱解锁时间20%	Mở khóa thời gian rương -20%	Unlocking chest time -20%	Mở khóa thời gian rương -20%
+HallPanel_052	赛季奖杯结算奖励2倍	Phần thưởng giải quyết theo mùa x2	Season settlement rewards x2	Phần thưởng giải quyết theo mùa x2
+HallPanel_053	首次充值月卡赠送角色	Chỉ yêu cầu một lần	Claim only once	Chỉ yêu cầu một lần
+HallPanel_054	[ffcd00]冷风	[ffcd00] Husky	[ffcd00]Husky	[ffcd00] Husky
+HallPanel_055	月卡	Thẻ tháng	Month Card	Thẻ tháng
+HallPanel_056	每日在此领取	Phần thưởng hàng ngày	Daily Reward	Phần thưởng hàng ngày
+HallPanel_057	专属福利	Đặc quyền	Privileges	Đặc quyền
+HallPanel_058	第一次的感觉是最棒的	Cảm giác đầu tiên là tuyệt vời nhất!	The first feeling is the best!	Cảm giác đầu tiên là tuyệt vời nhất!
+HallPanel_059	首次充值任意金额，即送限定角色	Nạp bất kỳ số lượng kim cương nào có thể nhận được anh hùng đặc biệt	Recharge any amount of diamonds can claim the special hero	Nạp bất kỳ số lượng kim cương nào có thể nhận được anh hùng đặc biệt
+HallPanel_060	立即充值	Nạp tiền ngay bây giờ	Recharge now	Nạp tiền ngay bây giờ
+HallPanel_061	槽里马	Alpaca	Alpaca	Alpaca
+HallPanel_062	视频	Video	Video	Video
+HallPanel_063	道具	Vật phẩm	Item	Vật phẩm
+HallPanel_064	战斗	TRẬN ĐÁNH	BATTLE	TRẬN ĐÁNH
+IconPanel_001	2	2		2
+IconPanel_002	2	2		2
+IconPanel_003	已签订	Đã sử dụng	Used	Đã sử dụng
+IconPanel_004	道具名称	Tên vật phẩm	Item name	Tên vật phẩm
+IconPanel_005	99	99		99
+IconPanel_006	2	2		2
+IconPanel_007	New Label	Nhãn mới	New Label	Nhãn mới
+IconPanel_008	6	6		6
+IconPanel_009	至尊	Tối cao		Tối cao
+IconPanel_010	6	6		6
+IconPanel_011	至尊	Tối cao		Tối cao
+IconPanel_012	11111	11111		11111
+IconPanel_013	已装备	Đã sử dụng	Used	Đã sử dụng
+ItemPanel_001	空荡荡的背包	Hành trang rỗng	Empty bag	Hành trang rỗng
+ItemPanel_002	道具	Vật phẩm		Vật phẩm
+ItemPanel_003	已装备	Đã sử dụng	Used	Đã sử dụng
+ItemPanel_004	9999999	9999999		9999999
+ItemPanel_005	售价	Giá bán	Price	Giá bán
+ItemPanel_006	道具名称	Tên vật phẩm	Item name	Tên vật phẩm
+ItemPanel_007	数量	Số lượng	Amount	Số lượng
+ItemPanel_008	道具详情	Chi tiết	Detail	Chi tiết
+ItemPanel_009	1.11E+61	1.11E+61		1.11E+61
+ItemPanel_010	倒计时：	Đếm ngược:	Countdown:	Đếm ngược:
+ItemPanel_011	倒计时：	Đếm ngược:	Countdown:	Đếm ngược:
+ItemPanel_012	出售	Bán	Sell	Bán
+ItemPanel_013	使用	Sử dụng	Use	Sử dụng
+ItemPanel_014	出售	Bán	Sell	Bán
+ItemPanel_015	出售	Bán	Sell	Bán
+LevelTask_001	成长历程	Tiến triển	Progress	Tiến triển
+LevelTask_002	1	1		1
+LevelTask_003	每日任务	Mục tiêu hàng ngày	Daily target	Mục tiêu hàng ngày
+LevelTask_004	1	1		1
+LevelTask_005	等级5	Cấp độ	Level	Cấp độ
+LevelTask_006	等级加成	Tặng kèm	Bonus	Tặng kèm
+LevelTask_007	123	123		123
+LevelTask_008	等级奖励	Giải thưởng	Reward	Giải thưởng
+LevelTask_009	11	11		11
+LevelTask_010	11	11		11
+LevelTask_011	11	11		11
+LevelTask_012	领取	Yêu cầu	Claim	Yêu cầu
+LevelTask_013	已领取	Đã yêu cầu bồi thường	Claimed	Đã yêu cầu bồi thường
+LevelTask_014	12312312	12312312		12312312
+LevelTask_015	x1	x1		x1
+LevelTask_016	前往领奖	Yêu cầu bồi thường	Go claim	Yêu cầu bồi thường
+LevelTask_017	尚未达到该等级，无法解锁该等级的专属任务哦	Mở khóa ở cấp độ yêu cầu	Unlock at the required level	Mở khóa ở cấp độ yêu cầu
+LevelTask_018	- 无任务 -	Trống	Empty	Trống
+LevelTask_019	12312312312	12312312312		12312312312
+LevelTask_020	0/3	0/3	0/3	0/3
+LevelTask_021	领取	Yêu cầu	Claim	Yêu cầu
+LevelTask_022	已领取	Đã yêu cầu bồi thường	Claimed	Đã yêu cầu bồi thường
+LevelTask_023	- 无任务 -	Trống	Empty	Trống
+LevelTask_024	12312312312	12312312312		12312312312
+LevelTask_025	0/3	0/3	0/3	0/3
+LevelTask_026	领取	Yêu cầu	Claim	Yêu cầu
+LevelTask_027	已领取	Đã yêu cầu bồi thường	Claimed	Đã yêu cầu bồi thường
+LevelTask_028	- 无任务 -	Trống	Empty	Trống
+LevelTask_029	12312312312	12312312312		12312312312
+LevelTask_030	0/3	0/3	0/3	0/3
+LevelTask_031	领取	Yêu cầu	Claim	Yêu cầu
+LevelTask_032	已领取	Đã yêu cầu bồi thường	Claimed	Đã yêu cầu bồi thường
+LevelTask_033	111	111		111
+LevelTask_034	22	22		22
+LevelTask_035	111	111		111
+LevelTask_036	11	11		11
+LevelTask_037	今日活跃度	Năng lượng ngày nay	Energy Today	Năng lượng ngày nay
+LevelTask_038	5	5	5	5
+LevelTask_039	30	30	30	30
+LevelTask_040	2	2	2	2
+LevelTask_041	活动名称	Sự kiện	Event	Sự kiện
+LevelTask_042	活动描述	Chi tiết	Detail	Chi tiết
+LevelTask_043	已领取	Đã yêu cầu bồi thường	Claimed	Đã yêu cầu bồi thường
+LevelTask_044	1月3日	3 tháng 1		3 tháng 1
+LevelTask_045	领取	Yêu cầu	Claim	Yêu cầu
+LevelUpPanel_001	等级提升	Thăng cấp	Level up	Thăng cấp
+LevelUpPanel_002	等级	Cấp độ	Level	Cấp độ
+LevelUpPanel_003	2	2		2
+LevelUpPanel_004	等级	Cấp độ	Level	Cấp độ
+LevelUpPanel_005	2	2		2
+LoadPanel_001	New Label	Nhãn mới		Nhãn mới
+LoadPanel_002	抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.	Search Zuki in facebook fan page to join us.	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.
+LoadPanel_003	战斗结束时获得宝箱的品质是随机的，部分角色可以提升高品质宝箱获得几率	Xếp hạng cao hơn của một trò chơi có thể nhận được rương tốt hơn sau khi giải quyết.	Higher rank of one game can get better chest after settlement.	Xếp hạng cao hơn của một trò chơi có thể nhận được rương tốt hơn sau khi giải quyết.
+LoadPanel_004	抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.	Search Zuki in facebook fan page to join us.	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.
+MailPanel_001	一键删除	Xóa nhanh	Quick Delete	Xóa nhanh
+MailPanel_002	一键领取	Yêu cầu nhanh	Quick Claim	Yêu cầu nhanh
+MailPanel_003	邮件	Thư	Mail	Thư
+MailPanel_004	2017	2017		2017
+MailPanel_005	邮件	Thư	Mail	Thư
+MailPanel_006	删除	Xóa bỏ	Delete	Xóa bỏ
+MailPanel_007	邮件	Thư	Mail	Thư
+MailPanel_008	6	6	6	6
+MailPanel_009	有效期：	Đếm ngược:	Count down:	Đếm ngược:
+MailPanel_010	领取	Yêu cầu	Claim	Yêu cầu
+MailPanel_011	没有邮件	Không có tin nhắn	No Message	Không có tin nhắn
+MailPanel_012	系统邮件	Hệ thống	System	Hệ thống
+MaskPanel_001	11111	11111		11111
+MessagePanel_001	收到服务器消息了!!	Đã nhận được tin nhắn máy chủ !!		Đã nhận được tin nhắn máy chủ !!
+NewAchievePanel_001	100/100	100/100		100/100
+NewAchievePanel_002	成就等级	Cấp độ	Level	Cấp độ
+NewAchievePanel_003	2	2		2
+NewAchievePanel_004	全国排名:未上榜	0	--	0
+NewAchievePanel_005	5 level reward	Phần thưởng 5 cấp		Phần thưởng 5 cấp
+NewAchievePanel_006	领   取	Yêu cầu	Claim	Yêu cầu
+NewAchievePanel_007	查看所有奖励	Xem tất cả	View all	Xem tất cả
+NewAchievePanel_008	吞食天地	Nuốt chửng trái đất		Nuốt chửng trái đất
+NewAchievePanel_009	2017 06 07 获得	2017 06 07 Thu được		2017 06 07 Thu được
+NewAchievePanel_010	34	34		34
+NewAchievePanel_011	%s级奖励	% Lv.s bắt buộc	Required Lv.s%	% Lv.s bắt buộc
+NewAchievePanel_012	已领取	Đã yêu cầu bồi thường	Claimed	Đã yêu cầu bồi thường
+NewAchievePanel_013	成就名称	Tên	Name	Tên
+NewAchievePanel_014	成就积分	Điểm	Point	Điểm
+NewAchievePanel_015	20	20		20
+NewAchievePanel_016	吞噬大环境	Tàn phá môi trường		Tàn phá môi trường
+NewAchievePanel_017	100/1000	100/1000		100/1000
+NewAchievePanel_018	成就积分	Điểm	Point	Điểm
+NewAchievePanel_019	20	20		20
+NewAchievePanel_020	吞噬大环境	Tàn phá môi trường		Tàn phá môi trường
+NewAchievePanel_021	100/1000	100/1000		100/1000
+NoticePanel_001	1111:00:00	1111:00:00		1111:00:00
+NoticePanel_002	1111	1111		1111
+NoticePanel_003	拒绝	Bỏ qua	Ignore	Bỏ qua
+NoticePanel_004	接受	OK	OK	OK
+NoticePanel_005	New Label	Nhãn mới		Nhãn mới
+NoticePanel_006	组队邀请	Lời mời	Invitation	Lời mời
+NoticePanel_007	(30s)	(30 giây)	(30s)	(30 giây)
+NoticePanel_008	添加好友验证信息	Lời yêu cầu	Request	Lời yêu cầu
+NoticePanel_009	确认	OK	OK	OK
+NoticePanel_010	请输入验证信息（最多15字）	Nhấn để nhập yêu cầu	Tap to input request	Nhấn để nhập yêu cầu
+NoticePanel_011	交个朋友吧~~	Xin chào, tôi muốn chơi với bạn	Hi, I wanna play with you	Xin chào, tôi muốn chơi với bạn
+NoticePanel_012	取消	Hủy bỏ	Cancel	Hủy bỏ
+RankPanel_001	奖杯榜	Cup	Cup	Cup
+RankPanel_002	成就榜	Thành tích	Honor	Thành tích
+RankPanel_003	高分榜	Điểm số	Score	Điểm số
+RankPanel_004	击杀榜	Giết	Kill	Giết
+RankPanel_005	连杀榜	Combo	Combo	Combo
+RankPanel_006	世界	Server	Server	Server
+RankPanel_007	好友	Bạn bè	Friends	Bạn bè
+RankPanel_008	1	1		1
+RankPanel_009	11	11		11
+RankPanel_010	最长6个值是	6 giá trị dài nhất là		6 giá trị dài nhất là
+RankPanel_011	值是	Giá trị là		Giá trị là
+RankPanel_012	钻石屋	Diamond House		Diamond House
+RankPanel_013	111	111		111
+RankPanel_014	排名	Thứ hạng	Rank	Thứ hạng
+RankPanel_015	玩家信息	Người chơi	Player	Người chơi
+RankPanel_016	地区	Khu vực	Region	Khu vực
+RankPanel_017	奖杯	Cup	Cup	Cup
+RankPanel_018	1.23E+16	1,23E + 16		1,23E + 16
+RankPanel_019	1	1		1
+RankPanel_020	11	11		11
+RankPanel_021	最长6个值是	6 giá trị dài nhất là		6 giá trị dài nhất là
+RankPanel_022	值是	Giá trị là		Giá trị là
+RankPanel_023	钻石屋	Diamond House		Diamond House
+RankPanel_024	111	111		111
+RankPanel_025	123123	123123		123123
+RankPanel_026	暂无数据	Không có dữ liệu	No data	Không có dữ liệu
+RoleGetPanel_001	小妹	Em gái		Em gái
+RoleGetPanel_002	确定	OK	OK	OK
+RoleGetPanel_003	分享	Chia sẻ	Share	Chia sẻ
+RolePanel_002	112/999	112/999		112/999
+RolePanel_003	出战中	Sẵn sàng	Ready	Sẵn sàng
+RolePanel_004	满星	Lớn nhất	Max	Lớn nhất
+RolePanel_005	满星	Lớn nhất	Max	Lớn nhất
+RolePanel_006	升星	Nâng cấp	Upgrade	Nâng cấp
+RolePanel_007	合成	Triệu hồi	Summon	Triệu hồi
+RolePanel_008	未拥有	Đã khóa	Locked	Đã khóa
+RolePanel_009	出战	Đi	Go	Đi
+RolePanel_010	已出战	Sẵn sàng	Ready	Sẵn sàng
+RolePanel_011	升星	Nâng cấp	Upgrade	Nâng cấp
+RolePanel_012	出战中	Sẵn sàng	Ready	Sẵn sàng
+RolePanel_013	1300	1300		1300
+RolePanel_014	1300	1300		1300
+RolePanel_015	黄盖	Bìa vàng		Bìa vàng
+RolePanel_016	1300	1300		1300
+RolePanel_017	1300	1300		1300
+RolePanel_018	1300	1300		1300
+RolePanel_019	1300	1300		1300
+RolePanel_020	账号经验	EXP tài khoản	Account EXP	EXP tài khoản
+RolePanel_021	80	80		80
+RolePanel_022	99999	99999		99999
+RolePanel_023	升星	Nâng cấp	Upgrade	Nâng cấp
+RolePanel_024	1300	1300		1300
+RolePanel_025	1300	1300		1300
+RolePanel_026	1300	1300		1300
+RolePanel_027	1300	1300		1300
+RolePanel_028	出战中	Sẵn sàng	Ready	Sẵn sàng
+RolePanel_029	Lv.5	Lv.5	Lv.5	Lv.5
+RolePanel_030	Lv.5	Lv.5	Lv.5	Lv.5
+RolePanel_031	角色	Anh hùng	Hero	Anh hùng
+RolePanel_032	稀有	Hiếm	Rare	Hiếm
+RolePanel_033	论	Exp		Exp
+RolePanel_034	生命	Hp	Health	Hp
+RolePanel_035	5800	5800		5800
+RolePanel_036	攻击	Tấn công	Attack	Tấn công
+RolePanel_037	5800	5800		5800
+RolePanel_038	防御	Phòng thủ	Defense	Phòng thủ
+RolePanel_039	5800	5800		5800
+RolePanel_040	射程	Phạm vi	Range	Phạm vi
+RolePanel_041	5800	5800		5800
+RolePanel_042	移速	Tốc độ, vận tốc	Speed	Tốc độ, vận tốc
+RolePanel_043	5800	5800		5800
+SelectPanel_001	确认	OK	OK	OK
+SelectPanel_002	取消	Hủy bỏ	Cancel	Hủy bỏ
+SelectPanel_003	确认	OK	OK	OK
+SelectPanel_004	提示	Mẹo	Tips	Mẹo
+SellPanel_001	出售	Bán	Sell	Bán
+SellPanel_002	道具名称	Tên vật phẩm	Item name	Tên vật phẩm
+SellPanel_003	拥有	Có	Have	Có
+SellPanel_004	99999	99999		99999
+SellPanel_005	99999	99999		99999
+SellPanel_006	单价	Giá cả	Price	Giá cả
+SellPanel_007	-10	-10	-10	-10
+SellPanel_008	10	10	10	10
+SellPanel_009	售价	Giá cả	Price	Giá cả
+SellPanel_010	999999	999999		999999
+SellPanel_011	1/99	1/99		1/99
+SellPanel_012	请选择出售数量	Số lượng	Amount	Số lượng
+SellPanel_013	确认	OK	OK	OK
+SellPanel_014	取消	Hủy bỏ	Cancel	Hủy bỏ
+SetPanel_001	礼包码	Mã số	Code	Mã số
+SetPanel_002	点击输入礼包码	Nhấn để nhập CDKEY	Tap to input the CDKEY	Nhấn để nhập CDKEY
+SetPanel_003	领取	Yêu cầu	Claim	Yêu cầu
+SetPanel_004	声音	Âm thanh	Sound	Âm thanh
+SetPanel_005	声音：	Âm thanh:	Sound：	Âm thanh:
+SetPanel_006	音效	Hiệu ứng âm thanh	Sound effect	Hiệu ứng âm thanh
+SetPanel_007	音乐	Âm nhạc	Music	Âm nhạc
+SetPanel_008	注销	Đăng xuất	Logout	Đăng xuất
+SetPanel_009	声音设置	Âm thanh	Sound	Âm thanh
+SetPanel_010	活动	Sự kiện	Event	Sự kiện
+SetPanel_011	官网	Website	Website	Website
+SetPanel_012	礼包码	Mã số	Code	Mã số
+SetPanel_013	客服	Dịch vụ	Service	Dịch vụ
+SetPanel_014	论坛	Diễn đàn	Forum	Diễn đàn
+SetPanel_015	系统公告	Lưu ý	Notice	Lưu ý
+SetPanel_016	图形	Đồ họa	Graphics	Đồ họa
+SetPanel_017	分享	Chia sẻ	Share	Chia sẻ
+SetPanel_018	系统设置	Cài đặt	Setting	Cài đặt
+SetPanel_019	系统公告	Lưu ý	Notice	Lưu ý
+SetPanel_020	New Label	Nhãn mới	New Label	Nhãn mới
+SetPanel_021	当前没有公告	Không thông báo	No notice	Không thông báo
+SetPanel_022	系统公告	Lưu ý	Notice	Lưu ý
+SetPanel_023	我知道了	OK	OK	OK
+SetPanel_024	图形	Đồ họa	Graphics	Đồ họa
+SetPanel_025	画质:	Chất lượng:	Quality:	Chất lượng:
+SetPanel_026	普通	Bình thường	Normal	Bình thường
+SetPanel_027	较高	Cao	High	Cao
+SetPanel_028	极高	Cực kỳ	Ultra	Cực kỳ
+SetPanel_029	特效:	Tác dụng:	Effect:	Tác dụng:
+SetPanel_030	普通	Bình thường	Normal	Bình thường
+SetPanel_031	精美	Cực kỳ	Ultra	Cực kỳ
+SetPanel_032	确认	OK	OK	OK
+SharePanel_001	分享	Chia sẻ	Share	Chia sẻ
+SharePanel_002	分享到微信	Chia sẻ trong Wechat	Share in Wechat	Chia sẻ trong Wechat
+SharePanel_003	分享到朋友圈	Chia sẻ trong vòng kết nối bạn bè	Share in Circle of Friends	Chia sẻ trong vòng kết nối bạn bè
+SharePanel_004	分享到微博	Chia sẻ trên Weibo	Share in Weibo	Chia sẻ trên Weibo
+SharePanel_005	分享到QQ	Chia sẻ trong QQ	Share in QQ	Chia sẻ trong QQ
+SharePanel_006	分享到QQ空间	Chia sẻ trong Khu QQ	Share in QQ Zone	Chia sẻ trong Khu QQ
+SharePanel_007	取消	Hủy bỏ	Cancel	Hủy bỏ
+SharePanel_008	我的二维码	Mã QR của tôi	My QR code	Mã QR của tôi
+SharePanel_009	分享	Đăng lại	Share	Đăng lại
+SharePanel_010	领取	Yêu cầu	Claim	Yêu cầu
+SharePanel_011	特别奖励	Phần thưởng bổ sung	Extra Reward	Phần thưởng bổ sung
+SharePanel_012	每天完成1次分享即可领取支援宝箱哦！	Chỉ chia sẻ một lần có thể nhận được rương	Share only once can claim the chest	Chỉ chia sẻ một lần có thể nhận được rương
+SharePanel_013	1.11E+23	1.11E+23		1.11E+23
+SharePanel_014	复制链接	Sao chép đường dẫn	Copy Link	Sao chép đường dẫn
+SharePanel_015	立即分享	Chia sẻ ngay bây giờ	Share Now	Chia sẻ ngay bây giờ
+SharePanel_016	每天每个好友点击你的分享就能获得2个雪花同一名好友不重复计算	Bạn có thể nhận được 2 bông tuyết sau khi mỗi người bạn của bạn nhấn vào liên kết chia sẻ của bạn hàng ngày.	You can obtain 2 snowflakes              after each one of your friends tapping your share link daily.	Bạn có thể nhận được 2 bông tuyết sau khi mỗi người bạn của bạn nhấn vào liên kết chia sẻ của bạn hàng ngày.
+SharePanel_017	New Label	Nhãn mới		Nhãn mới
+SharePanel_018	今日获得	Hiện hành	Current	Hiện hành
+ShopPanel_001	道具	Vật phẩm		Vật phẩm
+ShopPanel_002	冰棍	Kem que		Kem que
+ShopPanel_003	50	50		50
+ShopPanel_004	已拥有	Có	Have	Có
+ShopPanel_005	11111	11111		11111
+ShopPanel_006	冰棍	Kem que		Kem que
+ShopPanel_007	冰棍	Kem que		Kem que
+ShopPanel_008	50	50		50
+ShopPanel_009	剩余30天	Đếm ngược 30 ngày	Countdown 30 days	Đếm ngược 30 ngày
+ShopPanel_010	50	50		50
+ShopPanel_011	50	50		50
+ShopPanel_012	50	50		50
+ShopPanel_013	冰棍	Kem que		Kem que
+ShopPanel_014	50	50		50
+ShopPanel_015	已拥有	Đã mở khóa	Unlocked	Đã mở khóa
+ShopPanel_016	x2	x2		x2
+ShopPanel_017	惊喜礼盒	Hộp quà bất ngờ		Hộp quà bất ngờ
+ShopPanel_018	50	50		50
+ShopPanel_019	夺宝	Kho báu	Treasure	Kho báu
+ShopPanel_020	X	X	X	X
+ShopPanel_021	今日限购  0/10	Thời gian còn lại hôm nay:	Remaining times today:	Thời gian còn lại hôm nay:
+ShopPanel_022	今日限购  0/10	Thời gian còn lại hôm nay:	Remaining times today:	Thời gian còn lại hôm nay:
+ShopPanel_023	抽中已拥有的皮肤将返还50%雪花	Bạn sẽ nhận được 50% bông tuyết so với giá gốc sau khi mở khóa nhiều lần cùng một loại da	You will get 50% snowflakes of the original price feedback after unlocking the same skin repeatedly	Bạn sẽ nhận được 50% bông tuyết so với giá gốc sau khi mở khóa nhiều lần cùng một loại da
+SignPanel_001	金币	Vàng	Gold	Vàng
+SignPanel_002	第一天	1 ngày	Day 1	1 ngày
+SignPanel_003	金币	Vàng	Gold	Vàng
+SignPanel_004	第一天	1 ngày	Day 1	1 ngày
+SignPanel_005	领取	Yêu cầu	Claim	Yêu cầu
+StartPanel_001	账号设置	Tài khoản	Account	Tài khoản
+StartPanel_002	附送	Gắn	Attach	Gắn
+StartPanel_003	修改密码	Chuyển đổi	Modify	Chuyển đổi
+StartPanel_004	账号登陆	Đăng nhập	Login	Đăng nhập
+StartPanel_005	注册账号	Đăng ký	Register	Đăng ký
+StartPanel_006	返回	Trở lại	Back	Trở lại
+StartPanel_007	抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.	Search Zuki in facebook fan page to join us.	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.
+StartPanel_008	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_009	用户名	Tên tài khoản	Username	Tên tài khoản
+StartPanel_010	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_011	密码	Mật khẩu	Password	Mật khẩu
+StartPanel_012	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_013	确认密码	Xác nhận	Confirm	Xác nhận
+StartPanel_014	确认	OK	OK	OK
+StartPanel_015	账号注册	Đăng ký	Register	Đăng ký
+StartPanel_016	随机账号	Đăng ký nhanh	Quick Register	Đăng ký nhanh
+StartPanel_017	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_018	用户名	Tên tài khoản	Username	Tên tài khoản
+StartPanel_019	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_020	密码	Mật khẩu	Password	Mật khẩu
+StartPanel_021	确认	VÂNG	OK	VÂNG
+StartPanel_022	账号登陆	Đăng nhập	Login	Đăng nhập
+StartPanel_023	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_024	用户名	Tên tài khoản	Username	Tên tài khoản
+StartPanel_025	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_026	原密码	Mật khẩu	Password	Mật khẩu
+StartPanel_027	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_028	新密码	Mật khẩu mới	New Password	Mật khẩu mới
+StartPanel_029	确认	OK	OK	OK
+StartPanel_030	修改密码	Thay đổi mật khẩu	Modify password	Thay đổi mật khẩu
+StartPanel_031	6~18位字符	6 ～ 18 chữ cái	6 ～ 18 letters	6 ～ 18 chữ cái
+StartPanel_032	确认密码	Xác nhận	Confirm	Xác nhận
+StartPanel_033	抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.	Search Zuki in facebook fan page to join us.	Tìm kiếm Zuki trong trang người hâm mộ facebook để tham gia với chúng tôi.
+StartPanel_034	New Label	Nhãn mới		Nhãn mới
+StartPanel_035	当前版本:	Phiên bản:	Version:	Phiên bản:
+StartPanel_036	开始游戏	Bắt đầu	Start	Bắt đầu
+TeamPanel_001	好友	Bạn bè	Friends	Bạn bè
+TeamPanel_002	推荐	RCMD	RCMD	RCMD
+TeamPanel_003	点击这里开始小队聊天	Nhấn vào từ của bạn	Tap in your word	Nhấn vào từ của bạn
+TeamPanel_004	发送	Gửi	Send	Gửi
+TeamPanel_005	开始匹配	Bắt đầu	Start	Bắt đầu
+TeamPanel_006	New Label	Nhãn mới		Nhãn mới
+TeamPanel_007	[队长]	[Đại úy.]	[Capt.]	[Đại úy.]
+TeamPanel_008	11	11		11
+TeamPanel_009	11111111	11111111		11111111
+TeamPanel_010	New Label	Nhãn mới		Nhãn mới
+TeamPanel_011	邀请	Mời	Invite	Mời
+TeamPanel_012	New Label	Nhãn mới		Nhãn mới
+TeamPanel_013	当前没有可邀请的对象	Không có người chơi nào để mời	No players to invite	Không có người chơi nào để mời
+TopPanel_001	一二三四一二三四	Một hai ba bốn một hai ba bốn		Một hai ba bốn một hai ba bốn
+TopPanel_002	999/1999	999/1999		999/1999
+TopPanel_003	1	1		1
+TopPanel_004	钻石屋	Diamond House		Diamond House
+TopPanel_005	6	6		6
+TopPanel_006	1.00E+13	1,00E + 13		1,00E + 13
+TopPanel_007	99999999	99999999		99999999
+TopPanel_008	99999999	99999999		99999999
+UsePanel_001	使用	Sử dụng	Use	Sử dụng
+UsePanel_002	99999	99999		99999
+UsePanel_003	拥有	Có	Have	Có
+UsePanel_004	道具名称	Tên	Name	Tên
+UsePanel_005	-10	-10	-10	-10
+UsePanel_006	10	10	10	10
+UsePanel_007	1/99	1/99		1/99
+UsePanel_008	请选择使用数量	Số lượng	Amount	Số lượng
+UsePanel_009	确认	OK	OK	OK
+UsePanel_010	取消	Hủy bỏ	Cancel	Hủy bỏ
+ZonePanel_001	2.11E+15	2.11E+15		2.11E+15
+ZonePanel_002	30	30		30
+ZonePanel_003	2.11E+15	2.11E+15		2.11E+15
+ZonePanel_004	999999	999999		999999
+ZonePanel_005	角色数量	Anh hùng	Heroes	Anh hùng
+ZonePanel_006	总览	Thông tin	Info	Thông tin
+ZonePanel_007	999999	999999		999999
+ZonePanel_008	头像数量	Avatars	Avatars	Avatars
+ZonePanel_009	999999	999999		999999
+ZonePanel_010	头框数量	Vành	Rims	Vành
+ZonePanel_011	999999	999999		999999
+ZonePanel_012	对战场数	Những trận chiến	Battles	Những trận chiến
+ZonePanel_013	奖杯	Cup	Cup	Cup
+ZonePanel_014	9	9		9
+ZonePanel_015	历史最高	Tốt nhất	Best	Tốt nhất
+ZonePanel_016	账号加成	Tặng kem	Bonus	Tặng kem
+ZonePanel_017	更换头像	Avatar	Avatar	Avatar
+ZonePanel_018	修改昵称	Đổi tên	Rename	Đổi tên
+ZonePanel_019	编辑资料	Chỉnh sửa	Edit	Chỉnh sửa
+ZonePanel_020	点击这里编辑个性签名	Nhấn để chỉnh sửa	Tap to edit	Nhấn để chỉnh sửa
+ZonePanel_021	这个人好像无话可说21322132	Người này dường như không có gì để nói 21322132		Người này dường như không có gì để nói 21322132
+ZonePanel_022	加入黑名单	Bỏ qua	Ignore	Bỏ qua
+ZonePanel_023	添加好友	Thêm bạn	Add Friend	Thêm bạn
+ZonePanel_024	空间首页	Trang cá nhân	Personal Page	Trang cá nhân
+ZonePanel_025	修改昵称	Đổi tên	Rename	Đổi tên
+ZonePanel_026	使用[00ffff]改名卡[-]来修改你的账号昵称	Sử dụng [00ffff] Đổi tên thẻ [-] để thay đổi biệt hiệu của bạn	Use [00ffff]Rename Card[-] to change your nickname	Sử dụng [00ffff] Đổi tên thẻ [-] để thay đổi biệt hiệu của bạn
+ZonePanel_027	点击昵称可自定义输入	Nhấn vào tên để chỉnh sửa	Tap the name to edit	Nhấn vào tên để chỉnh sửa
+ZonePanel_028	点击输入	Nhấn để nhập	Tap to input	Nhấn để nhập
+ZonePanel_029	确认	OK	OK	OK
+ZonePanel_030	取消	Hủy bỏ	Cancel	Hủy bỏ
+ZonePanel_031	点击昵称可自定义输入	Nhấn vào tên để chỉnh sửa	Tap the name to edit	Nhấn vào tên để chỉnh sửa
+ZonePanel_032	编辑资料	Chỉnh sửa	Edit	Chỉnh sửa
+ZonePanel_033	确认	OK	OK	OK
+ZonePanel_034	性别	Giới tính	Gender	Giới tính
+ZonePanel_035	国家/地区	Quốc gia / Khu vực	Country / Region	Quốc gia / Khu vực
+ZonePanel_036	省份	Tiểu bang	State	Tiểu bang
+ZonePanel_037	城市	Thành phố	City	Thành phố
+ZonePanel_038	取消	Hủy bỏ	Cancel	Hủy bỏ
+ZonePanel_039	首页	Trang chủ	Main	Trang chủ
+ZonePanel_040	历史	Lịch sử	History	Lịch sử
+ZonePanel_041	历史	Lịch sử	History	Lịch sử
+ZonePanel_042	9999	9999		9999
+ZonePanel_043	99	99		99
+ZonePanel_044	99	99		99
+ZonePanel_045	2160000	2160000		2160000
+ZonePanel_046	个人竞技	Chế độ Singel	Singel Mode	Chế độ Singel
+ZonePanel_047	15小时亲	15 giờ chuyên nghiệp		15 giờ chuyên nghiệp
+ZonePanel_048	2	2		2
+ZonePanel_049	历史战绩	Kỷ lục	Record	Kỷ lục
+ZonePanel_050	排名	Thứ hạng	Rank	Thứ hạng
+ZonePanel_051	时间	Thời gian	Time	Thời gian
+ZonePanel_052	死亡	Chết	Death	Chết
+ZonePanel_053	得分	Điểm số	Score	Điểm số
+ZonePanel_054	击杀	Giết 	Kill	Giết 
+ZonePanel_055	模式	Chế độ	Mode	Chế độ
+ZonePanel_056	近期无参战记录	Không có kỷ lục	No Record	Không có kỷ lục
+ZonePanel_057	成就	Thành tích	Honor	Thành tích
+ZonePanel_058	未达成任何成就	Không có kỷ lục	No Record	Không có kỷ lục
+ZonePanel_059	吞食天地	Nuốt chửng trái đất		Nuốt chửng trái đất
+ZonePanel_060	New Label	Nhãn mới		Nhãn mới
+ZonePanel_061	全场最佳	MVP	MVP	MVP
+ZonePanel_062	获胜队伍中表现最佳玩家	Nhận điểm cao nhất của đội chiến thắng	Get the best score of winners' team	Nhận điểm cao nhất của đội chiến thắng
+ZonePanel_063	超神	Siêu thần	Godlike	Siêu thần
+ZonePanel_064	不死亡情况下连杀8人以上	Đánh bại 8 người chơi trở lên mà không chết	Beat 8 or more players without death	Đánh bại 8 người chơi trở lên mà không chết
+ZonePanel_065	人头王	Kẻ thống trị	Dominator	Kẻ thống trị
+ZonePanel_066	全场击杀次数最多	Đánh bại số lượng người chơi nhiều nhất	Beat the most amount of players	Đánh bại số lượng người chơi nhiều nhất
