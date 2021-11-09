@@ -5,7 +5,7 @@ local lua_script_
 local main_panel_
 local share_panel_
 
-local chest_btn_
+-- local chest_btn_
 local url_label_ 
 local share_code_
 local jewel_slider_
@@ -28,13 +28,13 @@ function SharePanel.Awake(obj)
 	local copy_btn = main_panel_:Find('copy_btn')
 	local share_btn = main_panel_:Find('share_btn')
 	local hide_btn = share_panel_:Find('hide_btn')
-	chest_btn_ = main_panel_:Find("chest_btn")
+	-- chest_btn_ = main_panel_:Find("chest_btn")
 	
 	lua_script_:AddButtonEvent(close_btn.gameObject, "click", SharePanel.Click)
 	lua_script_:AddButtonEvent(copy_btn.gameObject, "click", SharePanel.Click)
 	lua_script_:AddButtonEvent(share_btn.gameObject, "click", SharePanel.Click)
 	lua_script_:AddButtonEvent(hide_btn.gameObject, "click", SharePanel.Click)
-	lua_script_:AddButtonEvent(chest_btn_.gameObject, "click", SharePanel.Click)
+	-- lua_script_:AddButtonEvent(chest_btn_.gameObject, "click", SharePanel.Click)
 	
 	local share_view = share_panel_:Find('share_view')
 	
@@ -89,7 +89,7 @@ function SharePanel.Click(obj)
 		toolMgr:copy(self.share_url)
 		GUIRoot.ShowGUI("MessagePanel", {Config.get_t_script_str('SharePanel_001')})
 	elseif(obj.name == "chest_btn") then
-		SharePanel.OpenChest()
+		-- SharePanel.OpenChest()
 	elseif(obj.name == "wxm_btn") then
 		SharePanel.Share(2, share_type_)
 	elseif(obj.name == "wx_btn") then
@@ -130,14 +130,14 @@ end
 function SharePanel.InitPanel()
 	if(lua_script_ ~= nil) then
 		if (self.player.fenxiang_state == 2) then
-			chest_btn_:GetComponent("UISprite").spriteName = "b1_gray"
-			chest_btn_:Find("Label"):GetComponent("UILabel").text = Config.get_t_script_str('SharePanel_002') --"已领取"
+			-- chest_btn_:GetComponent("UISprite").spriteName = "b1_gray"
+			-- chest_btn_:Find("Label"):GetComponent("UILabel").text = Config.get_t_script_str('SharePanel_002') --"已领取"
 		elseif(self.player.fenxiang_state == 0) then
-			chest_btn_:GetComponent("UISprite").spriteName = "b1"
-			chest_btn_:Find("Label"):GetComponent("UILabel").text = Config.get_t_script_str('SharePanel_003') --"查看"
+			-- chest_btn_:GetComponent("UISprite").spriteName = "b1"
+			-- chest_btn_:Find("Label"):GetComponent("UILabel").text = Config.get_t_script_str('SharePanel_003') --"查看"
 		elseif(self.player.fenxiang_state == 1) then
-			chest_btn_:GetComponent("UISprite").spriteName = "b1_green"
-			chest_btn_:Find("Label"):GetComponent("UILabel").text = Config.get_t_script_str('SharePanel_004') --"领取"
+			-- chest_btn_:GetComponent("UISprite").spriteName = "b1_green"
+			-- chest_btn_:Find("Label"):GetComponent("UILabel").text = Config.get_t_script_str('SharePanel_004') --"领取"
 		end
 		share_panel_.gameObject:SetActive(false)
 		main_panel_:Find("icon"):GetComponent("UISprite").spriteName = Config.get_t_chest(301).icon

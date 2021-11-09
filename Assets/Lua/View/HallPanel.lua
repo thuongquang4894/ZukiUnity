@@ -24,7 +24,7 @@ local maxh_ = 0
 local viewh_ = 140
 local line_ = 10
 
-local chest_btn_
+--local chest_btn_
 
 local role_btn
 local achiv_btn
@@ -98,7 +98,7 @@ function HallPanel.Awake(obj)
 	
 	item_view_pos_ = item_view_.transform.localPosition
 
-	chest_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/chest_btn')
+	--chest_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/chest_btn')
 	--table.insert(top_right_btns_, chest_btn_)
 	role_btn = obj.transform:Find('Anchor_bottom_left/chat_panel/role_btn')
 	local item_btn = obj.transform:Find('Anchor_bottom_left/chat_panel/item_btn')
@@ -163,7 +163,7 @@ function HallPanel.Awake(obj)
 	lua_script_:AddButtonEvent(battle_item_btn_.gameObject, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(rank_btn.gameObject, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(close_item_btn.gameObject, "click", HallPanel.Click)
-	lua_script_:AddButtonEvent(chest_btn_.gameObject, "click", HallPanel.Click)
+	--lua_script_:AddButtonEvent(chest_btn_.gameObject, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(mode_close_btn.gameObject, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(mode_detail_close, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(vip_close_btn, "click", HallPanel.Click)
@@ -367,7 +367,7 @@ function HallPanel.Update()
 			if(get_time_[i] >= 2) then
 				get_time_[i] = -1
 				icon_p:SetActive(false)
-				chest_btn_:GetComponent('Animator'):Play('get_end')
+				--chest_btn_:GetComponent('Animator'):Play('get_end')
 			end
 		end
 	end
@@ -381,27 +381,27 @@ function HallPanel.GetChest(slot)
 end
 
 function HallPanel.RefreshChest()
-	local tip = chest_btn_:Find("tip").gameObject
-	tip:SetActive(false)
-	if(self.player.box_open_slot == 0) then
-		local id = 0
-		for i = 1, #self.player.box_ids do
-			if(self.player.box_ids[i] ~= 0) then
-				id = self.player.box_ids[i]
-			end
-		end
-		if(id > 0) then
-			tip:SetActive(true)
-		end
-	else
-		if(tonumber(timerMgr:now_string()) >= tonumber(self.player.box_open_time)) then
-			tip:SetActive(true)
-		end
-	end
-	local batt_num = Config.get_t_chest(201).time
-	if(self.player.box_zd_opened == 0 and self.player.box_zd_num == batt_num) then
-		tip:SetActive(true)
-	end
+	-- local tip = chest_btn_:Find("tip").gameObject
+	-- tip:SetActive(false)
+	-- if(self.player.box_open_slot == 0) then
+	-- 	local id = 0
+	-- 	for i = 1, #self.player.box_ids do
+	-- 		if(self.player.box_ids[i] ~= 0) then
+	-- 			id = self.player.box_ids[i]
+	-- 		end
+	-- 	end
+	-- 	if(id > 0) then
+	-- 		tip:SetActive(true)
+	-- 	end
+	-- else
+	-- 	if(tonumber(timerMgr:now_string()) >= tonumber(self.player.box_open_time)) then
+	-- 		tip:SetActive(true)
+	-- 	end
+	-- end
+	-- local batt_num = Config.get_t_chest(201).time
+	-- if(self.player.box_zd_opened == 0 and self.player.box_zd_num == batt_num) then
+	-- 	tip:SetActive(true)
+	-- end
 end
 
 ----------------------------------------
@@ -1222,8 +1222,8 @@ function HallPanel.Click(obj)
 		FriendPanel.SocialLook(2)
 		--GameTcp.Send(opcodes.CMSG_TEAM_TUIJIAN, nil, {opcodes.SMSG_TEAM_TUIJIAN})
 	elseif(obj.name == 'chest_btn') then
-		GUIRoot.HideGUI('HallPanel')
-		GUIRoot.ShowGUI('ChestShowPanel')
+		-- GUIRoot.HideGUI('HallPanel')
+		-- GUIRoot.ShowGUI('ChestShowPanel')
 	elseif(obj.name == 'mode_close_btn') then
 		HallPanel.HideModePanel()
 	elseif(obj.name == 'mode_detail_close') then
