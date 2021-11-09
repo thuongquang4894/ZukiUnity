@@ -35,7 +35,7 @@ local friend_btn_
 local vip_btn_
 local duobao_btn_
 local first_btn_
-local rewardeview_btn_
+--local rewardeview_btn_
 
 local top_right_btns_ = {}
 
@@ -125,7 +125,7 @@ function HallPanel.Awake(obj)
 	if(platform_config_common.m_platform == "android_yymoon") then
 		vip_btn_.gameObject:SetActive(false);
 	end
-	rewardeview_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/rewarde_vedio')
+	--rewardeview_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/rewarde_vedio')
 	duobao_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/duobao_btn')
 	--table.insert(top_right_btns_, first_btn_)
 	--table.insert(top_right_btns_, vip_btn_)
@@ -174,7 +174,7 @@ function HallPanel.Awake(obj)
 	lua_script_:AddButtonEvent(first_recharg_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(first_close_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(duobao_btn_.gameObject, "click", HallPanel.Click)
-	lua_script_:AddButtonEvent(rewardeview_btn_.gameObject, "click", HallPanel.Click)
+	--lua_script_:AddButtonEvent(rewardeview_btn_.gameObject, "click", HallPanel.Click)
 	
 	item_panel_.gameObject:SetActive(false)
 	mode_panel_.gameObject:SetActive(false)
@@ -407,11 +407,11 @@ end
 ----------------------------------------
 function HallPanel.UpdateVideo()
 	if ((self.player.advertisement_num < 5) and (tonumber(self.player.advertisement_time) + 300000) <= tonumber(timerMgr:now_string())) then
-		rewardeview_btn_:Find("tip").gameObject:SetActive(true)
-		rewardeview_btn_.gameObject:SetActive(true)
+		--rewardeview_btn_:Find("tip").gameObject:SetActive(true)
+		--rewardeview_btn_.gameObject:SetActive(true)
 	else
-		rewardeview_btn_:Find("tip").gameObject:SetActive(false)
-		rewardeview_btn_.gameObject:SetActive(false)
+		--rewardeview_btn_:Find("tip").gameObject:SetActive(false)
+		--rewardeview_btn_.gameObject:SetActive(false)
 	end
 
 end
@@ -682,7 +682,7 @@ function HallPanel.ShowTip()
 		vip_btn_:Find("tip").gameObject:SetActive(false)
 		first_btn_:Find("tip").gameObject:SetActive(false)
 		duobao_btn_:Find("tip").gameObject:SetActive(false)
-		rewardeview_btn_:Find("tip").gameObject:SetActive(false)
+		--rewardeview_btn_:Find("tip").gameObject:SetActive(false)
 		if(self.is_role_show > 0) then
 			role_btn:Find("tip").gameObject:SetActive(true)
 			role_btn:Find("tip/Label"):GetComponent("UILabel").text = self.is_role_show
@@ -728,11 +728,11 @@ function HallPanel.ShowTip()
 			duobao_btn_:Find("tip").gameObject:SetActive(true)
 		end
 		if ((self.player.advertisement_num < 5) and (tonumber(self.player.advertisement_time) + 300000) < tonumber(timerMgr:now_string())) then
-			rewardeview_btn_:Find("tip").gameObject:SetActive(true)
-			rewardeview_btn_.gameObject:SetActive(true)
+			--rewardeview_btn_:Find("tip").gameObject:SetActive(true)
+			--rewardeview_btn_.gameObject:SetActive(true)
 		else
-			rewardeview_btn_:Find("tip").gameObject:SetActive(false)
-			rewardeview_btn_.gameObject:SetActive(false)
+			--rewardeview_btn_:Find("tip").gameObject:SetActive(false)
+			--rewardeview_btn_.gameObject:SetActive(false)
 		end
 		--local ix = 0
 		--local iy_index = 0
