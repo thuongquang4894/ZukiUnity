@@ -681,7 +681,7 @@ function HallPanel.ShowTip()
 		friend_btn_:Find("tip").gameObject:SetActive(false)
 		--vip_btn_:Find("tip").gameObject:SetActive(false)
 		-- first_btn_:Find("tip").gameObject:SetActive(false)
-		duobao_btn_:Find("tip").gameObject:SetActive(false)
+		-- duobao_btn_:Find("tip").gameObject:SetActive(false)
 		--rewardeview_btn_:Find("tip").gameObject:SetActive(false)
 		if(self.is_role_show > 0) then
 			role_btn:Find("tip").gameObject:SetActive(true)
@@ -725,7 +725,7 @@ function HallPanel.ShowTip()
 		end
 			
 		if(self.player.duobao_num < 10) then
-			duobao_btn_:Find("tip").gameObject:SetActive(true)
+			-- duobao_btn_:Find("tip").gameObject:SetActive(true)
 		end
 		if ((self.player.advertisement_num < 5) and (tonumber(self.player.advertisement_time) + 300000) < tonumber(timerMgr:now_string())) then
 			--rewardeview_btn_:Find("tip").gameObject:SetActive(true)
@@ -1254,7 +1254,7 @@ function HallPanel.Click(obj)
 		end
 	elseif(obj.name == 'duobao_btn') then
 		GUIRoot.HideGUI('HallPanel')
-		GUIRoot.ShowGUI("ShopPanel", {4})
+		GUIRoot.ShowGUI("ShopPanel", {1})
 	elseif obj.name == 'rank_btn' then
 		GUIRoot.HideGUI('HallPanel')
 		GUIRoot.ShowGUI('RankPanel')

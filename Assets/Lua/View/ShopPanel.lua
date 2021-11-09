@@ -31,7 +31,8 @@ local shop_arrow_
 local recharge_id_ = 0
 local recharge_order_id = ""
 
-local page_name_ = {"item_btn", "role_btn", "effect_btn", "chest_btn", "recharge_btn"}
+-- local page_name_ = {"item_btn", "role_btn", "effect_btn", "chest_btn", "recharge_btn"}
+local page_name_ = {"item_btn"}
 local page_text = {'ShopPanel_001', 'ShopPanel_002', 'ShopPanel_003', 'ShopPanel_004', 'ShopPanel_005','ShopPanel_020'}
 local page_icon = {"daoju", "js", "xueqiu", "bx", "zs"}
 local dj_frame = {"djd-bule", "djd-pul", "djd-gold", "djd-geeen"}
@@ -215,7 +216,7 @@ function ShopPanel.RefreshCurrentEffectInfo()
 			if(self.has_fashion(v.value1)) then
 				price_icon.gameObject:SetActive(false)
 				price_label.gameObject:SetActive(false)
-				shop_t.transform:Find('tip').gameObject:SetActive(true)
+				-- shop_t.transform:Find('tip').gameObject:SetActive(true)
 			end
 		end
 	end
@@ -555,6 +556,7 @@ function ShopPanel.OnDragFinished()
 end
 
 function ShopPanel.SelectPage(page)
+	print('SelectPage : ' .. page)
 	if(is_rolling) then
 		ShopPanel.StopRoll()
 		return
