@@ -32,7 +32,7 @@ local mail_btn_
 local dress_btn_
 local share_btn_
 local friend_btn_
-local vip_btn_
+--local vip_btn_
 local duobao_btn_
 local first_btn_
 --local rewardeview_btn_
@@ -121,9 +121,9 @@ function HallPanel.Awake(obj)
 	if(platform_config_common.m_platform == "android_yymoon") then
 		first_btn_.gameObject:SetActive(false);
 	end
-	vip_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/vip_btn')
+	--vip_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/vip_btn')
 	if(platform_config_common.m_platform == "android_yymoon") then
-		vip_btn_.gameObject:SetActive(false);
+		--vip_btn_.gameObject:SetActive(false);
 	end
 	--rewardeview_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/rewarde_vedio')
 	duobao_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/duobao_btn')
@@ -169,7 +169,7 @@ function HallPanel.Awake(obj)
 	lua_script_:AddButtonEvent(vip_close_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(vip_y_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(vip_m_btn, "click", HallPanel.Click)
-	lua_script_:AddButtonEvent(vip_btn_.gameObject, "click", HallPanel.Click)
+	--lua_script_:AddButtonEvent(vip_btn_.gameObject, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(first_btn_.gameObject, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(first_recharg_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(first_close_btn, "click", HallPanel.Click)
@@ -679,7 +679,7 @@ function HallPanel.ShowTip()
 		achiv_btn:Find("tip").gameObject:SetActive(false)
 		dress_btn_:Find("tip").gameObject:SetActive(false)
 		friend_btn_:Find("tip").gameObject:SetActive(false)
-		vip_btn_:Find("tip").gameObject:SetActive(false)
+		--vip_btn_:Find("tip").gameObject:SetActive(false)
 		first_btn_:Find("tip").gameObject:SetActive(false)
 		duobao_btn_:Find("tip").gameObject:SetActive(false)
 		--rewardeview_btn_:Find("tip").gameObject:SetActive(false)
@@ -1231,7 +1231,7 @@ function HallPanel.Click(obj)
 	elseif(obj.name == 'vip_close_btn') then
 		HallPanel.HideVipPanel()
 	elseif(obj.name == 'vip_btn') then
-		HallPanel.OpenVipPanel()
+		--HallPanel.OpenVipPanel()
 	elseif(obj.name == 'vip_m_btn') then
 		HallPanel.VipOperation(1)
 	elseif(obj.name == 'vip_y_btn') then
