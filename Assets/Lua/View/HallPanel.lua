@@ -34,7 +34,7 @@ local share_btn_
 local friend_btn_
 --local vip_btn_
 local duobao_btn_
-local first_btn_
+-- local first_btn_
 --local rewardeview_btn_
 
 local top_right_btns_ = {}
@@ -117,9 +117,9 @@ function HallPanel.Awake(obj)
 	local vip_close_btn = vip_panel_:Find("main_panel/Anchor/vip_close_btn").gameObject
 	local vip_y_btn = vip_panel_:Find("main_panel/vip_y_btn").gameObject
 	local vip_m_btn = vip_panel_:Find("main_panel/vip_m_btn").gameObject
-	first_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/first_btn')
+	-- first_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/first_btn')
 	if(platform_config_common.m_platform == "android_yymoon") then
-		first_btn_.gameObject:SetActive(false);
+		-- first_btn_.gameObject:SetActive(false);
 	end
 	--vip_btn_ = obj.transform:Find('Anchor_top_right/top_right_panel/vip_btn')
 	if(platform_config_common.m_platform == "android_yymoon") then
@@ -170,7 +170,7 @@ function HallPanel.Awake(obj)
 	lua_script_:AddButtonEvent(vip_y_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(vip_m_btn, "click", HallPanel.Click)
 	--lua_script_:AddButtonEvent(vip_btn_.gameObject, "click", HallPanel.Click)
-	lua_script_:AddButtonEvent(first_btn_.gameObject, "click", HallPanel.Click)
+	-- lua_script_:AddButtonEvent(first_btn_.gameObject, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(first_recharg_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(first_close_btn, "click", HallPanel.Click)
 	lua_script_:AddButtonEvent(duobao_btn_.gameObject, "click", HallPanel.Click)
@@ -680,7 +680,7 @@ function HallPanel.ShowTip()
 		dress_btn_:Find("tip").gameObject:SetActive(false)
 		friend_btn_:Find("tip").gameObject:SetActive(false)
 		--vip_btn_:Find("tip").gameObject:SetActive(false)
-		first_btn_:Find("tip").gameObject:SetActive(false)
+		-- first_btn_:Find("tip").gameObject:SetActive(false)
 		duobao_btn_:Find("tip").gameObject:SetActive(false)
 		--rewardeview_btn_:Find("tip").gameObject:SetActive(false)
 		if(self.is_role_show > 0) then
@@ -719,9 +719,9 @@ function HallPanel.ShowTip()
 		end
 		
 		if(self.player.first_recharge == 1) then
-			first_btn_:Find("tip").gameObject:SetActive(true)
+			-- first_btn_:Find("tip").gameObject:SetActive(true)
 		elseif(self.player.first_recharge == 2) then
-			first_btn_.gameObject:SetActive(false)
+			-- first_btn_.gameObject:SetActive(false)
 		end
 			
 		if(self.player.duobao_num < 10) then
@@ -1237,7 +1237,7 @@ function HallPanel.Click(obj)
 	elseif(obj.name == 'vip_y_btn') then
 		HallPanel.VipOperation(2)
 	elseif(obj.name == 'first_btn') then
-		HallPanel.OpenFirstPanel()
+		-- HallPanel.OpenFirstPanel()
 	elseif(obj.name == 'first_close_btn') then
 		HallPanel.HideFirstPanel()
 	elseif(obj.name == 'first_recharge_btn') then
